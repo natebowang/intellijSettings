@@ -1,0 +1,164 @@
+<keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
+  <action id="ActivateTerminalToolWindow" />
+  <action id="ActivateVersionControlToolWindow" />
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Edit" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="ChangesView.SetDefault" />
+  <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CodeCompletion" />
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="Console.TableResult.NavigateAction" />
+  <action id="ContextHelp" />
+  <action id="CopyElement" />
+  <action id="DSM.OpenInEditor" />
+  <action id="DatabaseView.CopyTable" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="Debugger.EditArrayFilter" />
+  <action id="Debugger.EditFrameSource" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="DomCollectionControl.Edit" />
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
+  <action id="EditSource" />
+  <action id="EditorSelectWord" />
+  <action id="EditorSplitLine" />
+  <action id="ExternalSystem.OpenConfig" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="GotoLine" />
+  <action id="GotoNextError" />
+  <action id="GotoNextIncompletePropertyAction" />
+  <action id="Graph.ApplyCurrentLayout" />
+  <action id="Graph.Faces.OpenSelectedPages" />
+  <action id="Groovy.Shell.Execute" />
+  <action id="GuiDesigner.EditComponent" />
+  <action id="GuiDesigner.EditGroup" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="Jdbc.OpenEditor" />
+  <action id="JumpToLastWindow" />
+  <action id="KotlinShellExecute" />
+  <action id="MethodDown" />
+  <action id="MethodHierarchy">
+    <keyboard-shortcut first-keystroke="alt 7" />
+  </action>
+  <action id="MethodUp" />
+  <action id="Move" />
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="NavBar-navigate" />
+  <action id="NextDiff" />
+  <action id="OpenModuleSettings" />
+  <action id="ProjectViewEditSource" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="RemoteHostView.EditSource" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="ShowContent" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="ShowSearchHistory" />
+  <action id="ShowUmlDiagramPopup">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Sql.EditParameter" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="ToggleBookmark" />
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
+  <action id="Vcs.EditSource" />
+  <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.ToggleAmendCommitMode" />
+  <action id="ViewSource" />
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.JumpToSource" />
+  <action id="XDebugger.MoveWatchDown" />
+  <action id="XDebugger.MoveWatchUp" />
+  <action id="XDebugger.SetValue" />
+  <action id="tasks.open.in.browser">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+</keymap>
