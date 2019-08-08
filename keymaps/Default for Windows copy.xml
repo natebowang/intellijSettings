@@ -32,6 +32,8 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -46,10 +48,12 @@
   </action>
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditFrameSource" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="DomCollectionControl.Edit" />
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
   <action id="EditSource" />
   <action id="EditorSelectWord" />
+  <action id="EditorSplitLine" />
   <action id="ExternalSystem.OpenConfig" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="ctrl l" />
@@ -71,6 +75,7 @@
   <action id="GotoNextIncompletePropertyAction" />
   <action id="Graph.ApplyCurrentLayout" />
   <action id="Graph.Faces.OpenSelectedPages" />
+  <action id="Groovy.Shell.Execute" />
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
   <action id="HideAllWindows">
@@ -78,6 +83,7 @@
   </action>
   <action id="Jdbc.OpenEditor" />
   <action id="JumpToLastWindow" />
+  <action id="KotlinShellExecute" />
   <action id="MethodDown" />
   <action id="MethodHierarchy">
     <keyboard-shortcut first-keystroke="alt 7" />
@@ -117,6 +123,9 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="ShowContent" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="ShowSearchHistory" />
   <action id="ShowUmlDiagramPopup">
     <keyboard-shortcut first-keystroke="f4" />
@@ -141,6 +150,7 @@
   <action id="Vcs.EditSource" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.ToggleAmendCommitMode" />
+  <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.JumpToSource" />
   <action id="XDebugger.MoveWatchDown" />
