@@ -50,11 +50,6 @@
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
   <action id="EditSource" />
   <action id="EditorSelectWord" />
-  <action id="ExpandRegion">
-    <keyboard-shortcut first-keystroke="ctrl add" />
-    <keyboard-shortcut first-keystroke="ctrl equals" />
-    <keyboard-shortcut first-keystroke="z" second-keystroke="a" />
-  </action>
   <action id="ExternalSystem.OpenConfig" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="ctrl l" />
