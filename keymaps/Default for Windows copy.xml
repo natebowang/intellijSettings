@@ -53,6 +53,9 @@
   </action>
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
+  <action id="ShowUmlDiagramPopup">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
