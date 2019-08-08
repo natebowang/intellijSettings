@@ -1,10 +1,26 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
+  <action id="ActivateTerminalToolWindow" />
+  <action id="ActivateVersionControlToolWindow" />
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
   <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
   <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="EditorSelectWord" />
@@ -19,6 +35,9 @@
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
   <action id="MethodDown" />
+  <action id="MethodHierarchy">
+    <keyboard-shortcut first-keystroke="alt 7" />
+  </action>
   <action id="MethodUp" />
   <action id="MoveStatementDown">
     <keyboard-shortcut first-keystroke="alt down" />
@@ -34,6 +53,10 @@
   </action>
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
+  <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="XDebugger.MoveWatchDown" />
   <action id="XDebugger.MoveWatchUp" />
