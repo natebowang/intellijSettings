@@ -1,0 +1,7 @@
+<templateSet group="Nate">
+  <template name="test" value="testnate" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
