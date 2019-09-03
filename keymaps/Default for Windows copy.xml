@@ -105,6 +105,7 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="RecentFiles" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
@@ -145,12 +146,16 @@
   <action id="Stop">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="ToggleBookmark" />
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
   <action id="Vcs.EditSource" />
   <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
