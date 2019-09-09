@@ -1,0 +1,10 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="/usr/local/lib64/openjdk-11.0.2/bin/java -javaagent:/usr/local/lib64/idea-IU-192.5728.98/lib/idea_rt.jar=45712:/usr/local/lib64/idea-IU-192.5728.98/bin -Dfile.encoding=UTF-8 -classpath /wbfile/draft/NettyLearn/target/classes:/home/wangbo/.m2/repository/io/netty/netty-all/4.1.38.Final/netty-all-4.1.38.Final.jar:/home/wangbo/.m2/repository/org/mockito/mockito-core/3.0.0/mockito-core-3.0.0.jar:/home/wangbo/.m2/repository/net/bytebuddy/byte-buddy/1.9.10/byte-buddy-1.9.10.jar:/home/wangbo/.m2/repository/net/bytebuddy/byte-buddy-agent/1.9.10/byte-buddy-agent-1.9.10.jar:/home/wangbo/.m2/repository/org/objenesis/objenesis/2.6/objenesis-2.6.jar info.natebowang.Main" />
+        <option value="/usr/local/lib64/openjdk-11.0.2/bin/java -javaagent:/usr/local/lib64/idea-IU-192.5728.98/lib/idea_rt.jar=37016:/usr/local/lib64/idea-IU-192.5728.98/bin -Dfile.encoding=UTF-8 -classpath /wbfile/draft/NettyLearn/target/classes:/home/wangbo/.m2/repository/io/netty/netty-all/4.1.38.Final/netty-all-4.1.38.Final.jar:/home/wangbo/.m2/repository/org/mockito/mockito-core/3.0.0/mockito-core-3.0.0.jar:/home/wangbo/.m2/repository/net/bytebuddy/byte-buddy/1.9.10/byte-buddy-1.9.10.jar:/home/wangbo/.m2/repository/net/bytebuddy/byte-buddy-agent/1.9.10/byte-buddy-agent-1.9.10.jar:/home/wangbo/.m2/repository/org/objenesis/objenesis/2.6/objenesis-2.6.jar info.natebowang.Main" />
+      </list>
+    </option>
+  </component>
+</application>
