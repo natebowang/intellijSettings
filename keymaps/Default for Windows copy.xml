@@ -34,6 +34,18 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CodeCompletion" />
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="shift ctrl subtract" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
   <action id="Console.TableResult.EditValue">
@@ -56,6 +68,20 @@
   <action id="EditSource" />
   <action id="EditorSelectWord" />
   <action id="EditorSplitLine" />
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="ctrl multiply" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="shift ctrl add" />
+  </action>
+  <action id="ExpandToLevel1" />
+  <action id="ExpandToLevel2" />
+  <action id="ExpandToLevel3" />
+  <action id="ExpandToLevel4" />
+  <action id="ExpandToLevel5" />
   <action id="ExternalSystem.OpenConfig" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="ctrl l" />
@@ -75,6 +101,9 @@
   <action id="GotoLine" />
   <action id="GotoNextError" />
   <action id="GotoNextIncompletePropertyAction" />
+  <action id="Graph.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
   <action id="Graph.ApplyCurrentLayout" />
   <action id="Graph.Faces.OpenSelectedPages" />
   <action id="Groovy.Shell.Execute" />
@@ -82,6 +111,9 @@
   <action id="GuiDesigner.EditGroup" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
   <action id="Jdbc.OpenEditor" />
   <action id="JumpToLastWindow" />
