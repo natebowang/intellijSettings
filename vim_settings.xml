@@ -22,6 +22,7 @@
         <entry>JSON</entry>
         <entry>json</entry>
         <entry>console</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -106,11 +107,11 @@
       <file name="/Dummy.txt" timestamp="1612469802865">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1612558533859">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="38" column="33" />
+      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1612562445237">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="47" column="68" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="66" column="83" />
       </file>
       <file name="/wbfile/draft/user-endpoint-nodejs/routes/blog.js" timestamp="1612426166134">
         <mark key="'" line="15" column="16" />
@@ -119,20 +120,17 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="46" />
       </file>
-      <file name="/wbfile/project/ibot-backend/routes/singup.test.js" timestamp="1612558555249">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="28" column="27" />
+      <file name="/wbfile/project/ibot-backend/routes/singup.test.js" timestamp="1612562556971">
+        <mark key="[" line="54" column="75" />
+        <mark key="]" line="54" column="47" />
+        <mark key="." line="54" column="46" />
+        <mark key="^" line="54" column="47" />
       </file>
       <file name="/PostgreSQL Fragment (signup.js:893).sql" timestamp="1612425403790">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="3" />
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
-      </file>
-      <file name="/wbfile/project/ibot-backend/node_modules/body-parser/index.js" timestamp="1612405248566">
-        <mark key="'" line="108" column="5" />
       </file>
       <file name="/wbfile/draft/user-endpoint-nodejs/routes/blog.test.js" timestamp="1612487209930">
         <mark key="[" line="30" column="0" />
@@ -145,12 +143,11 @@
         <mark key="]" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="/wbfile/project/ibot-backend/app.js" timestamp="1612470593239">
+      <file name="/wbfile/project/ibot-backend/app.js" timestamp="1612561308224">
         <mark key="j" line="8" column="0" />
-        <mark key="[" line="28" column="29" />
-        <mark key="]" line="28" column="30" />
-        <mark key="." line="28" column="30" />
-        <mark key="^" line="28" column="30" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="/a.sql" timestamp="1612469802834">
         <mark key="[" line="0" column="0" />
@@ -275,48 +272,56 @@
       <jump line="30" column="16" filename="/wbfile/draft/user-endpoint-nodejs/routes/blog.js" />
       <jump line="50" column="20" filename="/wbfile/draft/user-endpoint-nodejs/routes/blog.js" />
       <jump line="15" column="16" filename="/wbfile/draft/user-endpoint-nodejs/routes/blog.js" />
+      <jump line="51" column="63" filename="/wbfile/project/ibot-backend/routes/signup.js" />
+      <jump line="29" column="4" filename="/wbfile/project/ibot-backend/routes/signup.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>header, body</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>header, body</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkdXBsaWNhdGVDaGVja1Jlc3VsdCA9IGF3YWl0IHBnUG9vbC5xdWVyeSgKICAgICAgICAgICAgJ1NFTEVDVCB1c2VybmFtZSBGUk9NIHVzZXJzIFdIRVJFIHVzZXJuYW1lPSQxOycsCiAgICAgICAgICAgIFt1c2VybmFtZV0KICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QodGV4dCkudG9FcXVhbCgnNDIyOiBFbXB0eSB1c2VybmFtZSBvciB3cm9uZyB1c2VybmFtZSBmb3JtYXQuJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QoYm9keSkudG9NYXRjaE9iamVjdCh7CiAgICAgICAgICAgIHVzZXJuYW1lOiB1c2VybmFtZSwKICAgICAgICAgICAgZW1haWw6IHVzZXJuYW1lLAogICAgICAgICAgICBwaG9uZTogbnVsbCwKICAgICAgICAgICAgYXZhdGFyOiBudWxsLAogICAgICAgICAgICB1c2VyX3N0YXRlOiAxCiAgICAgICAgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhoZWFkZXIpOwogICAgICAgIC8vIGNvbnNvbGUubG9nKGJvZHkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAnREVMRVRFIEZST00gdXNlcnMgV0hFUkUgdXNlcm5hbWU9JDE7JywKICAgICAgICAgICAgW3VzZXJuYW1lXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlVXNlck9iamVjdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QoYm9keSkudG9NYXRjaE9iamVjdCh7CiAgICAgICAgICAgIHVzZXJuYW1lOiB1c2VybmFtZSwKICAgICAgICAgICAgZW1haWw6IHVzZXJuYW1lLAogICAgICAgICAgICBwaG9uZTogbnVsbCwKICAgICAgICAgICAgYXZhdGFyOiBudWxsLAogICAgICAgICAgICB1c2VyX3N0YXRlOiAxCiAgICAgICAgfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzc3dvcmQ6ICdhJwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhc3N3b3JkVmFsaWRhdGVSZXN1bHRBcnJheSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhc3N3b3JkVmFsaWRhdGVSZXN1bHRBcnJheSkKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2VybmFtZTogdXNlcm5hbWUsCiAgICAgICAgICAgICAgICAgICAgZW1haWw6IHVzZXJuYW1lLAogICAgICAgICAgICAgICAgICAgIHBob25lOiBudWxsLAogICAgICAgICAgICAgICAgICAgIGF2YXRhcjogbnVsbAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5ib2R5KQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGluc2VydFJlc3VsdCkK</text>
+      <register name="8" type="4">
+        <text>toMatchObject({
+            username: username,
+            email: username,
+            phone: null,
+            avatar: null,
+            user_state: 1
+        })</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHVzZXJuYW1lID0gJ3Rlc3R1c2VyMUBlbWFpbC5jb20nOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -325,9 +330,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>console</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
