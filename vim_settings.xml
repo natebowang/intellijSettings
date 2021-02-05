@@ -2,6 +2,34 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>mongo</entry>
+        <entry>await</entry>
+        <entry>request</entry>
+        <entry>html</entry>
+        <entry>relative</entry>
+        <entry>离开</entry>
+        <entry>value</entry>
+        <entry>decra</entry>
+        <entry>red</entry>
+        <entry>left</entry>
+        <entry>hover</entry>
+        <entry>test</entry>
+        <entry>carou</entry>
+        <entry>path.join</entry>
+        <entry>JSON</entry>
+        <entry>json</entry>
+        <entry>console</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
@@ -65,6 +93,244 @@
         <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/wbfile/project/ibot-backend/routes/login.js" timestamp="1612469727073">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="4" column="33" />
+        <mark key="^" line="4" column="33" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1612469802865">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1612558533859">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="38" column="33" />
+      </file>
+      <file name="/wbfile/draft/user-endpoint-nodejs/routes/blog.js" timestamp="1612426166134">
+        <mark key="'" line="15" column="16" />
+      </file>
+      <file name="/wbfile/draft/user-endpoint-nodejs/app.js" timestamp="1612405533946">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="46" />
+      </file>
+      <file name="/wbfile/project/ibot-backend/routes/singup.test.js" timestamp="1612558555249">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="28" column="27" />
+      </file>
+      <file name="/PostgreSQL Fragment (signup.js:893).sql" timestamp="1612425403790">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+      </file>
+      <file name="/wbfile/project/ibot-backend/node_modules/body-parser/index.js" timestamp="1612405248566">
+        <mark key="'" line="108" column="5" />
+      </file>
+      <file name="/wbfile/draft/user-endpoint-nodejs/routes/blog.test.js" timestamp="1612487209930">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="20" column="32" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="/wbfile/project/ibot-backend/routes/user.js" timestamp="1612405516633">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+      </file>
+      <file name="/wbfile/project/ibot-backend/app.js" timestamp="1612470593239">
+        <mark key="j" line="8" column="0" />
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="28" column="30" />
+        <mark key="." line="28" column="30" />
+        <mark key="^" line="28" column="30" />
+      </file>
+      <file name="/a.sql" timestamp="1612469802834">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/wbfile/project/ibot-backend/db/connection.js" timestamp="1612421908462">
+        <mark key="[" line="27" column="27" />
+        <mark key="]" line="27" column="30" />
+        <mark key="." line="27" column="30" />
+        <mark key="^" line="27" column="30" />
+      </file>
+      <file name="/wbfile/project/ibot-backend/db/ibot_postgres.sql" timestamp="1612557883503">
+        <mark key="'" line="53" column="19" />
+        <mark key="[" line="14" column="50" />
+        <mark key="]" line="14" column="51" />
+        <mark key="^" line="22" column="62" />
+        <mark key="." line="14" column="51" />
+      </file>
+      <file name="/wbfile/draft/user-endpoint-nodejs/package.json" timestamp="1612407077278">
+        <mark key="[" line="22" column="26" />
+        <mark key="]" line="22" column="26" />
+        <mark key="^" line="15" column="38" />
+        <mark key="." line="22" column="26" />
+      </file>
+      <file name="/ibot.public.users" timestamp="1612422420652">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/wbfile/draft/user-endpoint-nodejs/routes/user.js" timestamp="1612425706827">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="64" column="146" />
+      </file>
+      <file name="/users [PostgreSQL - postgres@localhost]" timestamp="1612422420627">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/signup" timestamp="1612422052808">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1612422421114">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="15" column="0" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/Currying.java" />
+      <jump line="80" column="0" filename="/wbfile/draft/NettyLearn/pom.xml" />
+      <jump line="96" column="45" filename="/wbfile/draft/NettyLearn/pom.xml" />
+      <jump line="16" column="10" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/Jooq.java" />
+      <jump line="19" column="65" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/NettyServer.java" />
+      <jump line="63" column="25" filename="/wbfile/draft/NettyLearn/pom.xml" />
+      <jump line="64" column="24" filename="/wbfile/draft/NettyLearn/pom.xml" />
+      <jump line="157" column="0" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/PrintDocumentSubscriber.java" />
+      <jump line="20" column="55" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/Mongodb.java" />
+      <jump line="124" column="9" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/SubscriberHelpers.java" />
+      <jump line="86" column="39" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/SubscriberHelpers.java" />
+      <jump line="88" column="23" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/SubscriberHelpers.java" />
+      <jump line="79" column="19" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/SubscriberHelpers.java" />
+      <jump line="82" column="39" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/SubscriberHelpers.java" />
+      <jump line="83" column="19" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/SubscriberHelpers.java" />
+      <jump line="85" column="0" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/SubscriberHelpers.java" />
+      <jump line="87" column="25" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/SubscriberHelpers.java" />
+      <jump line="99" column="37" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/SubscriberHelpers.java" />
+      <jump line="108" column="16" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/SubscriberHelpers.java" />
+      <jump line="0" column="0" filename="/wbfile/project/frontend/webpack.config.js" />
+      <jump line="7" column="10" filename="/wbfile/project/frontend/webpack.config.js" />
+      <jump line="71" column="19" filename="/wbfile/project/ibot-frontend/src-app/view/Home.js" />
+      <jump line="15" column="26" filename="/wbfile/project/ibot-frontend/src-app/main.js" />
+      <jump line="9" column="37" filename="/wbfile/project/ibot-frontend/src-app/view/Home.js" />
+      <jump line="43" column="15" filename="/wbfile/project/ibot-frontend/src-app/view/Home.js" />
+      <jump line="14" column="15" filename="/wbfile/project/ibot-frontend/src-app/view/Home.js" />
+      <jump line="3" column="0" filename="/wbfile/project/ibot-frontend/src-app/view/Nav.js" />
+      <jump line="98" column="0" filename="/wbfile/project/ibot-frontend/src-app/view/Nav.js" />
+      <jump line="0" column="22" filename="/wbfile/draft/reduxStudy/src-app/TodoList.js" />
+      <jump line="8" column="3" filename="/wbfile/project/ibot-frontend/src-app/features/Main.js" />
+      <jump line="6" column="19" filename="/wbfile/draft/redux-learn-2/src/features/counter/counterSlice.js" />
+      <jump line="5" column="27" filename="/wbfile/draft/redux-learn-2/src/features/home/teacherSection/TeacherSection.js" />
+      <jump line="26" column="9" filename="/wbfile/draft/redux-learn-2/src/components/navbarMobile/User.js" />
+      <jump line="23" column="17" filename="/wbfile/draft/redux-learn-2/src/components/navbar/LinksUser.js" />
+      <jump line="51" column="0" filename="/wbfile/draft/redux-learn-2/src/components/navbar/LinksUser.js" />
+      <jump line="11" column="20" filename="/wbfile/draft/redux-learn-2/src/components/navbarMobile/LinksMobile.js" />
+      <jump line="72" column="18" filename="/wbfile/draft/redux-learn-2/src/components/navbarMobile/LinksMobile.js" />
+      <jump line="20" column="17" filename="/wbfile/draft/redux-learn-2/src/components/Dropdown/Dropdown.js" />
+      <jump line="30" column="36" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
+      <jump line="10" column="5" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
+      <jump line="0" column="0" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
+      <jump line="108" column="0" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
+      <jump line="68" column="22" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
+      <jump line="26" column="35" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
+      <jump line="74" column="5" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
+      <jump line="90" column="26" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
+      <jump line="48" column="26" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
+      <jump line="95" column="48" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
+      <jump line="106" column="26" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
+      <jump line="92" column="23" filename="/wbfile/draft/redux-learn-2/src/features/home/awardSection/AwardSection.js" />
+      <jump line="49" column="27" filename="/wbfile/draft/redux-learn-2/src/features/home/classSection/ClassSection.js" />
+      <jump line="2" column="21" filename="/wbfile/draft/redux-learn-2/src/components/Button.js" />
+      <jump line="11" column="0" filename="/wbfile/draft/redux-learn-2/src/features/login/Login.js" />
+      <jump line="41" column="45" filename="/wbfile/draft/redux-learn-2/src/features/login/Login.js" />
+      <jump line="77" column="20" filename="/wbfile/draft/redux-learn-2/src/features/login/Login.js" />
+      <jump line="25" column="0" filename="/wbfile/project/ibot-frontend/src/app/App.js" />
+      <jump line="51" column="0" filename="/wbfile/project/ibot-frontend/src/components/NavBar/NavBar.js" />
+      <jump line="53" column="11" filename="/wbfile/project/ibot-frontend/src/components/NavBar/NavBar.js" />
+      <jump line="81" column="21" filename="/wbfile/project/ibot-frontend/src/components/Footer/Footer.js" />
+      <jump line="75" column="24" filename="/wbfile/project/ibot-frontend/src/components/Footer/Footer.js" />
+      <jump line="2" column="14" filename="/wbfile/project/ibot-frontend/src/components/Main/Main.js" />
+      <jump line="112" column="0" filename="/wbfile/project/ibot-frontend/src/components/Carousel/Carousel.js" />
+      <jump line="9" column="12" filename="/wbfile/draft/redux-learn-2/src/features/home/awardSection/AwardSection.js" />
+      <jump line="2" column="42" filename="/wbfile/draft/redux-learn-2/src/features/home/awardSection/AwardSection.js" />
+      <jump line="83" column="0" filename="/wbfile/project/ibot-frontend/src/components/Carousel/Carousel.js" />
+      <jump line="3" column="0" filename="/wbfile/project/ibot-frontend/src/components/Carousel/Carousel.js" />
+      <jump line="128" column="0" filename="/wbfile/project/ibot-frontend/src/components/Carousel/Carousel.js" />
+      <jump line="3" column="6" filename="/wbfile/project/ibot-backend/docs/dataDictionary.md" />
+      <jump line="103" column="2" filename="/wbfile/project/ibot-backend/db/postgres.sql" />
+      <jump line="78" column="0" filename="/wbfile/project/ibot-backend/docs/dataDictionary.md" />
+      <jump line="82" column="8" filename="/wbfile/project/ibot-backend/docs/dataDictionary.md" />
+      <jump line="126" column="0" filename="/wbfile/project/ibot-backend/node_modules/body-parser/index.js" />
+      <jump line="40" column="3" filename="/wbfile/project/ibot-backend/node_modules/body-parser/index.js" />
+      <jump line="90" column="11" filename="/wbfile/project/ibot-backend/node_modules/express/lib/express.js" />
+      <jump line="68" column="3" filename="/wbfile/project/ibot-backend/node_modules/body-parser/index.js" />
+      <jump line="84" column="32" filename="/wbfile/project/ibot-backend/node_modules/body-parser/index.js" />
+      <jump line="105" column="22" filename="/wbfile/project/ibot-backend/node_modules/body-parser/index.js" />
+      <jump line="108" column="5" filename="/wbfile/project/ibot-backend/node_modules/body-parser/index.js" />
+      <jump line="51" column="19" filename="/wbfile/project/ibot-backend/db/ibot_postgres.sql" />
+      <jump line="78" column="24" filename="/wbfile/draft/user-endpoint-nodejs/routes/blog.js" />
+      <jump line="30" column="16" filename="/wbfile/draft/user-endpoint-nodejs/routes/blog.js" />
+      <jump line="50" column="20" filename="/wbfile/draft/user-endpoint-nodejs/routes/blog.js" />
+      <jump line="15" column="16" filename="/wbfile/draft/user-endpoint-nodejs/routes/blog.js" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>,</text>
+      </register>
+      <register name="/" type="4">
+        <text>console</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBkdXBsaWNhdGVDaGVja1Jlc3VsdCA9IGF3YWl0IHBnUG9vbC5xdWVyeSgKICAgICAgICAgICAgJ1NFTEVDVCB1c2VybmFtZSBGUk9NIHVzZXJzIFdIRVJFIHVzZXJuYW1lPSQxOycsCiAgICAgICAgICAgIFt1c2VybmFtZV0KICAgICAgICApOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhoZWFkZXIpOwogICAgICAgIC8vIGNvbnNvbGUubG9nKGJvZHkpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlVXNlck9iamVjdCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFzc3dvcmQ6ICdhJwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2VybmFtZTogdXNlcm5hbWUsCiAgICAgICAgICAgICAgICAgICAgZW1haWw6IHVzZXJuYW1lLAogICAgICAgICAgICAgICAgICAgIHBob25lOiBudWxsLAogICAgICAgICAgICAgICAgICAgIGF2YXRhcjogbnVsbAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGluc2VydFJlc3VsdCkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>console</last-search>
+      <last-offset />
+      <last-pattern>console</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="true" />
