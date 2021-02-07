@@ -94,6 +94,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -119,11 +122,11 @@
       <file name="/a.dummy" timestamp="1612676195207">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" timestamp="1612733002269">
-        <mark key="[" line="87" column="42" />
-        <mark key="]" line="88" column="30" />
-        <mark key="." line="88" column="29" />
-        <mark key="^" line="88" column="30" />
+      <file name="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" timestamp="1612734141315">
+        <mark key="'" line="109" column="28" />
+        <mark key="[" line="112" column="45" />
+        <mark key="]" line="112" column="46" />
+        <mark key="." line="112" column="46" />
       </file>
       <file name="/wbfile/project/ibot-backend/routes/singup.test.js" timestamp="1612562556971">
         <mark key="[" line="54" column="75" />
@@ -162,12 +165,12 @@
         <mark key="^" line="22" column="62" />
         <mark key="." line="14" column="51" />
       </file>
-      <file name="/wbfile/project/ibot-frontend/src/store/userSlice.js" timestamp="1612732137892">
+      <file name="/wbfile/project/ibot-frontend/src/store/userSlice.js" timestamp="1612734096755">
         <mark key="'" line="28" column="14" />
-        <mark key="[" line="91" column="66" />
-        <mark key="]" line="91" column="77" />
-        <mark key="." line="91" column="76" />
-        <mark key="^" line="91" column="77" />
+        <mark key="[" line="85" column="49" />
+        <mark key="]" line="85" column="50" />
+        <mark key="^" line="85" column="50" />
+        <mark key="." line="85" column="49" />
       </file>
       <file name="/wbfile/project/ibot-frontend/src/features/Login/Login.js" timestamp="1612721247166">
         <mark key="a" line="43" column="34" />
@@ -194,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="0" filename="/wbfile/draft/NettyLearn/pom.xml" />
       <jump line="96" column="45" filename="/wbfile/draft/NettyLearn/pom.xml" />
       <jump line="16" column="10" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/Jooq.java" />
       <jump line="19" column="65" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/NettyServer.java" />
@@ -294,48 +296,49 @@
       <jump line="79" column="40" filename="/wbfile/project/ibot-backend/routes/signup.js" />
       <jump line="74" column="38" filename="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" />
       <jump line="86" column="45" filename="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" />
+      <jump line="109" column="28" filename="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIG1hcmdpblRvcDogJzByZW0nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gbWFyZ2luQm90dG9tOiAnM3JlbScsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">WW91ciBwYXNzd29yZCBtdXN0IGhhdmUgMSsgc3ltYm9sLiA=</text>
       </register>
       <register name="-" type="4">
-        <text>0.5</text>
+        <text encoding="base64">WW91ciBwYXNzd29yZCBtdXN0IGhhdmUgMSsgc3ltYm9sLiA=</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbjogJzAgMnB4IDAuNXJlbSAycHgnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3cm9uZ1Bhc3N3b3JkRm9ybWF0TXNnID0gJ1lvdXIgcGFzc3dvcmQgbXVzdCBoYXZlIDErIHN5bWJvbC4gJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIG1hcmdpblRvcDogJzByZW0nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gbWFyZ2luQm90dG9tOiAnM3JlbScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIOWMheWQqzbkuKrku6XkuIrlrZfnrKYK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIG1hcmdpblRvcDogJzByZW0nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gbWFyZ2luQm90dG9tOiAnM3JlbScsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIG1hcmdpblRvcDogJzByZW0nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gbWFyZ2luQm90dG9tOiAnMC41cmVtJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIG1hcmdpblRvcDogJzByZW0nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gbWFyZ2luQm90dG9tOiAnM3JlbScsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbkJvdHRvbTogJzAuNXJlbScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIG1hcmdpblRvcDogJzByZW0nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gbWFyZ2luQm90dG9tOiAnMC41cmVtJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbkJvdHRvbTogJzNyZW0nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbkJvdHRvbTogJzAuNXJlbScsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHAgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpblRvcDogJzByZW0nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luQm90dG9tOiAnM3JlbScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb250U2l6ZTogJzAuOHJlbScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2xvcjogJ3JlZCcsCiAgICAgICAgICAgICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgICAgICAgICAgICAgICAge3NpZ251cEVycm9yTWVzc2FnZS53cm9uZ1Bhc3N3b3JkRm9ybWF0ID8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaWdudXBFcnJvck1lc3NhZ2Uud3JvbmdQYXNzd29yZEZvcm1hdCA6IG51bGx9CiAgICAgICAgICAgICAgICAgICAgICAgIDwvcD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbkJvdHRvbTogJzNyZW0nLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtzaWdudXBFcnJvck1lc3NhZ2Uud3JvbmdQYXNzd29yZEZvcm1hdCA/CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2lnbnVwRXJyb3JNZXNzYWdlLndyb25nUGFzc3dvcmRGb3JtYXQgOiBudWxsfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHAgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpblRvcDogJzByZW0nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luQm90dG9tOiAnM3JlbScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb250U2l6ZTogJzAuOHJlbScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2xvcjogJ3JlZCcsCiAgICAgICAgICAgICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgICAgICAgICAgICAgICAge3NpZ251cEVycm9yTWVzc2FnZS53cm9uZ1Bhc3N3b3JkRm9ybWF0ID8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaWdudXBFcnJvck1lc3NhZ2Uud3JvbmdQYXNzd29yZEZvcm1hdCA6IG51bGx9CiAgICAgICAgICAgICAgICAgICAgICAgIDwvcD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiAncmVkJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtzaWdudXBFcnJvck1lc3NhZ2Uud3JvbmdQYXNzd29yZEZvcm1hdCA/CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2lnbnVwRXJyb3JNZXNzYWdlLndyb25nUGFzc3dvcmRGb3JtYXQgOiBudWxsfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnJvclByb3BzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiAncmVkJywK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
