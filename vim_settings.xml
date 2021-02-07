@@ -99,9 +99,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1612469802865">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1612724315149">
         <mark key="'" line="80" column="40" />
         <mark key="[" line="78" column="9" />
@@ -118,15 +115,15 @@
       <file name="/wbfile/project/ibot-frontend/src/components/NavBar/LinksDropDown.js" timestamp="1612637899587">
         <mark key="[" line="82" column="20" />
       </file>
+      <file name="/wbfile/project/ibot-frontend/src/app/App.css" timestamp="1612727671021" />
       <file name="/a.dummy" timestamp="1612676195207">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" timestamp="1612722517889">
-        <mark key="'" line="18" column="57" />
-        <mark key="[" line="87" column="32" />
-        <mark key="]" line="87" column="32" />
-        <mark key="^" line="64" column="50" />
-        <mark key="." line="87" column="32" />
+      <file name="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" timestamp="1612730693933">
+        <mark key="[" line="98" column="53" />
+        <mark key="]" line="98" column="54" />
+        <mark key="." line="98" column="54" />
+        <mark key="^" line="67" column="50" />
       </file>
       <file name="/wbfile/project/ibot-backend/routes/singup.test.js" timestamp="1612562556971">
         <mark key="[" line="54" column="75" />
@@ -157,9 +154,7 @@
       <file name="/wbfile/project/ibot-frontend/src/components/NavBar/LinksUser.js" timestamp="1612637909865">
         <mark key="[" line="64" column="20" />
       </file>
-      <file name="/a.sql" timestamp="1612469802834">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/wbfile/draft/redux-learn-2/src/app/App.js" timestamp="1612726840388" />
       <file name="/wbfile/project/ibot-backend/db/ibot_postgres.sql" timestamp="1612557883503">
         <mark key="'" line="53" column="19" />
         <mark key="[" line="14" column="50" />
@@ -167,12 +162,12 @@
         <mark key="^" line="22" column="62" />
         <mark key="." line="14" column="51" />
       </file>
-      <file name="/wbfile/project/ibot-frontend/src/store/userSlice.js" timestamp="1612724518694">
+      <file name="/wbfile/project/ibot-frontend/src/store/userSlice.js" timestamp="1612730265974">
         <mark key="'" line="28" column="14" />
-        <mark key="[" line="80" column="38" />
-        <mark key="]" line="80" column="38" />
-        <mark key="^" line="79" column="27" />
-        <mark key="." line="80" column="38" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="94" column="85" />
       </file>
       <file name="/wbfile/project/ibot-frontend/src/features/Login/Login.js" timestamp="1612721247166">
         <mark key="a" line="43" column="34" />
@@ -187,8 +182,10 @@
         <mark key="^" line="12" column="22" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="/wbfile/project/ibot-frontend/src/components/NavBar/User.js" timestamp="1612637924677">
-        <mark key="[" line="27" column="20" />
+      <file name="/wbfile/project/ibot-frontend/src/components/NavBar/User.js" timestamp="1612728573980">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/wbfile/project/ibot-frontend/src/components/Main/Main.js" timestamp="1612597675265">
         <mark key="[" line="12" column="0" />
@@ -197,7 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/Currying.java" />
       <jump line="80" column="0" filename="/wbfile/draft/NettyLearn/pom.xml" />
       <jump line="96" column="45" filename="/wbfile/draft/NettyLearn/pom.xml" />
       <jump line="16" column="10" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/Jooq.java" />
@@ -296,48 +292,50 @@
       <jump line="1" column="34" filename="/wbfile/project/ibot-backend/routes/signup.js" />
       <jump line="18" column="57" filename="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" />
       <jump line="79" column="40" filename="/wbfile/project/ibot-backend/routes/signup.js" />
+      <jump line="74" column="38" filename="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" />
+      <jump line="86" column="45" filename="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>That doesn't look like an email address</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYWRkaW5nOiAnMnB4IDVweCcsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>That doesn't look like an email address</text>
+        <text>fontSize</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYm9keS53cm9uZ1VzZXJuYW1lRm9ybWF0KSB7CiAgICAgICAgICAgIHdyb25nVXNlcm5hbWVGb3JtYXRNc2cgPSAnVGhhdCBkb2VzblwndCBsb29rIGxpa2UgYW4gZW1haWwgYWRkcmVzcyc7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYWRkaW5nOiAnMnB4IDVweCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhib2R5LnBhc3N3b3JkVmFsaWRhdGVSZXN1bHRBcnJheS5pbmRleE9mKCJkaWdpdHMiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3cm9uZ1Bhc3N3b3JkRm9ybWF0TXNnID0gJ1lvdXIgcGFzc3dvcmQgbXVzdCBoYXZlIGF0IGxlYXN0IDEgZGlnaXQgYW5kIDEgc3ltYm9sLiAnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZicpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZXRJc1Nob3dQYXNzd29yZCghaXNTaG93UGFzc3dvcmQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtOYXZMaW5rfSBmcm9tICJyZWFjdC1yb3V0ZXItZG9tIjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3JvbmdQYXNzd29yZEZvcm1hdE1zZyA9IHdyb25nUGFzc3dvcmRGb3JtYXRNc2cgKyAnWW91ciBwYXNzd29yZCBuZWVkcyAnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcG9zaXRpb246ICdhYnNvbHV0ZScsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3cm9uZ1Bhc3N3b3JkRm9ybWF0TXNnID0gd3JvbmdQYXNzd29yZEZvcm1hdE1zZyArICdzeW1ib2wsICc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3JvbmdQYXNzd29yZEZvcm1hdE1zZyA9ICd3cm9uZyBwYXNzJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IG5hbWU9eydwYXNzd29yZCd9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlPXtpc1Nob3dQYXNzd29yZCA/ICd0ZXh0JyA6ICdwYXNzd29yZCd9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbkJvdHRvbTogJzAuNXJlbScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGluZUhlaWdodDogJzEuNnJlbScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9udEZhbWlseTogaXNTaG93UGFzc3dvcmQgPyAnaW5oZXJpdCcgOiAnc2Fucy1zZXJpZicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9udFNpemU6IGlzU2hvd1Bhc3N3b3JkID8gJ2luaGVyaXQnIDogJzAuOHJlbScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9e3VzZXJOYW1lUGFzc3dvcmQucGFzc3dvcmR9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNoYW5nZT17aGFuZGxlQ2hhbmdlfQogICAgICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICAgICAgICB7aXNTaG93UGFzc3dvcmQgPyA8QmlIaWRlLz4gOiA8QmlTaG93Lz59Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzcGF0Y2godXBkYXRlU2lnbnVwRXJyb3JNZXNzYWdlKHsKICAgICAgICAgICAgICAgIHdyb25nVXNlcm5hbWVGb3JtYXQ6ICdUaGF0IGRvZXNuXCd0IGxvb2sgbGlrZSBhbiBlbWFpbCBhZGRyZXNzJwogICAgICAgICAgICB9KSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzcGF0Y2godXBkYXRlU2lnbnVwRXJyb3JNZXNzYWdlKHsKICAgICAgICAgICAgICAgIHdyb25nUGFzc3dyZEZvcm1hdDogJ3dyb25nIHBhc3MnCiAgICAgICAgICAgIH0pKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
