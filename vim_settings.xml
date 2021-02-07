@@ -101,11 +101,11 @@
       <file name="/Dummy.txt" timestamp="1612469802865">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1612596723990">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="47" column="68" />
+      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1612679351894">
+        <mark key="[" line="72" column="42" />
+        <mark key="]" line="72" column="48" />
         <mark key="^" line="28" column="0" />
-        <mark key="." line="66" column="83" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="/wbfile/project/ibot-frontend/src/features/Home/Home.js" timestamp="1612603809232">
         <mark key="[" line="15" column="0" />
@@ -149,11 +149,12 @@
         <mark key="^" line="8" column="92" />
         <mark key="." line="8" column="91" />
       </file>
-      <file name="/wbfile/project/ibot-backend/app.js" timestamp="1612678694605">
+      <file name="/wbfile/project/ibot-backend/app.js" timestamp="1612680290612">
         <mark key="j" line="8" column="0" />
-        <mark key="[" line="30" column="34" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="33" column="19" />
+        <mark key="." line="33" column="19" />
+        <mark key="^" line="38" column="21" />
       </file>
       <file name="/wbfile/project/ibot-frontend/src/components/NavBar/LinksUser.js" timestamp="1612637909865">
         <mark key="[" line="64" column="20" />
@@ -290,16 +291,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.props</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.props</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGxvZ2luID0gKHVzZXJQcm9maWxlKSA9PiBhc3luYyAoZGlzcGF0Y2gpID0+IHsKICAgIC8vIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgZmV0Y2goJy4vdXNlci5qc29uJywgewogICAgLy8gICAgIG1ldGhvZDogJ1BPU1QnLAogICAgLy8gICAgIGhlYWRlcnM6IHsKICAgIC8vICAgICAgICAgIkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uIiwKICAgIC8vICAgICB9LAogICAgLy8gICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHVzZXIpLAogICAgLy8gfSk7CiAgICBjb25zdCByZXNwb25zZSA9IGF3YWl0IGZldGNoKCcuL3VzZXIuanNvbicpOwogICAgY29uc3QgbWVzc2FnZSA9IGF3YWl0IHJlc3BvbnNlLmpzb24oKTsKICAgIGlmIChyZXNwb25zZS5vaykgewogICAgICAgIGNvbnNvbGUubG9nKG1lc3NhZ2UpOwogICAgfSBlbHNlIHsKICAgICAgICBjb25zb2xlLmxvZygnZXJyb3InKTsKICAgIH0KfTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVyci5tZXNzYWdlKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgZmV0Y2goJy4vdXNlci5qc29uJyk7Cg==</text>
