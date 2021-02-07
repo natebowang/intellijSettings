@@ -119,12 +119,12 @@
       <file name="/a.dummy" timestamp="1612676195207">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" timestamp="1612676672713">
+      <file name="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" timestamp="1612678277716">
         <mark key="'" line="16" column="11" />
-        <mark key="[" line="39" column="28" />
-        <mark key="]" line="72" column="35" />
-        <mark key="^" line="72" column="35" />
-        <mark key="." line="72" column="34" />
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="8" />
+        <mark key="^" line="29" column="23" />
+        <mark key="." line="10" column="8" />
       </file>
       <file name="/wbfile/project/ibot-backend/routes/singup.test.js" timestamp="1612562556971">
         <mark key="[" line="54" column="75" />
@@ -149,9 +149,9 @@
         <mark key="^" line="8" column="92" />
         <mark key="." line="8" column="91" />
       </file>
-      <file name="/wbfile/project/ibot-backend/app.js" timestamp="1612561308224">
+      <file name="/wbfile/project/ibot-backend/app.js" timestamp="1612678694605">
         <mark key="j" line="8" column="0" />
-        <mark key="[" line="30" column="0" />
+        <mark key="[" line="30" column="34" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
@@ -168,11 +168,11 @@
         <mark key="^" line="22" column="62" />
         <mark key="." line="14" column="51" />
       </file>
-      <file name="/wbfile/project/ibot-frontend/src/store/userSlice.js" timestamp="1612678159578">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="46" column="40" />
+      <file name="/wbfile/project/ibot-frontend/src/store/userSlice.js" timestamp="1612678232490">
+        <mark key="[" line="41" column="45" />
+        <mark key="]" line="41" column="46" />
+        <mark key="." line="41" column="45" />
+        <mark key="^" line="41" column="46" />
       </file>
       <file name="/wbfile/project/ibot-frontend/src/features/Login/Login.js" timestamp="1612676247570">
         <mark key="a" line="43" column="34" />
@@ -289,11 +289,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgZmV0Y2goJy4vdXNlci5qc29uJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>login</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
