@@ -99,12 +99,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1612724315149">
-        <mark key="'" line="80" column="40" />
-        <mark key="[" line="78" column="9" />
-        <mark key="]" line="12" column="61" />
+      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1612732023856">
+        <mark key="'" line="79" column="40" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
         <mark key="^" line="64" column="62" />
-        <mark key="." line="12" column="61" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="/wbfile/project/ibot-frontend/src/features/Home/Home.js" timestamp="1612603809232">
         <mark key="[" line="15" column="0" />
@@ -119,11 +119,11 @@
       <file name="/a.dummy" timestamp="1612676195207">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" timestamp="1612730693933">
-        <mark key="[" line="98" column="53" />
-        <mark key="]" line="98" column="54" />
-        <mark key="." line="98" column="54" />
-        <mark key="^" line="67" column="50" />
+      <file name="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" timestamp="1612733002269">
+        <mark key="[" line="87" column="42" />
+        <mark key="]" line="88" column="30" />
+        <mark key="." line="88" column="29" />
+        <mark key="^" line="88" column="30" />
       </file>
       <file name="/wbfile/project/ibot-backend/routes/singup.test.js" timestamp="1612562556971">
         <mark key="[" line="54" column="75" />
@@ -162,12 +162,12 @@
         <mark key="^" line="22" column="62" />
         <mark key="." line="14" column="51" />
       </file>
-      <file name="/wbfile/project/ibot-frontend/src/store/userSlice.js" timestamp="1612730265974">
+      <file name="/wbfile/project/ibot-frontend/src/store/userSlice.js" timestamp="1612732137892">
         <mark key="'" line="28" column="14" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="94" column="85" />
+        <mark key="[" line="91" column="66" />
+        <mark key="]" line="91" column="77" />
+        <mark key="." line="91" column="76" />
+        <mark key="^" line="91" column="77" />
       </file>
       <file name="/wbfile/project/ibot-frontend/src/features/Login/Login.js" timestamp="1612721247166">
         <mark key="a" line="43" column="34" />
@@ -299,43 +299,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYWRkaW5nOiAnMnB4IDVweCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIG1hcmdpblRvcDogJzByZW0nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gbWFyZ2luQm90dG9tOiAnM3JlbScsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>fontSize</text>
+        <text>0.5</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYWRkaW5nOiAnMnB4IDVweCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbjogJzAgMnB4IDAuNXJlbSAycHgnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3cm9uZ1Bhc3N3b3JkRm9ybWF0TXNnID0gJ1lvdXIgcGFzc3dvcmQgbXVzdCBoYXZlIGF0IGxlYXN0IDEgZGlnaXQgYW5kIDEgc3ltYm9sLiAnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIG1hcmdpblRvcDogJzByZW0nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gbWFyZ2luQm90dG9tOiAnM3JlbScsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIG1hcmdpblRvcDogJzByZW0nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gbWFyZ2luQm90dG9tOiAnM3JlbScsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRJc1Nob3dQYXNzd29yZCghaXNTaG93UGFzc3dvcmQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIG1hcmdpblRvcDogJzByZW0nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gbWFyZ2luQm90dG9tOiAnMC41cmVtJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtOYXZMaW5rfSBmcm9tICJyZWFjdC1yb3V0ZXItZG9tIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbkJvdHRvbTogJzAuNXJlbScsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcG9zaXRpb246ICdhYnNvbHV0ZScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbkJvdHRvbTogJzNyZW0nLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHAgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpblRvcDogJzByZW0nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luQm90dG9tOiAnM3JlbScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb250U2l6ZTogJzAuOHJlbScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2xvcjogJ3JlZCcsCiAgICAgICAgICAgICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgICAgICAgICAgICAgICAge3NpZ251cEVycm9yTWVzc2FnZS53cm9uZ1Bhc3N3b3JkRm9ybWF0ID8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaWdudXBFcnJvck1lc3NhZ2Uud3JvbmdQYXNzd29yZEZvcm1hdCA6IG51bGx9CiAgICAgICAgICAgICAgICAgICAgICAgIDwvcD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IG5hbWU9eydwYXNzd29yZCd9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlPXtpc1Nob3dQYXNzd29yZCA/ICd0ZXh0JyA6ICdwYXNzd29yZCd9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbkJvdHRvbTogJzAuNXJlbScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGluZUhlaWdodDogJzEuNnJlbScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9udEZhbWlseTogaXNTaG93UGFzc3dvcmQgPyAnaW5oZXJpdCcgOiAnc2Fucy1zZXJpZicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9udFNpemU6IGlzU2hvd1Bhc3N3b3JkID8gJ2luaGVyaXQnIDogJzAuOHJlbScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9e3VzZXJOYW1lUGFzc3dvcmQucGFzc3dvcmR9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNoYW5nZT17aGFuZGxlQ2hhbmdlfQogICAgICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICAgICAgICB7aXNTaG93UGFzc3dvcmQgPyA8QmlIaWRlLz4gOiA8QmlTaG93Lz59Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtzaWdudXBFcnJvck1lc3NhZ2Uud3JvbmdQYXNzd29yZEZvcm1hdCA/CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2lnbnVwRXJyb3JNZXNzYWdlLndyb25nUGFzc3dvcmRGb3JtYXQgOiBudWxsfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiAncmVkJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnJvclByb3BzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
