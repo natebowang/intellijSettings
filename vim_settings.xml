@@ -166,12 +166,12 @@
         <mark key="^" line="22" column="62" />
         <mark key="." line="14" column="51" />
       </file>
-      <file name="/wbfile/project/ibot-frontend/src/store/userSlice.js" timestamp="1612737604033">
+      <file name="/wbfile/project/ibot-frontend/src/store/userSlice.js" timestamp="1612743858886">
         <mark key="'" line="36" column="14" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="28" column="16" />
-        <mark key="." line="30" column="0" />
+        <mark key="[" line="83" column="24" />
+        <mark key="]" line="83" column="31" />
+        <mark key="^" line="83" column="31" />
+        <mark key="." line="83" column="30" />
       </file>
       <file name="/wbfile/project/ibot-frontend/src/features/Login/Login.js" timestamp="1612721247166">
         <mark key="a" line="43" column="34" />
@@ -302,11 +302,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>replace</text>
       </register>
       <register name="-" type="4">
-        <text>body.</text>
+        <text>replace</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
