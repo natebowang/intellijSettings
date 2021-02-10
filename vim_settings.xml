@@ -197,11 +197,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/wbfile/draft/craTemplate/src/App.js" timestamp="1612929514759">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="30" />
-        <mark key="^" line="5" column="30" />
-        <mark key="." line="5" column="29" />
+      <file name="/wbfile/draft/craTemplate/src/App.js" timestamp="1612933484969">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="36" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/wbfile/project/ibot-frontend/src/app/App.js" timestamp="1612769432781">
         <mark key="[" line="1" column="16" />
@@ -316,7 +316,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgcmVjdXJzaXZlQmluYXJ5U2VhcmNoID0gKGFyckFzYywgdGFyZ2V0LCBsZWZ0LCByaWdodCkgPT4gewogICAgbGV0IG1pZCA9IE1hdGguZmxvb3IoYXJyQXNjLmxlbmd0aCAvIDIpOwogICAgbGV0IG1pZEVsZSA9IGFyckFzY1ttaWRdOwogICAgaWYgKG1pZEVsZSA9PT0gdGFyZ2V0KSB7CiAgICAgICAgY29uc29sZS5sb2coJ2NlbnRlcicpOwogICAgICAgIHJldHVybiAobGVmdCArIG1pZCk7CiAgICB9IGVsc2UgaWYgKG1pZEVsZSA8IHRhcmdldCkgewogICAgICAgIGNvbnNvbGUubG9nKCdyaWdodCcpOwogICAgICAgIGNvbnNvbGUubG9nKG1pZCkKICAgICAgICBjb25zb2xlLmxvZyhsZWZ0KQogICAgICAgIGNvbnNvbGUubG9nKHJpZ2h0KQogICAgICAgIC8vIHJldHVybiByZWN1cnNpdmVCaW5hcnlTZWFyY2goYXJyQXNjLCB0YXJnZXQsIG1pZCArIGxlZnQsIHJpZ2h0KTsKICAgIH0gZWxzZSBpZiAobWlkRWxlID4gdGFyZ2V0KSB7CiAgICAgICAgY29uc29sZS5sb2coJ2xlZnQnKTsKICAgICAgICBjb25zb2xlLmxvZyhtaWQpCiAgICAgICAgY29uc29sZS5sb2cobGVmdCkKICAgICAgICBjb25zb2xlLmxvZyhyaWdodCkKICAgICAgICAvLyByZXR1cm4gcmVjdXJzaXZlQmluYXJ5U2VhcmNoKGFyckFzYywgdGFyZ2V0LCBsZWZ0LCBtaWQgKyBsZWZ0IC0gMSk7CiAgICB9Cn07Cgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhtaWQpCg==</text>
       </register>
       <register name="-" type="4">
         <text>mid</text>
@@ -325,7 +325,7 @@
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgcmVjdXJzaXZlQmluYXJ5U2VhcmNoID0gKGFyckFzYywgdGFyZ2V0LCBsZWZ0LCByaWdodCkgPT4gewogICAgbGV0IG1pZCA9IE1hdGguZmxvb3IoYXJyQXNjLmxlbmd0aCAvIDIpOwogICAgbGV0IG1pZEVsZSA9IGFyckFzY1ttaWRdOwogICAgaWYgKG1pZEVsZSA9PT0gdGFyZ2V0KSB7CiAgICAgICAgY29uc29sZS5sb2coJ2NlbnRlcicpOwogICAgICAgIHJldHVybiAobGVmdCArIG1pZCk7CiAgICB9IGVsc2UgaWYgKG1pZEVsZSA8IHRhcmdldCkgewogICAgICAgIGNvbnNvbGUubG9nKCdyaWdodCcpOwogICAgICAgIGNvbnNvbGUubG9nKG1pZCkKICAgICAgICBjb25zb2xlLmxvZyhsZWZ0KQogICAgICAgIGNvbnNvbGUubG9nKHJpZ2h0KQogICAgICAgIC8vIHJldHVybiByZWN1cnNpdmVCaW5hcnlTZWFyY2goYXJyQXNjLCB0YXJnZXQsIG1pZCArIGxlZnQsIHJpZ2h0KTsKICAgIH0gZWxzZSBpZiAobWlkRWxlID4gdGFyZ2V0KSB7CiAgICAgICAgY29uc29sZS5sb2coJ2xlZnQnKTsKICAgICAgICBjb25zb2xlLmxvZyhtaWQpCiAgICAgICAgY29uc29sZS5sb2cobGVmdCkKICAgICAgICBjb25zb2xlLmxvZyhyaWdodCkKICAgICAgICAvLyByZXR1cm4gcmVjdXJzaXZlQmluYXJ5U2VhcmNoKGFyckFzYywgdGFyZ2V0LCBsZWZ0LCBtaWQgKyBsZWZ0IC0gMSk7CiAgICB9Cn07Cgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhtaWQpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLyBsZXQgYXJyQXNjTGVmdCA9IGFyckFzYy5zbGljZSgwLCBtaWQpOwogICAgICAgIC8vIGNvbnNvbGUubG9nKGFyckFzY0xlZnQpCg==</text>
