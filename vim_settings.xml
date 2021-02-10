@@ -115,10 +115,11 @@
         <mark key="^" line="64" column="62" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/untitled/a.js" timestamp="1612934032713">
+      <file name="$USER_HOME$/untitled/a.js" timestamp="1612934052121">
         <mark key="[" line="15" column="45" />
-        <mark key="]" line="15" column="45" />
-        <mark key="." line="15" column="45" />
+        <mark key="]" line="15" column="52" />
+        <mark key="." line="15" column="51" />
+        <mark key="^" line="15" column="52" />
       </file>
       <file name="/wbfile/project/ibot-frontend/src/store/passwordValidationUtil.js" timestamp="1612744718338">
         <mark key="[" line="21" column="1" />
@@ -196,7 +197,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/wbfile/draft/craTemplate/src/App.js" timestamp="1612933484969">
+      <file name="/wbfile/draft/craTemplate/src/App.js" timestamp="1612934050730">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="36" />
         <mark key="^" line="5" column="18" />
