@@ -197,11 +197,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/wbfile/draft/craTemplate/src/App.js" timestamp="1612918552896">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="/wbfile/draft/craTemplate/src/App.js" timestamp="1612918589724">
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="17" column="12" />
+        <mark key="^" line="17" column="12" />
+        <mark key="." line="17" column="11" />
       </file>
       <file name="/wbfile/project/ibot-frontend/src/app/App.js" timestamp="1612769432781">
         <mark key="[" line="1" column="16" />
@@ -316,10 +316,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
