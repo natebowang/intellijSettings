@@ -165,13 +165,12 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="3" column="22" />
       </file>
-      <file name="/wbfile/project/ibot-backend/db/connection.js" timestamp="1613034255943">
-        <mark key="[" line="25" column="29" />
-        <mark key="]" line="25" column="31" />
-        <mark key="^" line="25" column="31" />
-        <mark key="." line="25" column="30" />
+      <file name="/wbfile/project/ibot-backend/db/connection.js" timestamp="1613074211557">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="26" />
+        <mark key="^" line="26" column="31" />
+        <mark key="." line="12" column="26" />
       </file>
-      <file name="/wbfile/project/ibot-backend/db/ibot_postgres.sql" timestamp="1613036066063" />
       <file name="/wbfile/project/ibot-frontend/src/store/userSlice.js" timestamp="1612816541086">
         <mark key="'" line="51" column="0" />
         <mark key="j" line="60" column="9" />
@@ -312,17 +311,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogQ3VybCAtdgogKiAgICAgIC1kICd7ICJ1c2VybmFtZSI6ImJvYkBlbWFpbC5jb20iLCAicGFzc3dvcmQiOiAiYWJjMTIzISEhIn0nCiAqICAgICAgLUggIkNvbnRlbnQtVHlwZTphcHBsaWNhdGlvbi9qc29uIgogKiAgICAgIGh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC9hcGkvc2lnbnVwCg==</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>recursiveBinarySearch([1, 2, 3, 4, 5], 5)</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogQ3VybCAtdgogKiAgICAgIC1kICd7ICJ1c2VybmFtZSI6ImJvYkBlbWFpbC5jb20iLCAicGFzc3dvcmQiOiAiYWJjMTIzISEhIn0nCiAqICAgICAgLUggIkNvbnRlbnQtVHlwZTphcHBsaWNhdGlvbi9qc29uIgogKiAgICAgIGh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC9hcGkvc2lnbnVwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHBhc3N3b3JkOiBudWxsLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bGV0IGEgPSBbMSwzLCA1LDBdLnNvcnQoKTsKY29uc29sZS5sb2coYSk7CkFycmF5LnNvcnQoWzEsMywgNSwwXS4pCg==</text>
