@@ -108,10 +108,10 @@
         <mark key="." line="23" column="55" />
         <mark key="^" line="23" column="56" />
       </file>
-      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1612745046248">
+      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1613035291398">
         <mark key="'" line="79" column="40" />
-        <mark key="[" line="76" column="47" />
-        <mark key="]" line="33" column="74" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="22" column="40" />
         <mark key="^" line="64" column="62" />
         <mark key="." line="79" column="0" />
       </file>
@@ -148,12 +148,6 @@
         <mark key="]" line="18" column="15" />
         <mark key="." line="18" column="15" />
       </file>
-      <file name="/wbfile/project/ibot-frontend/src/components/Section/Section.js" timestamp="1612637992758">
-        <mark key="[" line="20" column="30" />
-        <mark key="]" line="8" column="92" />
-        <mark key="^" line="8" column="92" />
-        <mark key="." line="8" column="91" />
-      </file>
       <file name="/wbfile/project/ibot-backend/app.js" timestamp="1612681321333">
         <mark key="j" line="8" column="0" />
       </file>
@@ -177,6 +171,7 @@
         <mark key="^" line="25" column="31" />
         <mark key="." line="25" column="30" />
       </file>
+      <file name="/wbfile/project/ibot-backend/db/ibot_postgres.sql" timestamp="1613036066063" />
       <file name="/wbfile/project/ibot-frontend/src/store/userSlice.js" timestamp="1612816541086">
         <mark key="'" line="51" column="0" />
         <mark key="j" line="60" column="9" />
@@ -317,8 +312,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>recursiveBinarySearch([1, 2, 3, 4, 5], 5)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogQ3VybCAtdgogKiAgICAgIC1kICd7ICJ1c2VybmFtZSI6ImJvYkBlbWFpbC5jb20iLCAicGFzc3dvcmQiOiAiYWJjMTIzISEhIn0nCiAqICAgICAgLUggIkNvbnRlbnQtVHlwZTphcHBsaWNhdGlvbi9qc29uIgogKiAgICAgIGh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC9hcGkvc2lnbnVwCg==</text>
       </register>
       <register name="-" type="4">
         <text>recursiveBinarySearch([1, 2, 3, 4, 5], 5)</text>
@@ -327,7 +322,7 @@
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxlZnQpCg==</text>
+        <text encoding="base64">ICogQ3VybCAtdgogKiAgICAgIC1kICd7ICJ1c2VybmFtZSI6ImJvYkBlbWFpbC5jb20iLCAicGFzc3dvcmQiOiAiYWJjMTIzISEhIn0nCiAqICAgICAgLUggIkNvbnRlbnQtVHlwZTphcHBsaWNhdGlvbi9qc29uIgogKiAgICAgIGh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC9hcGkvc2lnbnVwCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bGV0IGEgPSBbMSwzLCA1LDBdLnNvcnQoKTsKY29uc29sZS5sb2coYSk7CkFycmF5LnNvcnQoWzEsMywgNSwwXS4pCg==</text>
