@@ -108,12 +108,12 @@
         <mark key="." line="23" column="55" />
         <mark key="^" line="23" column="56" />
       </file>
-      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1613074809330">
+      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1613075571455">
         <mark key="'" line="79" column="40" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="22" column="40" />
-        <mark key="^" line="64" column="62" />
-        <mark key="." line="79" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="24" column="44" />
+        <mark key="^" line="24" column="44" />
+        <mark key="." line="24" column="43" />
       </file>
       <file name="$USER_HOME$/untitled/a.js" timestamp="1612989655231">
         <mark key="[" line="15" column="16" />
@@ -312,16 +312,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHBhc3N3b3JkOiBudWxsLAo=</text>
+        <text encoding="base64">Y29uc3Qge3BnUG9vbH0gPSByZXF1aXJlKCcuLi9kYi9jb25uZWN0aW9uLmpzJyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bGV0IGEgPSBbMSwzLCA1LDBdLnNvcnQoKTsKY29uc29sZS5sb2coYSk7CkFycmF5LnNvcnQoWzEsMywgNSwwXS4pCg==</text>
