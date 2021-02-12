@@ -102,6 +102,67 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/wbfile/project/ibot-frontend/src/features/Home/Home.js" timestamp="1613093385613">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="15" column="27" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" timestamp="1613093079837">
+        <mark key="'" line="18" column="8" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="59" />
+        <mark key="." line="104" column="48" />
+        <mark key="^" line="104" column="49" />
+      </file>
+      <file name="/wbfile/project/ibot-frontend/src/features/Home/ClassesSection/ClassSection.js" timestamp="1613093163565">
+        <mark key="'" line="85" column="1" />
+        <mark key="[" line="49" column="20" />
+        <mark key="]" line="26" column="46" />
+        <mark key="." line="26" column="45" />
+        <mark key="^" line="26" column="46" />
+      </file>
+      <file name="/wbfile/project/ibot-backend/db/connection.js" timestamp="1613077962499">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="/wbfile/project/ibot-frontend/src/store/userSlice.js" timestamp="1612816541086">
+        <mark key="'" line="51" column="0" />
+        <mark key="j" line="60" column="9" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="117" column="62" />
+      </file>
+      <file name="/wbfile/project/ibot-frontend/src/app/config.js" timestamp="1612816312072">
+        <mark key="^" line="12" column="29" />
+      </file>
+      <file name="/wbfile/project/ibot-frontend/src/features/Home/TeacherSection/TeacherSection.js" timestamp="1613092845097">
+        <mark key="^" line="31" column="5" />
+      </file>
+      <file name="/wbfile/project/ibot-frontend/src/components/NavBar/User.js" timestamp="1613079257077">
+        <mark key="[" line="4" column="46" />
+        <mark key="]" line="4" column="46" />
+        <mark key="." line="4" column="45" />
+        <mark key="^" line="4" column="46" />
+      </file>
+      <file name="/wbfile/draft/craTemplate/src/App.js" timestamp="1612977160021">
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/wbfile/draft/redux-learn-2/src/features/home/teacherSection/TeacherSection.js" timestamp="1613092680129">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="76" column="0" />
+      </file>
+      <file name="/wbfile/project/ibot-frontend/src/features/Home/AwardSection/AwardSection.js" timestamp="1613093378088">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="68" column="5" />
+        <mark key="]" line="68" column="33" />
+        <mark key="." line="68" column="32" />
+        <mark key="^" line="68" column="33" />
+      </file>
       <file name="/wbfile/project/ibot-frontend/src/app/Router.js" timestamp="1613077824187">
         <mark key="[" line="23" column="56" />
         <mark key="]" line="23" column="56" />
@@ -121,33 +182,6 @@
         <mark key="." line="15" column="15" />
         <mark key="^" line="15" column="16" />
       </file>
-      <file name="/wbfile/project/ibot-frontend/src/store/passwordValidationUtil.js" timestamp="1612744718338">
-        <mark key="[" line="21" column="1" />
-        <mark key="]" line="23" column="38" />
-        <mark key="^" line="23" column="38" />
-        <mark key="." line="23" column="37" />
-      </file>
-      <file name="/a.dummy" timestamp="1612676195207">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" timestamp="1613091366560">
-        <mark key="'" line="18" column="8" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="51" />
-        <mark key="." line="104" column="48" />
-        <mark key="^" line="104" column="49" />
-      </file>
-      <file name="/wbfile/project/ibot-frontend/src/store/wrongPasswordFormatMsgGenerator.js" timestamp="1612745130713">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="15" />
-        <mark key="." line="18" column="20" />
-        <mark key="^" line="6" column="21" />
-      </file>
-      <file name="/wbfile/project/ibot-frontend/src/components/Button/Button.js" timestamp="1612638565611">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="15" />
-        <mark key="." line="18" column="15" />
-      </file>
       <file name="/wbfile/project/ibot-backend/app.js" timestamp="1613074789832">
         <mark key="j" line="8" column="0" />
       </file>
@@ -160,25 +194,7 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="42" />
       </file>
-      <file name="/wbfile/project/ibot-frontend/src/store/passwordValidateUtil.js" timestamp="1612744610706">
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="18" column="13" />
-        <mark key="^" line="3" column="22" />
-      </file>
-      <file name="/wbfile/project/ibot-backend/db/connection.js" timestamp="1613077962499">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="/wbfile/project/ibot-frontend/src/store/userSlice.js" timestamp="1612816541086">
-        <mark key="'" line="51" column="0" />
-        <mark key="j" line="60" column="9" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="117" column="62" />
-      </file>
+      <file name="/wbfile/draft/redux-learn-2/src/features/home/classSection/ClassSection.js" timestamp="1613093191778" />
       <file name="/wbfile/project/ibot-frontend/src/features/Login/Login.js" timestamp="1613077279685">
         <mark key="a" line="44" column="34" />
         <mark key="[" line="73" column="44" />
@@ -186,32 +202,8 @@
         <mark key="^" line="82" column="41" />
         <mark key="." line="82" column="40" />
       </file>
-      <file name="/wbfile/project/ibot-frontend/src/app/config.js" timestamp="1612816312072">
-        <mark key="^" line="12" column="29" />
-      </file>
-      <file name="/wbfile/project/ibot-frontend/src/components/NavBar/User.js" timestamp="1613079257077">
-        <mark key="[" line="4" column="46" />
-        <mark key="]" line="4" column="46" />
-        <mark key="." line="4" column="45" />
-        <mark key="^" line="4" column="46" />
-      </file>
-      <file name="/wbfile/draft/craTemplate/src/App.js" timestamp="1612977160021">
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="/wbfile/project/ibot-frontend/src/app/App.js" timestamp="1612769432781">
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="16" />
-        <mark key="." line="1" column="16" />
-        <mark key="^" line="21" column="33" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="0" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/PrintDocumentSubscriber.java" />
-      <jump line="20" column="55" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/Mongodb.java" />
-      <jump line="124" column="9" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/SubscriberHelpers.java" />
-      <jump line="86" column="39" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/SubscriberHelpers.java" />
       <jump line="88" column="23" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/SubscriberHelpers.java" />
       <jump line="79" column="19" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/SubscriberHelpers.java" />
       <jump line="82" column="39" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/SubscriberHelpers.java" />
@@ -308,48 +300,52 @@
       <jump line="163" column="0" filename="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" />
       <jump line="167" column="30" filename="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" />
       <jump line="18" column="8" filename="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" />
+      <jump line="80" column="27" filename="/wbfile/project/ibot-frontend/src/features/Home/ClassesSection/ClassSection.js" />
+      <jump line="33" column="0" filename="/wbfile/project/ibot-frontend/src/features/Home/ClassesSection/ClassSection.js" />
+      <jump line="85" column="1" filename="/wbfile/project/ibot-frontend/src/features/Home/ClassesSection/ClassSection.js" />
+      <jump line="5" column="0" filename="/wbfile/project/ibot-frontend/src/features/Home/AwardSection/AwardSection.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF1dG9Db21wbGV0ZT17J29mZid9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGgzIHN0eWxlPXt7dGV4dEFsaWduOiAnY2VudGVyJywgbGluZUhlaWdodDogJzEwcmVtJ319PgogICAgICAgICAgICAgICAgVGhpcyBwYWdlIGlzIHVuZGVyIGNvbnN0cnVjdGlvbi4KICAgICAgICAgICAgPC9oMz4K</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>mediaMobilePortrait</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF1dG9Db21wbGV0ZT17J29mZid9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogUFJJTUFSWV9DT0xPUiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGgzIHN0eWxlPXt7dGV4dEFsaWduOiAnY2VudGVyJywgbGluZUhlaWdodDogJzEwcmVtJ319PgogICAgICAgICAgICAgICAgVGhpcyBwYWdlIGlzIHVuZGVyIGNvbnN0cnVjdGlvbi4KICAgICAgICAgICAgPC9oMz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDoKICAgICAgICAgICAgICAgIDxOYXZMaW5rIHRvPXsnL2Rhc2hib2FyZCd9IHN0eWxlPXtsaW5rU3R5bGV9IGFjdGl2ZVN0eWxlPXthY3RpdmVMaW5rU3R5bGV9PgogICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPXtkZWZhdWx0QXZhdGFyfSBhbHQ9e3VzZXJQcm9maWxlLnVzZXJuYW1lLnNwbGl0KCdAJylbMF19CiAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17aW1hZ2VTdHlsZX0vPgogICAgICAgICAgICAgICAgPC9OYXZMaW5rPgo=</text>
+        <text encoding="base64">Ci8vIGNvbnN0IHRpdGxlU3R5bGUgPSB7Ci8vICAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAovLyAgICAgcGFkZGluZzogJzAnLAovLyAgICAgbWFyZ2luOiAnMC44cmVtIDFyZW0nLAovLyAgICAgZm9udFNpemU6ICcxLjFyZW0nCi8vIH07Ci8vCi8vIGNvbnN0IGNvbnRlbnRTdHlsZSA9IHsKLy8gICAgIHdpZHRoOiAnNzAlJywKLy8gICAgIHRleHRBbGlnbjogJ2xlZnQnLAovLyAgICAgcGFkZGluZzogJzAnLAovLyAgICAgbWFyZ2luOiAnMC44cmVtIGF1dG8nLAovLyAgICAgbGluZUhlaWdodDogJzEuOHJlbScsCi8vICAgICBmb250U2l6ZTogJzAuOXJlbScKLy8gfTsKLy8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJhZGl1bSBmcm9tICJyYWRpdW0iOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIDxkaXYvPgo=</text>
+        <text encoding="base64">aW1wb3J0IGF3YXJkMCBmcm9tICcuL2F3YXJkMS5qcGcnOwppbXBvcnQgYXdhcmQxIGZyb20gJy4vYXdhcmQyLmpwZyc7CmltcG9ydCBhd2FyZDIgZnJvbSAnLi9hd2FyZDMuanBnJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Lyp7dXNlclByb2ZpbGUudXNlcm5hbWUuc3BsaXQoJ0AnKVswXX0qL30KICAgICAgICAgICAgICAgICAgICBhdXZtYWNpbnRvc2gK</text>
+        <text encoding="base64">aW1wb3J0IENhcm91c2VsIGZyb20gIi4uLy4uLy4uL2NvbXBvbmVudHMvY2Fyb3VzZWwvQ2Fyb3VzZWwiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDoK</text>
+        <text encoding="base64">aW1wb3J0IFNlY3Rpb24gZnJvbSAiLi4vLi4vLi4vY29tcG9uZW50cy9TZWN0aW9uIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDoKICAgICAgICAgICAgICAgIDw+CiAgICAgICAgICAgICAgICAgICAgPE5hdkxpbmsgdG89eycvbG9naW4nfSBzdHlsZT17dXNlclN0eWxlfSBhY3RpdmVTdHlsZT17YWN0aXZlTGlua1N0eWxlfT4KICAgICAgICAgICAgICAgICAgICAgICAg55m75b2VCiAgICAgICAgICAgICAgICAgICAgPC9OYXZMaW5rPgogICAgICAgICAgICAgICAgICAgIDxOYXZMaW5rIHRvPXsnL3NpZ251cCd9IHN0eWxlPXt1c2VyU3R5bGV9IGFjdGl2ZVN0eWxlPXthY3RpdmVMaW5rU3R5bGV9PgogICAgICAgICAgICAgICAgICAgICAgICDms6jlhowKICAgICAgICAgICAgICAgICAgICA8L05hdkxpbms+CiAgICAgICAgICAgICAgICA8Lz4K</text>
+        <text encoding="base64">Ly8gY29uc3QgSXRlbTEgPSAoKSA9PiB7Ci8vICAgICByZXR1cm4gKAovLyAgICAgICAgIDxkaXYgc3R5bGU9e2RpdlN0eWxlMH0+Ci8vICAgICAgICAgICAgIDAKLy8gICAgICAgICAgICAgey8qPGltZyBzcmM9e2F3YXJkMX0gc3R5bGU9e2ltZ1N0eWxlfS8+Ki99Ci8vICAgICAgICAgPC9kaXY+Ci8vICAgICApCi8vIH07Ci8vCi8vIGNvbnN0IEl0ZW0yID0gKCkgPT4gewovLyAgICAgcmV0dXJuICgKLy8gICAgICAgICA8ZGl2IHN0eWxlPXtkaXZTdHlsZTF9PgovLyAgICAgICAgICAgICAxCi8vICAgICAgICAgPC9kaXY+Ci8vICAgICAgICAgLy8gPGltZyBzcmM9e2F3YXJkMn0gc3R5bGU9e2ltZ1N0eWxlfS8+Ci8vICAgICApCi8vIH07Ci8vCi8vIGNvbnN0IEl0ZW0zID0gKCkgPT4gewovLyAgICAgcmV0dXJuICgKLy8gICAgICAgICA8ZGl2IHN0eWxlPXtkaXZTdHlsZTJ9PgovLyAgICAgICAgICAgICAyCi8vICAgICAgICAgPC9kaXY+Ci8vICAgICAgICAgLy8gPGltZyBzcmM9e2F3YXJkM30gc3R5bGU9e2ltZ1N0eWxlfS8+Ci8vICAgICApCi8vIH07CgoKLy8gY29uc3QgZGl2U3R5bGUgPSB7Ci8vICAgICBsaW5lSGVpZ2h0OiAnMTAwcHgnLAovLyAgICAgZm9udFNpemU6ICczcmVtJywKLy8gICAgIGJhY2tncm91bmRDb2xvcjogJ2dyZWVuJywKLy8gICAgIC8vIG1hcmdpbjogJzEwcHgnLAovLyAgICAgdGV4dEFsaWduOiAnY2VudGVyJywKLy8gfTsKLy8KLy8gY29uc3QgZGl2U3R5bGUwID0gewovLyAgICAgLi4uZGl2U3R5bGUsCi8vICAgICB3aWR0aDogd2lkdGhzWzBdLAovLyB9OwovLwovLyBjb25zdCBkaXZTdHlsZTEgPSB7Ci8vICAgICAuLi5kaXZTdHlsZSwKLy8gICAgIGxpbmVIZWlnaHQ6ICc2MHB4JywKLy8gICAgIHdpZHRoOiB3aWR0aHNbMV0sCi8vIH07Ci8vCi8vIGNvbnN0IGRpdlN0eWxlMiA9IHsKLy8gICAgIC4uLmRpdlN0eWxlLAovLyAgICAgd2lkdGg6IHdpZHRoc1syXSwKLy8gfTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtERVNLVE9QX1BPUlRSQUlUX01FRElBX1FVRVJZfSBmcm9tICIuLi8uLi8uLi9hcHAvY29uZmlnIjsKaW1wb3J0IGxlZ28gZnJvbSAnLi9MZWdvLmpwZyc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE5hdkxpbmsgdG89eycvbG9naW4nfSBzdHlsZT17dXNlclN0eWxlfSBhY3RpdmVTdHlsZT17YWN0aXZlTGlua1N0eWxlfT4KICAgICAgICAgICAgICAgIOeZu+W9lQogICAgICAgICAgICA8L05hdkxpbms+CgogICAgICAgICAgICA8TmF2TGluayB0bz17Jy9zaWdudXAnfSBzdHlsZT17dXNlclN0eWxlfSBhY3RpdmVTdHlsZT17YWN0aXZlTGlua1N0eWxlfT4KICAgICAgICAgICAgICAgIOazqOWGjAogICAgICAgICAgICA8L05hdkxpbms+Cg==</text>
+        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICIuLi8uLi8uLi9jb21wb25lbnRzL0J1dHRvbi9CdXR0b24iOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
