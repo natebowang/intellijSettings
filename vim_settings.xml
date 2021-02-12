@@ -130,12 +130,12 @@
       <file name="/a.dummy" timestamp="1612676195207">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" timestamp="1613077200209">
+      <file name="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" timestamp="1613091366560">
         <mark key="'" line="18" column="8" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="170" column="28" />
-        <mark key="." line="168" column="38" />
-        <mark key="^" line="167" column="92" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="51" />
+        <mark key="." line="104" column="48" />
+        <mark key="^" line="104" column="49" />
       </file>
       <file name="/wbfile/project/ibot-frontend/src/store/wrongPasswordFormatMsgGenerator.js" timestamp="1612745130713">
         <mark key="[" line="18" column="15" />
@@ -312,8 +312,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>k</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF1dG9Db21wbGV0ZT17J29mZid9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>k</text>
@@ -322,7 +322,7 @@
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF1dG9Db21wbGV0ZT17J29mZid9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDoK</text>
