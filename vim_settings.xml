@@ -162,10 +162,11 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="42" />
       </file>
-      <file name="/wbfile/project/ibot-backend/db/connection.js" timestamp="1613163711886">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="/wbfile/project/ibot-backend/db/connection.js" timestamp="1613326437775">
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="25" column="29" />
+        <mark key="." line="25" column="28" />
+        <mark key="^" line="25" column="29" />
       </file>
       <file name="/wbfile/project/ibot-frontend/src/store/userSlice.js" timestamp="1612816541086">
         <mark key="'" line="51" column="0" />
@@ -314,10 +315,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Username</text>
+        <text>ec2-user</text>
       </register>
       <register name="-" type="4">
-        <text>Username</text>
+        <text>ec2-user</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
