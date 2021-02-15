@@ -6,7 +6,6 @@
     <history>
       <history-search>
         <entry>mongo</entry>
-        <entry>await</entry>
         <entry>request</entry>
         <entry>html</entry>
         <entry>relative</entry>
@@ -25,6 +24,7 @@
         <entry>console.log</entry>
         <entry>error</entry>
         <entry>pwd</entry>
+        <entry>await</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -109,17 +109,15 @@
         <mark key="." line="23" column="55" />
         <mark key="^" line="23" column="56" />
       </file>
-      <file name="/wbfile/project/ibot-backend/routes/login.js" timestamp="1613342246269">
-        <mark key="'" line="19" column="51" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="19" column="59" />
+      <file name="/wbfile/project/ibot-backend/routes/login.js" timestamp="1613355047529">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
-      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1613075571455">
-        <mark key="'" line="79" column="40" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="24" column="44" />
+      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1613354764510">
+        <mark key="'" line="35" column="37" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="28" column="24" />
         <mark key="^" line="24" column="44" />
         <mark key="." line="24" column="43" />
       </file>
@@ -219,10 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="19" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/SubscriberHelpers.java" />
-      <jump line="85" column="0" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/SubscriberHelpers.java" />
-      <jump line="87" column="25" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/SubscriberHelpers.java" />
-      <jump line="99" column="37" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/SubscriberHelpers.java" />
       <jump line="108" column="16" filename="/wbfile/draft/NettyLearn/src/main/java/info/natebowang/SubscriberHelpers.java" />
       <jump line="0" column="0" filename="/wbfile/project/frontend/webpack.config.js" />
       <jump line="7" column="10" filename="/wbfile/project/frontend/webpack.config.js" />
@@ -319,48 +313,52 @@
       <jump line="53" column="9" filename="/wbfile/project/ibot-frontend/src/features/Home/AwardSection/AwardSection.js" />
       <jump line="20" column="36" filename="/wbfile/project/ibot-backend/routes/login.js" />
       <jump line="21" column="51" filename="/wbfile/project/ibot-backend/routes/login.js" />
+      <jump line="20" column="66" filename="/wbfile/project/ibot-backend/routes/signup.js" />
+      <jump line="44" column="16" filename="/wbfile/project/ibot-backend/routes/signup.js" />
+      <jump line="58" column="16" filename="/wbfile/project/ibot-backend/routes/signup.js" />
+      <jump line="35" column="37" filename="/wbfile/project/ibot-backend/routes/signup.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHVzZXJuYW1lKTsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHBhc3N3b3JkKTsK</text>
-      </register>
-      <register name="-" type="4">
-        <text>pwd</text>
-      </register>
-      <register name="/" type="4">
-        <text>pwd</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXJuYW1lKTsK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHVzZXJuYW1lKTsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHBhc3N3b3JkKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXJuYW1lKTsKICAgIGNvbnNvbGUubG9nKHBhc3N3b3JkKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
+      <register name="-" type="4">
+        <text>unprocessableEntity</text>
+      </register>
+      <register name="/" type="4">
+        <text>await</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBlcnJvck1lc3NhZ2UgPSAnSW5jb3JyZWN0IHVzZXJuYW1lIG9yIHBhc3N3b3JkJzsKICAgICAgICBlcnJvclByb3BzID0gT2JqZWN0LmFzc2lnbihlcnJvclByb3BzLCB7aW5jb3JyZWN0VXNlcm5hbWVQd2Q6IHRydWV9KTsKICAgICAgICBuZXh0KGNyZWF0ZUVycm9yKDQwMSwgZXJyb3JNZXNzYWdlLCB7ZXJyb3JQcm9wczogZXJyb3JQcm9wc30pKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICBjb25zb2xlLmxvZyhlKTsKICAgICAgICBlcnJvck1lc3NhZ2UgPSAnSW5jb3JyZWN0IHVzZXJuYW1lIG9yIHBhc3N3b3JkJzsKICAgICAgICBlcnJvclByb3BzID0gT2JqZWN0LmFzc2lnbihlcnJvclByb3BzLCB7dW5wcm9jZXNzYWJsZUVudGl0eTogdHJ1ZX0pOwogICAgICAgIG5leHQoY3JlYXRlRXJyb3IoNDIyLCBlcnJvck1lc3NhZ2UsIHtlcnJvclByb3BzOiBlcnJvclByb3BzfSkpOwogICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV4dChjcmVhdGVFcnJvcig0MDEsICdJbmNvcnJlY3QgdXNlcm5hbWUgb3IgcGFzc3dvcmQnKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICAvLyBwZ1Bvb2wucXVlcnkoJ1NFTEVDVCB1c2VybmFtZSwgcGFzc3dvcmQsIHNhbHQgRlJPTSB1c2VycyBXSEVSRSB1c2VybmFtZT0kMTsnLCBbdXNlcm5hbWVdKQogICAgLy8gICAgIC50aGVuKChyZXN1bHQpID0+IHsKICAgIC8vICAgICAgICAgaWYgKHJlc3VsdC5yb3dzLmxlbmd0aCA9PT0gMSkgewogICAgLy8gICAgICAgICAgICAgY29uc3Qgc2hhID0gY3J5cHRvLmNyZWF0ZUhhc2goJ3NoYTI1NicpOwogICAgLy8gICAgICAgICAgICAgY29uc3Qgc2FsdCA9IHJlc3VsdC5yb3dzWzBdLnNhbHQ7CiAgICAvLyAgICAgICAgICAgICBjb25zdCBwYXNzd29yZFNoYSA9IHNoYS51cGRhdGUocGFzc3dvcmQgKyBzYWx0KS5kaWdlc3QoJ2hleCcpOwogICAgLy8gICAgICAgICAgICAgaWYgKHBhc3N3b3JkU2hhID09PSByZXN1bHQucm93c1swXS5wYXNzd29yZCkgewogICAgLy8gICAgICAgICAgICAgICAgIHJlcS5zZXNzaW9uLnVzZXJuYW1lID0gdXNlcm5hbWU7CiAgICAvLyAgICAgICAgICAgICAgICAgcmVzLnNlbmQoJ0xvZ2luIFN1Y2Nlc3MnKTsKICAgIC8vICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAvLyAgICAgICAgICAgICAgICAgbmV4dChjcmVhdGVFcnJvcig0MDEsICdJbmNvcnJlY3QgdXNlcm5hbWUgb3IgcGFzc3dvcmQnKSk7CiAgICAvLyAgICAgICAgICAgICB9CiAgICAvLyAgICAgICAgIH0gZWxzZSB7CiAgICAvLyAgICAgICAgICAgICBuZXh0KGNyZWF0ZUVycm9yKDQwMSwgJ0luY29ycmVjdCB1c2VybmFtZSBvciBwYXNzd29yZCcpKTsKICAgIC8vICAgICAgICAgfQogICAgLy8gICAgIH0pCiAgICAvLyAgICAgLmNhdGNoKGVyciA9PiB7CiAgICAvLyAgICAgICAgIG5leHQoY3JlYXRlRXJyb3IoNDIyKSk7CiAgICAvLyAgICAgfSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -369,9 +367,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>pwd</last-search>
+      <last-search>await</last-search>
       <last-offset />
-      <last-pattern>pwd</last-pattern>
+      <last-pattern>await</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
