@@ -103,10 +103,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/wbfile/project/ibot-backend/routes/login.js" timestamp="1613355047529">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="/wbfile/project/ibot-backend/routes/login.js" timestamp="1613362932906">
+        <mark key="[" line="33" column="37" />
+        <mark key="]" line="33" column="34" />
+        <mark key="." line="33" column="33" />
+        <mark key="^" line="33" column="34" />
       </file>
       <file name="/wbfile/project/ibot-frontend/src/features/Home/Home.js" timestamp="1613093385613">
         <mark key="[" line="15" column="27" />
@@ -170,12 +171,11 @@
         <mark key="." line="23" column="55" />
         <mark key="^" line="23" column="56" />
       </file>
-      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1613354764510">
+      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1613362920760">
         <mark key="'" line="35" column="37" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="28" column="24" />
-        <mark key="^" line="24" column="44" />
-        <mark key="." line="24" column="43" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1613094331127">
         <mark key="[" line="0" column="0" />
@@ -186,8 +186,8 @@
         <mark key="." line="97" column="2" />
         <mark key="^" line="97" column="3" />
       </file>
-      <file name="/wbfile/project/ibot-backend/routes/login.test.js" timestamp="1613357163917">
-        <mark key="[" line="0" column="0" />
+      <file name="/wbfile/project/ibot-backend/routes/login.test.js" timestamp="1613360765279">
+        <mark key="[" line="4" column="21" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -320,43 +320,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJfc3RhdGU6IDEK</text>
       </register>
       <register name="-" type="4">
-        <text>unprocessableEntity</text>
+        <text>userDisabled</text>
       </register>
       <register name="/" type="4">
         <text>await</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgcmVxdWVzdCA9IHJlcXVpcmUoJ3N1cGVydGVzdCcpOwpjb25zdCBhcHAgPSByZXF1aXJlKCcuLi9hcHAuanMnKTsKY29uc3Qge3BnUG9vbH0gPSByZXF1aXJlKCcuLi9kYi9jb25uZWN0aW9uLmpzJyk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKHJvdy51c2VyX3N0YXRlICE9PSAwKSB7CiAgICAgICAgICAgIGVycm9yTWVzc2FnZSA9ICdVc2VyIGlzIGRpc2FibGVkLic7CiAgICAgICAgICAgIGVycm9yUHJvcHMgPSBPYmplY3QuYXNzaWduKGVycm9yUHJvcHMsIHt1c2VyRGlzYWJsZWQ6IHRydWV9KTsKICAgICAgICAgICAgbmV4dChjcmVhdGVFcnJvcig0MDEsIGVycm9yTWVzc2FnZSwge2Vycm9yUHJvcHM6IGVycm9yUHJvcHN9KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJfc3RhdGU6IDEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2VyX3N0YXRlOiAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICBjb25zb2xlLmxvZyhlKTsKICAgICAgICBlcnJvck1lc3NhZ2UgPSAnSW5jb3JyZWN0IHVzZXJuYW1lIG9yIHBhc3N3b3JkJzsKICAgICAgICBlcnJvclByb3BzID0gT2JqZWN0LmFzc2lnbihlcnJvclByb3BzLCB7dW5wcm9jZXNzYWJsZUVudGl0eTogdHJ1ZX0pOwogICAgICAgIG5leHQoY3JlYXRlRXJyb3IoNDIyLCBlcnJvck1lc3NhZ2UsIHtlcnJvclByb3BzOiBlcnJvclByb3BzfSkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV4dChjcmVhdGVFcnJvcig0MDEsICdJbmNvcnJlY3QgdXNlcm5hbWUgb3IgcGFzc3dvcmQnKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc3BvbnNlVXNlck9iamVjdCA9IHsKICAgICAgICB1c2VybmFtZTogdXNlcm5hbWUsCiAgICAgICAgZW1haWw6IHVzZXJuYW1lLAogICAgICAgIHBob25lOiBudWxsLAogICAgICAgIGF2YXRhcjogbnVsbCwKICAgICAgICB1c2VyX3N0YXRlOiAxCiAgICB9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHBnUG9vbC5xdWVyeSgKICAgICAgICAnSU5TRVJUIElOVE8gdXNlcnMgJyArCiAgICAgICAgJyh1c2VybmFtZSwgcGFzc3dvcmQsIHNhbHQsIGxvZ2luX21ldGhvZF9pZCwgZW1haWwsIHVzZXJfc3RhdGUpIFZBTFVFUyAnICsKICAgICAgICAnKCQxLCAkMiwgJDMsICQ0LCAkNSwgJDYpOycsCiAgICAgICAgW3VzZXJuYW1lLCBwYXNzd29yZFNoYTI1Niwgc2FsdCwgMCwgdXNlcm5hbWUsIDFdCiAgICApOwogICAgcmVzLnN0YXR1cygyMDEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAvLyBwZ1Bvb2wucXVlcnkoJ1NFTEVDVCB1c2VybmFtZSwgcGFzc3dvcmQsIHNhbHQgRlJPTSB1c2VycyBXSEVSRSB1c2VybmFtZT0kMTsnLCBbdXNlcm5hbWVdKQogICAgLy8gICAgIC50aGVuKChyZXN1bHQpID0+IHsKICAgIC8vICAgICAgICAgaWYgKHJlc3VsdC5yb3dzLmxlbmd0aCA9PT0gMSkgewogICAgLy8gICAgICAgICAgICAgY29uc3Qgc2hhID0gY3J5cHRvLmNyZWF0ZUhhc2goJ3NoYTI1NicpOwogICAgLy8gICAgICAgICAgICAgY29uc3Qgc2FsdCA9IHJlc3VsdC5yb3dzWzBdLnNhbHQ7CiAgICAvLyAgICAgICAgICAgICBjb25zdCBwYXNzd29yZFNoYSA9IHNoYS51cGRhdGUocGFzc3dvcmQgKyBzYWx0KS5kaWdlc3QoJ2hleCcpOwogICAgLy8gICAgICAgICAgICAgaWYgKHBhc3N3b3JkU2hhID09PSByZXN1bHQucm93c1swXS5wYXNzd29yZCkgewogICAgLy8gICAgICAgICAgICAgICAgIHJlcS5zZXNzaW9uLnVzZXJuYW1lID0gdXNlcm5hbWU7CiAgICAvLyAgICAgICAgICAgICAgICAgcmVzLnNlbmQoJ0xvZ2luIFN1Y2Nlc3MnKTsKICAgIC8vICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAvLyAgICAgICAgICAgICAgICAgbmV4dChjcmVhdGVFcnJvcig0MDEsICdJbmNvcnJlY3QgdXNlcm5hbWUgb3IgcGFzc3dvcmQnKSk7CiAgICAvLyAgICAgICAgICAgICB9CiAgICAvLyAgICAgICAgIH0gZWxzZSB7CiAgICAvLyAgICAgICAgICAgICBuZXh0KGNyZWF0ZUVycm9yKDQwMSwgJ0luY29ycmVjdCB1c2VybmFtZSBvciBwYXNzd29yZCcpKTsKICAgIC8vICAgICAgICAgfQogICAgLy8gICAgIH0pCiAgICAvLyAgICAgLmNhdGNoKGVyciA9PiB7CiAgICAvLyAgICAgICAgIG5leHQoY3JlYXRlRXJyb3IoNDIyKSk7CiAgICAvLyAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
