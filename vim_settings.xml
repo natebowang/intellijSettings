@@ -156,11 +156,10 @@
         <mark key="." line="153" column="0" />
         <mark key="^" line="153" column="24" />
       </file>
-      <file name="$USER_HOME$/demo/src/main/kotlin/ml/zouren/demo/DemoApplication.kt" timestamp="1613685536661">
-        <mark key="[" line="23" column="59" />
-        <mark key="]" line="24" column="4" />
-        <mark key="." line="24" column="3" />
-        <mark key="^" line="24" column="4" />
+      <file name="$USER_HOME$/demo/src/main/kotlin/ml/zouren/demo/DemoApplication.kt" timestamp="1613686853526">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/demo/pom.xml" timestamp="1613682617955" />
       <file name="/wbfile/project/ibot-backend/app.js" timestamp="1613514812871">
@@ -322,43 +321,45 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4KICAgIH0KICAgIGZ1biBwcmljZXMoc3ltYm9sOiBTdHJpbmcpOiBGbHV4PExvbmc+IHsK</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biByYW5kb21TdG9ja1ByaWNlKCk6IERvdWJsZSB7CiAgICAgICAgcmV0dXJuIFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKS5uZXh0RG91YmxlKDEwMC4wKQogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Rmx1eDxTdG9ja1ByaWNlPg==</text>
       </register>
       <register name="/" type="4">
         <text>onFocus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHAgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbjogJzAgMnB4IDAuNHJlbSAycHgnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9udFNpemU6ICcwLjhyZW0nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6ICdyZWQnLAogICAgICAgICAgICAgICAgICAgICAgICB9fT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtzaWdudXBMb2dpbkVycm9yTWVzc2FnZS5wYXNzd29yZEVycm9yID8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaWdudXBMb2dpbkVycm9yTWVzc2FnZS5wYXNzd29yZEVycm9yIDogbnVsbH0KICAgICAgICAgICAgICAgICAgICAgICAgPC9wPgo=</text>
+        <text encoding="base64">Ly8gICAgQEdldE1hcHBpbmcodmFsdWUgPSBbIi9zdG9ja3Mve3N5bWJvbH0iXSwKLy8gICAgICAgICAgICBwcm9kdWNlcyA9IFtNZWRpYVR5cGUuVEVYVF9FVkVOVF9TVFJFQU1fVkFMVUVdKQovLwovLyAgICBmdW4gcHJpY2VzKEBQYXRoVmFyaWFibGUgc3ltYm9sOiBTdHJpbmcpOiBGbHV4PFN0b2NrUHJpY2U+IHsKLy8gICAgICAgIHJldHVybiBGbHV4Ci8vICAgICAgICAgICAgICAgIC5pbnRlcnZhbChEdXJhdGlvbi5vZlNlY29uZHMoMSkpCi8vICAgICAgICAgICAgICAgIC5tYXAgeyBTdG9ja1ByaWNlKHN5bWJvbCwgcmFuZG9tU3RvY2tQcmljZSgpLCBMb2NhbERhdGVUaW1lLm5vdygpKSB9Ci8vICAgIH0KLy8KLy8gICAgcHJpdmF0ZSBmdW4gcmFuZG9tU3RvY2tQcmljZSgpOiBEb3VibGUgewovLyAgICAgICAgcmV0dXJuIFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKS5uZXh0RG91YmxlKDEwMC4wKQovLyAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4KICAgIH0KICAgIGZ1biBwcmljZXMoc3ltYm9sOiBTdHJpbmcpOiBGbHV4PExvbmc+IHsK</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biByYW5kb21TdG9ja1ByaWNlKCk6IERvdWJsZSB7CiAgICAgICAgcmV0dXJuIFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKS5uZXh0RG91YmxlKDEwMC4wKQogICAgfQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnVuIHByaWNlcyhzeW1ib2w6IFN0cmluZyk6IEZsdXg8TG9uZz4gewogICAgcmV0dXJuIEZsdXgKICAgICAgICAgICAgLmludGVydmFsKER1cmF0aW9uLm9mU2Vjb25kcygxKSkKICAgICAgICAgICAgLm1hcCB7IFN0b2NrUHJpY2Uoc3ltYm9sLCByYW5kb21TdG9ja1ByaWNlKCksIExvY2FsRGF0ZVRpbWUubm93KCkpIH0KfQoKcHJpdmF0ZSBmdW4gcmFuZG9tU3RvY2tQcmljZSgpOiBEb3VibGUgewogICAgcmV0dXJuIFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKS5uZXh0RG91YmxlKDEwMC4wKQp9Cg==</text>
+      <register name="2" type="4">
+        <text>Flux
+                .interval(Duration.ofSeconds(1))
+                .map { StockPrice(symbol, randomStockPrice(), LocalDateTime.now()) }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi50aW1lLkR1cmF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4KICAgIH0KICAgIGZ1biBwcmljZXMoc3ltYm9sOiBTdHJpbmcpOiBGbHV4PExvbmc+IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYWdlOiBJbnQK</text>
+        <text encoding="base64">ZnVuIHByaWNlcyhzeW1ib2w6IFN0cmluZyk6IEZsdXg8TG9uZz4gewogICAgcmV0dXJuIEZsdXgKICAgICAgICAgICAgLmludGVydmFsKER1cmF0aW9uLm9mU2Vjb25kcygxKSkKICAgICAgICAgICAgLm1hcCB7IFN0b2NrUHJpY2Uoc3ltYm9sLCByYW5kb21TdG9ja1ByaWNlKCksIExvY2FsRGF0ZVRpbWUubm93KCkpIH0KfQoKcHJpdmF0ZSBmdW4gcmFuZG9tU3RvY2tQcmljZSgpOiBEb3VibGUgewogICAgcmV0dXJuIFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKS5uZXh0RG91YmxlKDEwMC4wKQp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJvZHkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbi50aW1lLkR1cmF0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhib2R5KTsK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYWdlOiBJbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGVyci5lcnJvclByb3BzKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJvZHkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYm9keS5wYXNzd29yZEVycm9yKSB7CiAgICAgICAgICAgIHBhc3N3b3JkRXJyb3JNc2cgPSBwYXNzd29yZEVycm9yTXNnR2VuZXJhdG9yKGJvZHkucGFzc3dvcmRWYWxpZGF0aW9uUmVzdWx0QXJyYXkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhib2R5KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdXNlcm5hbWVFcnJvck1zZyA9ICdUaGF0IGRvZXNuXCd0IGxvb2sgbGlrZSBhbiBlbWFpbCBhZGRyZXNzLiAnOwo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGVyci5lcnJvclByb3BzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
