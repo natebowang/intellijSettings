@@ -156,11 +156,11 @@
         <mark key="." line="153" column="0" />
         <mark key="^" line="153" column="24" />
       </file>
-      <file name="$USER_HOME$/demo/src/main/kotlin/ml/zouren/demo/DemoApplication.kt" timestamp="1613683384769">
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="22" column="21" />
-        <mark key="^" line="22" column="21" />
-        <mark key="." line="22" column="20" />
+      <file name="$USER_HOME$/demo/src/main/kotlin/ml/zouren/demo/DemoApplication.kt" timestamp="1613685536661">
+        <mark key="[" line="23" column="59" />
+        <mark key="]" line="24" column="4" />
+        <mark key="." line="24" column="3" />
+        <mark key="^" line="24" column="4" />
       </file>
       <file name="$USER_HOME$/demo/pom.xml" timestamp="1613682617955" />
       <file name="/wbfile/project/ibot-backend/app.js" timestamp="1613514812871">
@@ -217,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="17" filename="/wbfile/draft/redux-learn-2/src/components/navbar/LinksUser.js" />
       <jump line="51" column="0" filename="/wbfile/draft/redux-learn-2/src/components/navbar/LinksUser.js" />
       <jump line="11" column="20" filename="/wbfile/draft/redux-learn-2/src/components/navbarMobile/LinksMobile.js" />
       <jump line="72" column="18" filename="/wbfile/draft/redux-learn-2/src/components/navbarMobile/LinksMobile.js" />
@@ -317,15 +316,16 @@
       <jump line="140" column="38" filename="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" />
       <jump line="133" column="86" filename="/wbfile/project/ibot-frontend/src/features/Login/Login.js" />
       <jump line="18" column="0" filename="/wbfile/project/ibot-frontend/src/features/Login/Login.js" />
+      <jump line="31" column="77" filename="$USER_HOME$/demo/src/main/kotlin/ml/zouren/demo/DemoApplication.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJvZHkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4KICAgIH0KICAgIGZ1biBwcmljZXMoc3ltYm9sOiBTdHJpbmcpOiBGbHV4PExvbmc+IHsK</text>
       </register>
       <register name="-" type="4">
-        <text>passwordError</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>onFocus</text>
@@ -334,31 +334,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHAgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbjogJzAgMnB4IDAuNHJlbSAycHgnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9udFNpemU6ICcwLjhyZW0nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6ICdyZWQnLAogICAgICAgICAgICAgICAgICAgICAgICB9fT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtzaWdudXBMb2dpbkVycm9yTWVzc2FnZS5wYXNzd29yZEVycm9yID8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaWdudXBMb2dpbkVycm9yTWVzc2FnZS5wYXNzd29yZEVycm9yIDogbnVsbH0KICAgICAgICAgICAgICAgICAgICAgICAgPC9wPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJvZHkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4KICAgIH0KICAgIGZ1biBwcmljZXMoc3ltYm9sOiBTdHJpbmcpOiBGbHV4PExvbmc+IHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhib2R5KTsK</text>
+        <text encoding="base64">ZnVuIHByaWNlcyhzeW1ib2w6IFN0cmluZyk6IEZsdXg8TG9uZz4gewogICAgcmV0dXJuIEZsdXgKICAgICAgICAgICAgLmludGVydmFsKER1cmF0aW9uLm9mU2Vjb25kcygxKSkKICAgICAgICAgICAgLm1hcCB7IFN0b2NrUHJpY2Uoc3ltYm9sLCByYW5kb21TdG9ja1ByaWNlKCksIExvY2FsRGF0ZVRpbWUubm93KCkpIH0KfQoKcHJpdmF0ZSBmdW4gcmFuZG9tU3RvY2tQcmljZSgpOiBEb3VibGUgewogICAgcmV0dXJuIFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKS5uZXh0RG91YmxlKDEwMC4wKQp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGVyci5lcnJvclByb3BzKQo=</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbi50aW1lLkR1cmF0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYm9keS5wYXNzd29yZEVycm9yKSB7CiAgICAgICAgICAgIHBhc3N3b3JkRXJyb3JNc2cgPSBwYXNzd29yZEVycm9yTXNnR2VuZXJhdG9yKGJvZHkucGFzc3dvcmRWYWxpZGF0aW9uUmVzdWx0QXJyYXkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYWdlOiBJbnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdXNlcm5hbWVFcnJvck1zZyA9ICdUaGF0IGRvZXNuXCd0IGxvb2sgbGlrZSBhbiBlbWFpbCBhZGRyZXNzLiAnOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJvZHkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdXNlcm5hbWVFcnJvck1zZyA9ICdVc2VyIGV4aXN0cy4gJzsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhib2R5KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGVyci5lcnJvclByb3BzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYm9keS5wYXNzd29yZEVycm9yKSB7CiAgICAgICAgICAgIHBhc3N3b3JkRXJyb3JNc2cgPSBwYXNzd29yZEVycm9yTXNnR2VuZXJhdG9yKGJvZHkucGFzc3dvcmRWYWxpZGF0aW9uUmVzdWx0QXJyYXkpOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgZmV0Y2goJy4vdXNlci5qc29uJywgewogICAgLy8gICAgIG1ldGhvZDogJ1BPU1QnLAogICAgLy8gICAgIGhlYWRlcnM6IHsKICAgIC8vICAgICAgICAgIkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uIiwKICAgIC8vICAgICB9LAogICAgLy8gICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHVzZXJQcm9maWxlKSwKICAgIC8vIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdXNlcm5hbWVFcnJvck1zZyA9ICdUaGF0IGRvZXNuXCd0IGxvb2sgbGlrZSBhbiBlbWFpbCBhZGRyZXNzLiAnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
