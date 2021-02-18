@@ -156,10 +156,11 @@
         <mark key="." line="153" column="0" />
         <mark key="^" line="153" column="24" />
       </file>
-      <file name="$USER_HOME$/demo/src/main/kotlin/ml/zouren/demo/DemoApplication.kt" timestamp="1613686853526">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/demo/src/main/kotlin/ml/zouren/demo/DemoApplication.kt" timestamp="1613688223768">
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="26" column="33" />
+        <mark key="." line="26" column="32" />
+        <mark key="^" line="26" column="33" />
       </file>
       <file name="$USER_HOME$/demo/pom.xml" timestamp="1613682617955" />
       <file name="/wbfile/project/ibot-backend/app.js" timestamp="1613514812871">
