@@ -103,23 +103,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/wbfile/project/ibot-backend/routes/login.js" timestamp="1613514627722">
-        <mark key="[" line="33" column="37" />
-        <mark key="]" line="33" column="34" />
-        <mark key="." line="33" column="33" />
-        <mark key="^" line="33" column="34" />
+      <file name="/wbfile/draft/postgres-demo1/src/main/resources/application.properties" timestamp="1613704442755">
+        <mark key="[" line="0" column="52" />
+        <mark key="]" line="0" column="52" />
+        <mark key="." line="0" column="52" />
       </file>
-      <file name="/wbfile/project/ibot-frontend/src/util/passwordValidator.js" timestamp="1613509139037">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="33" />
-        <mark key="." line="9" column="32" />
-        <mark key="^" line="9" column="33" />
+      <file name="/console" timestamp="1613706388446">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" timestamp="1613514071685">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="31" />
-        <mark key="^" line="34" column="27" />
-        <mark key="." line="35" column="0" />
+      <file name="/wbfile/draft/postgres-demo1/src/main/kotlin/ml/zouren/postgresdemo1/Repositories.kt" timestamp="1613706822595">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="31" />
+      </file>
+      <file name="/wbfile/draft/postgres-demo1/src/main/kotlin/ml/zouren/postgresdemo1/service.kt" timestamp="1613707133025">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="9" column="30" />
+        <mark key="." line="9" column="29" />
+        <mark key="^" line="9" column="30" />
       </file>
       <file name="$USER_HOME$/demo/src/main/kotlin/ml/zouren/demo/DemoApplication.kt" timestamp="1613688223768">
         <mark key="[" line="26" column="22" />
@@ -127,9 +129,9 @@
         <mark key="." line="26" column="32" />
         <mark key="^" line="26" column="33" />
       </file>
-      <file name="$USER_HOME$/postgres-demo/src/main/kotlin/ml/zouren/postgresdemo/PostgresDemoApplication.kt" timestamp="1613701053817">
-        <mark key="[" line="24" column="37" />
-        <mark key="]" line="25" column="59" />
+      <file name="$USER_HOME$/postgres-demo/src/main/kotlin/ml/zouren/postgresdemo/PostgresDemoApplication.kt" timestamp="1613705257288">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="27" column="1" />
         <mark key="." line="25" column="58" />
         <mark key="^" line="25" column="59" />
       </file>
@@ -137,29 +139,24 @@
         <mark key="'" line="32" column="20" />
       </file>
       <file name="/wbfile/draft/kotlin-spring-boot-data-rest/src/main/kotlin/io/mikael/app/service.kt" timestamp="1613701195816" />
-      <file name="/wbfile/project/ibot-frontend/src/store/userSlice.js" timestamp="1613515297317">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="68" column="40" />
-        <mark key="." line="54" column="0" />
+      <file name="/a.sql" timestamp="1613706381595">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wbfile/draft/postgres-demo1/pom.xml" timestamp="1613702550976">
-        <mark key="[" line="71" column="38" />
-        <mark key="]" line="70" column="49" />
-        <mark key="^" line="70" column="49" />
-        <mark key="." line="70" column="48" />
+      <file name="/wbfile/draft/postgres-demo1/pom.xml" timestamp="1613707664579">
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="74" column="49" />
+        <mark key="^" line="74" column="49" />
+        <mark key="." line="74" column="48" />
       </file>
       <file name="/wbfile/draft/kotlin-spring-boot-data-rest/src/main/kotlin/io/mikael/app/model.kt" timestamp="1613701367399" />
-      <file name="/wbfile/draft/postgres-demo1/src/main/kotlin/ml/zouren/postgresdemo1/PostgresDemo1Application.kt" timestamp="1613702025419">
-        <mark key="[" line="13" column="1" />
-        <mark key="]" line="11" column="38" />
-        <mark key="^" line="11" column="39" />
-        <mark key="." line="11" column="38" />
+      <file name="/wbfile/draft/postgres-demo1/src/main/kotlin/ml/zouren/postgresdemo1/PostgresDemo1Application.kt" timestamp="1613707903298">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="32" column="19" />
+        <mark key="." line="32" column="18" />
+        <mark key="^" line="32" column="19" />
       </file>
-      <file name="/wbfile/project/ibot-frontend/src/app/App.js" timestamp="1613509106314">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="/dummy.sql" timestamp="1613706390164">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/postgres-demo/src/main/resources/application.properties" timestamp="1613701026383">
         <mark key="[" line="0" column="0" />
@@ -167,30 +164,21 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1613515180745">
-        <mark key="'" line="35" column="37" />
-        <mark key="[" line="48" column="66" />
-        <mark key="]" line="48" column="67" />
-        <mark key="." line="48" column="67" />
+      <file name="/myblog.public.users" timestamp="1613706388747">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wbfile/draft/kotlin-spring-boot-data-rest/src/main/kotlin/io/mikael/app/app.kt" timestamp="1613701437627" />
-      <file name="/wbfile/project/ibot-backend/app.js" timestamp="1613514812871">
-        <mark key="j" line="16" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="/Dummy.txt" timestamp="1613706381615">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wbfile/project/ibot-frontend/src/features/Login/Login.js" timestamp="1613514939965">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="155" column="44" />
-        <mark key="]" line="162" column="44" />
-        <mark key="." line="162" column="43" />
-        <mark key="^" line="162" column="44" />
+      <file name="/wbfile/draft/kotlin-spring-boot-data-rest/src/main/kotlin/io/mikael/app/app.kt" timestamp="1613704380640" />
+      <file name="/wbfile/draft/postgres-demo1/src/main/kotlin/ml/zouren/postgresdemo1/Entities.kt" timestamp="1613706753884">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="11" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="10" column="11" />
       </file>
-      <file name="/wbfile/draft/postgres-demo1/src/main/kotlin/ml/zouren/postgresdemo1/Entities.kt" timestamp="1613702840070">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="/users [myblog@localhost]" timestamp="1613706388729">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1613702816103">
         <mark key="[" line="0" column="0" />
@@ -302,45 +290,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5hbm5vdGF0aW9uLklkCg==</text>
+        <text encoding="base64">QFJlc3RDb250b3JsbGVyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>UserInfo</text>
       </register>
       <register name="/" type="4">
         <text>devtoo</text>
       </register>
       <register name="0" type="2">
-        <text>#spring.devtools.restart.enabled=false</text>
+        <text encoding="base64">QFJlc3RDb250cm9sbGVyCmNsYXNzIEJsb2dDb250cm9sbGVyKCkgewogICAgQEdldE1hcHBpbmcodmFsdWUgPSBbIi9ibG9nL3tpZH0iXSwKICAgICAgICAgICAgcHJvZHVjZXMgPSBbTWVkaWFUeXBlcy5IQUxfSlNPTl9WQUxVRSwgTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT05fVkFMVUVdKQoKICAgIGZ1biBibG9nKEBQYXRoVmFyaWFibGUgaWQ6IEludCk6IFJlc3BvbnNlRW50aXR5PEFueT8+IHsKICAgICAgICByZXR1cm4gUmVzcG9uc2VFbnRpdHkoIkhlbGxvIFdvcmxkIiwgSHR0cFN0YXR1cy5PSykKICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5hbm5vdGF0aW9uLklkCg==</text>
+        <text encoding="base64">QFJlc3RDb250b3JsbGVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text>#spring.devtools.restart.enabled=false</text>
+        <text encoding="base64">CmZ1biBmaW5kQnlJZChpZDogSW50KTogVXNlckluZm8=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgU3lzdGVtLnNldFByb3BlcnR5KCJzcHJpbmcuZGV2dG9vbHMucmVzdGFydC5lbmFibGVkIiwgImZhbHNlIikK</text>
+        <text encoding="base64">ICAgIHZhbCBmaW5kQnlJZCA9IHVzZXJzUmVwb3NpdG9yeS5maW5kQnlJZCgxKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFJlc291cmNlCnZhciB1c2Vyc1JlcG9zaXRvcnk6IFVzZXJzUmVwb3NpdG9yeQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oInRyeSBqYXZhIGNvZGUiKTsK</text>
+        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgdmFsIHVzZXJzUmVwb3NpdG9yeTogVXNlcnNSZXBvc2l0b3J5Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biByYW5kb21TdG9ja1ByaWNlKCk6IERvdWJsZSB7CiAgICAgICAgcmV0dXJuIFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKS5uZXh0RG91YmxlKDEwMC4wKQogICAgfQo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
-      <register name="8" type="4">
-        <text>Flux
-                .interval(Duration.ofSeconds(1))
-                .map { StockPrice(symbol, randomStockPrice(), LocalDateTime.now()) }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHVzZXJSZXBvc2l0b3J5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4KICAgIH0KICAgIGZ1biBwcmljZXMoc3ltYm9sOiBTdHJpbmcpOiBGbHV4PExvbmc+IHsK</text>
+        <text encoding="base64">ICAgIGZ1biBmaW5kQnlJZChpZDogTG9uZyk6IFVzZXI/Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
