@@ -127,10 +127,6 @@
         <mark key="." line="97" column="2" />
         <mark key="^" line="97" column="3" />
       </file>
-      <file name="/wbfile/draft/user-endpoint-nodejs/app.js" timestamp="1613341682994">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="49" />
-      </file>
       <file name="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" timestamp="1613514071685">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="31" />
@@ -162,11 +158,10 @@
         <mark key="." line="26" column="32" />
         <mark key="^" line="26" column="33" />
       </file>
-      <file name="$USER_HOME$/postgres-demo/src/main/kotlin/ml/zouren/postgresdemo/PostgresDemoApplication.kt" timestamp="1613697094139">
-        <mark key="[" line="20" column="26" />
-        <mark key="]" line="20" column="27" />
-        <mark key="." line="20" column="27" />
-        <mark key="^" line="20" column="26" />
+      <file name="$USER_HOME$/postgres-demo/src/main/kotlin/ml/zouren/postgresdemo/PostgresDemoApplication.kt" timestamp="1613697563178">
+        <mark key="[" line="21" column="27" />
+        <mark key="]" line="21" column="28" />
+        <mark key="." line="21" column="28" />
       </file>
       <file name="/wbfile/project/ibot-backend/app.js" timestamp="1613514812871">
         <mark key="j" line="16" column="0" />
@@ -212,6 +207,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/postgres-demo/src/main/resources/application.properties" timestamp="1613697513100">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -335,30 +336,30 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oInRyeSBqYXZhIGNvZGUiKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CiAgICBwcml2YXRlIGZ1biByYW5kb21TdG9ja1ByaWNlKCk6IERvdWJsZSB7CiAgICAgICAgcmV0dXJuIFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKS5uZXh0RG91YmxlKDEwMC4wKQogICAgfQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>Flux
                 .interval(Duration.ofSeconds(1))
                 .map { StockPrice(symbol, randomStockPrice(), LocalDateTime.now()) }</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4KICAgIH0KICAgIGZ1biBwcmljZXMoc3ltYm9sOiBTdHJpbmcpOiBGbHV4PExvbmc+IHsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZnVuIHByaWNlcyhzeW1ib2w6IFN0cmluZyk6IEZsdXg8TG9uZz4gewogICAgcmV0dXJuIEZsdXgKICAgICAgICAgICAgLmludGVydmFsKER1cmF0aW9uLm9mU2Vjb25kcygxKSkKICAgICAgICAgICAgLm1hcCB7IFN0b2NrUHJpY2Uoc3ltYm9sLCByYW5kb21TdG9ja1ByaWNlKCksIExvY2FsRGF0ZVRpbWUubm93KCkpIH0KfQoKcHJpdmF0ZSBmdW4gcmFuZG9tU3RvY2tQcmljZSgpOiBEb3VibGUgewogICAgcmV0dXJuIFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKS5uZXh0RG91YmxlKDEwMC4wKQp9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGtvdGxpbi50aW1lLkR1cmF0aW9uCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYWdlOiBJbnQK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJvZHkpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhib2R5KTsK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYWdlOiBJbnQK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
