@@ -121,12 +121,6 @@
         <mark key="^" line="34" column="27" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/wbfile/project/ibot-backend/secret.js" timestamp="1613378156569">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="52" />
-        <mark key="^" line="2" column="2" />
-        <mark key="." line="2" column="1" />
-      </file>
       <file name="$USER_HOME$/demo/src/main/kotlin/ml/zouren/demo/DemoApplication.kt" timestamp="1613688223768">
         <mark key="[" line="26" column="22" />
         <mark key="]" line="26" column="33" />
@@ -143,25 +137,25 @@
         <mark key="'" line="32" column="20" />
       </file>
       <file name="/wbfile/draft/kotlin-spring-boot-data-rest/src/main/kotlin/io/mikael/app/service.kt" timestamp="1613701195816" />
-      <file name="/wbfile/project/ibot-backend/db/connection.js" timestamp="1613377790277">
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="25" column="31" />
-        <mark key="^" line="25" column="31" />
-        <mark key="." line="25" column="30" />
-      </file>
-      <file name="/wbfile/project/ibot-frontend/src/util/a.js" timestamp="1613509101384">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="73" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/wbfile/project/ibot-frontend/src/store/userSlice.js" timestamp="1613515297317">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="^" line="68" column="40" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/wbfile/draft/postgres-demo1/pom.xml" timestamp="1613701885501" />
+      <file name="/wbfile/draft/postgres-demo1/pom.xml" timestamp="1613702550976">
+        <mark key="[" line="71" column="38" />
+        <mark key="]" line="70" column="49" />
+        <mark key="^" line="70" column="49" />
+        <mark key="." line="70" column="48" />
+      </file>
       <file name="/wbfile/draft/kotlin-spring-boot-data-rest/src/main/kotlin/io/mikael/app/model.kt" timestamp="1613701367399" />
+      <file name="/wbfile/draft/postgres-demo1/src/main/kotlin/ml/zouren/postgresdemo1/PostgresDemo1Application.kt" timestamp="1613702025419">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="11" column="38" />
+        <mark key="^" line="11" column="39" />
+        <mark key="." line="11" column="38" />
+      </file>
       <file name="/wbfile/project/ibot-frontend/src/app/App.js" timestamp="1613509106314">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -192,6 +186,14 @@
         <mark key="]" line="162" column="44" />
         <mark key="." line="162" column="43" />
         <mark key="^" line="162" column="44" />
+      </file>
+      <file name="/wbfile/draft/postgres-demo1/src/main/kotlin/ml/zouren/postgresdemo1/Entities.kt" timestamp="1613702840070">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1613702816103">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -300,10 +302,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>#spring.devtools.restart.enabled=false</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5hbm5vdGF0aW9uLklkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>devtoo</text>
@@ -312,33 +314,33 @@
         <text>#spring.devtools.restart.enabled=false</text>
       </register>
       <register name="1" type="2">
-        <text>#spring.devtools.restart.enabled=false</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5hbm5vdGF0aW9uLklkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgU3lzdGVtLnNldFByb3BlcnR5KCJzcHJpbmcuZGV2dG9vbHMucmVzdGFydC5lbmFibGVkIiwgImZhbHNlIikK</text>
+        <text>#spring.devtools.restart.enabled=false</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgU3lzdGVtLnNldFByb3BlcnR5KCJzcHJpbmcuZGV2dG9vbHMucmVzdGFydC5lbmFibGVkIiwgImZhbHNlIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oInRyeSBqYXZhIGNvZGUiKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oInRyeSBqYXZhIGNvZGUiKTsK</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CiAgICBwcml2YXRlIGZ1biByYW5kb21TdG9ja1ByaWNlKCk6IERvdWJsZSB7CiAgICAgICAgcmV0dXJuIFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKS5uZXh0RG91YmxlKDEwMC4wKQogICAgfQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>Flux
                 .interval(Duration.ofSeconds(1))
                 .map { StockPrice(symbol, randomStockPrice(), LocalDateTime.now()) }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4KICAgIH0KICAgIGZ1biBwcmljZXMoc3ltYm9sOiBTdHJpbmcpOiBGbHV4PExvbmc+IHsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuIHByaWNlcyhzeW1ib2w6IFN0cmluZyk6IEZsdXg8TG9uZz4gewogICAgcmV0dXJuIEZsdXgKICAgICAgICAgICAgLmludGVydmFsKER1cmF0aW9uLm9mU2Vjb25kcygxKSkKICAgICAgICAgICAgLm1hcCB7IFN0b2NrUHJpY2Uoc3ltYm9sLCByYW5kb21TdG9ja1ByaWNlKCksIExvY2FsRGF0ZVRpbWUubm93KCkpIH0KfQoKcHJpdmF0ZSBmdW4gcmFuZG9tU3RvY2tQcmljZSgpOiBEb3VibGUgewogICAgcmV0dXJuIFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKS5uZXh0RG91YmxlKDEwMC4wKQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4KICAgIH0KICAgIGZ1biBwcmljZXMoc3ltYm9sOiBTdHJpbmcpOiBGbHV4PExvbmc+IHsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
