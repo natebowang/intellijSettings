@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>value</entry>
         <entry>decra</entry>
         <entry>red</entry>
         <entry>left</entry>
@@ -25,6 +24,7 @@
         <entry>auto</entry>
         <entry>onFocus</entry>
         <entry>devtoo</entry>
+        <entry encoding="base64">XDxhcnJheU9mXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -138,11 +138,11 @@
       <file name="$USER_HOME$/postgres-demo/pom.xml" timestamp="1613726125864">
         <mark key="'" line="32" column="20" />
       </file>
-      <file name="$USER_HOME$/postgres-demo/src/main/kotlin/ml/zouren/postgresdemo/HelloWorld.kt" timestamp="1613769770704">
-        <mark key="[" line="39" column="27" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/postgres-demo/src/main/kotlin/ml/zouren/postgresdemo/HelloWorld.kt" timestamp="1613771703897">
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="34" column="19" />
+        <mark key="." line="34" column="19" />
+        <mark key="^" line="51" column="33" />
       </file>
       <file name="/a.sql" timestamp="1613706381595">
         <mark key="[" line="0" column="0" />
@@ -176,7 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="17" filename="/wbfile/draft/redux-learn-2/src/components/Dropdown/Dropdown.js" />
       <jump line="30" column="36" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
       <jump line="10" column="5" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
       <jump line="0" column="0" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
@@ -276,48 +275,49 @@
       <jump line="32" column="20" filename="$USER_HOME$/postgres-demo/pom.xml" />
       <jump line="27" column="25" filename="/wbfile/draft/postgres-demo1/src/main/kotlin/ml/zouren/postgresdemo1/PostgresDemo1Application.kt" />
       <jump line="26" column="0" filename="/wbfile/draft/postgres-demo1/src/main/kotlin/ml/zouren/postgresdemo1/PostgresDemo1Application.kt" />
+      <jump line="34" column="11" filename="$USER_HOME$/postgres-demo/src/main/kotlin/ml/zouren/postgresdemo/HelloWorld.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBhcnIgPSBhcnJheU9mKCJhIiwgImIiLCAiYyIpCgogICAgYXJyLmZvckVhY2hJbmRleGVkKCkgeyBpLCBpdGVtIC0+IHByaW50KCIkaSRpdGVtICIpIH0K</text>
+      <register name="&quot;" type="4">
+        <text>, greeting = &quot;hi&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>, greeting = &quot;hi&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>devtoo</text>
+        <text encoding="base64">XDxhcnJheU9mXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBhcnIgPSBhcnJheU9mKCJhIiwgImIiLCAiYyIpCgogICAgYXJyLmZvckVhY2ggeyBpIC0+IHByaW50KGkpIH0K</text>
+        <text encoding="base64">ZnVuIGYoYTogU3RyaW5nLCB2YXJhcmcgYjpTdHJpbmcpIHsKICAgIHByaW50KGEpCiAgICBiLmZvckVhY2ggeyBwcmludChpdCkgfQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBhcnIgPSBhcnJheU9mKCJhIiwgImIiLCAiYyIpCgogICAgYXJyLmZvckVhY2hJbmRleGVkKCkgeyBpLCBpdGVtIC0+IHByaW50KCIkaSRpdGVtICIpIH0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICBmb3IgKGkgaW4gYXJyKSB7CiAgICAgICAgcHJpbnQoaSkKICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGYoIjEiLCAqbCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhbCBhcnIgPSBhcnJheU9mKCJhIiwgImIiLCAiYyIpCgogICAgYXJyLmZvckVhY2hJbmRleGVkKCkgeyBpLCBpdGVtIC0+IHByaW50KCIkaSRpdGVtICIpIH0K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFyclswXSkK</text>
+        <text encoding="base64">CiAgICBmb3IgKGkgaW4gYXJyKSB7CiAgICAgICAgcHJpbnQoaSkKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgcmV0dXJuICJoZWxsbyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGEpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGFyclswXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAogICAgcmV0dXJuICJoZWxsbyIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oImhlbGxvICRuYW1lIikK</text>
+        <text encoding="base64">ICAgIHByaW50KGEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBuYW1lOiBTdHJpbmcgPSAiTmF0ZSIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -326,9 +326,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>devtoo</last-search>
+      <last-search encoding="base64">XDxhcnJheU9mXD4=</last-search>
       <last-offset />
-      <last-pattern>devtoo</last-pattern>
+      <last-pattern encoding="base64">XDxhcnJheU9mXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
