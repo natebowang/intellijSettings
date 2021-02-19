@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>离开</entry>
         <entry>value</entry>
         <entry>decra</entry>
         <entry>red</entry>
@@ -25,6 +24,7 @@
         <entry>updateUserP</entry>
         <entry>auto</entry>
         <entry>onFocus</entry>
+        <entry>devtoo</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -163,11 +163,20 @@
         <mark key="^" line="26" column="33" />
       </file>
       <file name="$USER_HOME$/demo/pom.xml" timestamp="1613682617955" />
+      <file name="$USER_HOME$/postgres-demo/src/main/kotlin/ml/zouren/postgresdemo/PostgresDemoApplication.kt" timestamp="1613696859068">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+        <mark key="^" line="20" column="26" />
+      </file>
       <file name="/wbfile/project/ibot-backend/app.js" timestamp="1613514812871">
         <mark key="j" line="16" column="0" />
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/postgres-demo/pom.xml" timestamp="1613696601995">
+        <mark key="'" line="32" column="20" />
       </file>
       <file name="/wbfile/project/ibot-backend/db/connection.js" timestamp="1613377790277">
         <mark key="[" line="25" column="23" />
@@ -205,19 +214,8 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/wbfile/draft/user-endpoint-nodejs/routes/user.js" timestamp="1613340508802">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="39" column="2" />
-      </file>
-      <file name="/wbfile/draft/user-endpoint-nodejs/middleware/loginCheck.js" timestamp="1613340680130">
-        <mark key="[" line="9" column="1" />
-        <mark key="]" line="9" column="2" />
-        <mark key="^" line="9" column="2" />
-        <mark key="." line="9" column="1" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="/wbfile/draft/redux-learn-2/src/components/navbar/LinksUser.js" />
       <jump line="11" column="20" filename="/wbfile/draft/redux-learn-2/src/components/navbarMobile/LinksMobile.js" />
       <jump line="72" column="18" filename="/wbfile/draft/redux-learn-2/src/components/navbarMobile/LinksMobile.js" />
       <jump line="20" column="17" filename="/wbfile/draft/redux-learn-2/src/components/Dropdown/Dropdown.js" />
@@ -317,50 +315,51 @@
       <jump line="133" column="86" filename="/wbfile/project/ibot-frontend/src/features/Login/Login.js" />
       <jump line="18" column="0" filename="/wbfile/project/ibot-frontend/src/features/Login/Login.js" />
       <jump line="31" column="77" filename="$USER_HOME$/demo/src/main/kotlin/ml/zouren/demo/DemoApplication.kt" />
+      <jump line="32" column="20" filename="$USER_HOME$/postgres-demo/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biByYW5kb21TdG9ja1ByaWNlKCk6IERvdWJsZSB7CiAgICAgICAgcmV0dXJuIFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKS5uZXh0RG91YmxlKDEwMC4wKQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Rmx1eDxTdG9ja1ByaWNlPg==</text>
       </register>
       <register name="/" type="4">
-        <text>onFocus</text>
+        <text>devtoo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgQEdldE1hcHBpbmcodmFsdWUgPSBbIi9zdG9ja3Mve3N5bWJvbH0iXSwKLy8gICAgICAgICAgICBwcm9kdWNlcyA9IFtNZWRpYVR5cGUuVEVYVF9FVkVOVF9TVFJFQU1fVkFMVUVdKQovLwovLyAgICBmdW4gcHJpY2VzKEBQYXRoVmFyaWFibGUgc3ltYm9sOiBTdHJpbmcpOiBGbHV4PFN0b2NrUHJpY2U+IHsKLy8gICAgICAgIHJldHVybiBGbHV4Ci8vICAgICAgICAgICAgICAgIC5pbnRlcnZhbChEdXJhdGlvbi5vZlNlY29uZHMoMSkpCi8vICAgICAgICAgICAgICAgIC5tYXAgeyBTdG9ja1ByaWNlKHN5bWJvbCwgcmFuZG9tU3RvY2tQcmljZSgpLCBMb2NhbERhdGVUaW1lLm5vdygpKSB9Ci8vICAgIH0KLy8KLy8gICAgcHJpdmF0ZSBmdW4gcmFuZG9tU3RvY2tQcmljZSgpOiBEb3VibGUgewovLyAgICAgICAgcmV0dXJuIFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKS5uZXh0RG91YmxlKDEwMC4wKQovLyAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">CiAgICBwcml2YXRlIGZ1biByYW5kb21TdG9ja1ByaWNlKCk6IERvdWJsZSB7CiAgICAgICAgcmV0dXJuIFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKS5uZXh0RG91YmxlKDEwMC4wKQogICAgfQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>Flux
                 .interval(Duration.ofSeconds(1))
                 .map { StockPrice(symbol, randomStockPrice(), LocalDateTime.now()) }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4KICAgIH0KICAgIGZ1biBwcmljZXMoc3ltYm9sOiBTdHJpbmcpOiBGbHV4PExvbmc+IHsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ZnVuIHByaWNlcyhzeW1ib2w6IFN0cmluZyk6IEZsdXg8TG9uZz4gewogICAgcmV0dXJuIEZsdXgKICAgICAgICAgICAgLmludGVydmFsKER1cmF0aW9uLm9mU2Vjb25kcygxKSkKICAgICAgICAgICAgLm1hcCB7IFN0b2NrUHJpY2Uoc3ltYm9sLCByYW5kb21TdG9ja1ByaWNlKCksIExvY2FsRGF0ZVRpbWUubm93KCkpIH0KfQoKcHJpdmF0ZSBmdW4gcmFuZG9tU3RvY2tQcmljZSgpOiBEb3VibGUgewogICAgcmV0dXJuIFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKS5uZXh0RG91YmxlKDEwMC4wKQp9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGtvdGxpbi50aW1lLkR1cmF0aW9uCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgYWdlOiBJbnQK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJvZHkpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhib2R5KTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGVyci5lcnJvclByb3BzKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhib2R5KTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -369,9 +368,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onFocus</last-search>
+      <last-search>devtoo</last-search>
       <last-offset />
-      <last-pattern>onFocus</last-pattern>
+      <last-pattern>devtoo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
