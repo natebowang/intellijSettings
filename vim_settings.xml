@@ -103,11 +103,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/console" timestamp="1613785437813">
+      <file name="/wbfile/draft/postgres-demo1/src/main/resources/application.properties" timestamp="1613788204889">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="33" />
+        <mark key="." line="0" column="52" />
+      </file>
+      <file name="/wbfile/draft/blog-demo/src/test/kotlin/ml/zouren/blogdemo/repository/BlogRepositoryTests.kt" timestamp="1613788924385">
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="16" column="25" />
+        <mark key="." line="16" column="25" />
+        <mark key="^" line="20" column="30" />
+      </file>
+      <file name="/console" timestamp="1613788754861">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wbfile/draft/blog-demo/src/main/kotlin/ml/zouren/blogdemo/BlogDemoApplication.kt" timestamp="1613781615907">
-        <mark key="[" line="10" column="1" />
+      <file name="/wbfile/draft/postgres-demo1/src/main/kotlin/ml/zouren/postgresdemo1/Repositories.kt" timestamp="1613788200736">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="31" />
       </file>
       <file name="/wbfile/draft/postgres-demo1/src/main/kotlin/ml/zouren/postgresdemo1/service.kt" timestamp="1613783886254">
         <mark key="[" line="8" column="0" />
@@ -121,17 +135,17 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="22" />
       </file>
-      <file name="/a.sql" timestamp="1613785437629">
+      <file name="/a.sql" timestamp="1613788754082">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/blog [myblog@localhost]" timestamp="1613785450826">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/postgres-demo/src/main/kotlin/ml/zouren/postgresdemo/PersonInfoProvider.kt" timestamp="1613776874183">
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="14" column="19" />
-        <mark key="^" line="14" column="19" />
-        <mark key="." line="14" column="18" />
+      <file name="/wbfile/draft/blog-demo/pom.xml" timestamp="1613788420918">
+        <mark key="[" line="28" column="21" />
+        <mark key="]" line="33" column="21" />
+        <mark key="^" line="33" column="21" />
+        <mark key="." line="33" column="20" />
       </file>
       <file name="/wbfile/draft/postgres-demo1/src/main/kotlin/ml/zouren/postgresdemo1/PostgresDemo1Application.kt" timestamp="1613783905262">
         <mark key="'" line="27" column="0" />
@@ -139,6 +153,11 @@
         <mark key="]" line="35" column="28" />
         <mark key="." line="35" column="28" />
         <mark key="^" line="34" column="51" />
+      </file>
+      <file name="/wbfile/draft/blog-demo/src/main/resources/application.properties" timestamp="1613788215710">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1613785457740">
         <mark key="[" line="0" column="0" />
@@ -155,36 +174,18 @@
       <file name="/myblog.public.users" timestamp="1613785452921">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1613785437646">
+      <file name="/Dummy.txt" timestamp="1613788754100">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/wbfile/draft/blog-demo/.gitignore" timestamp="1613781373274">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="4" />
-        <mark key="^" line="5" column="4" />
-        <mark key="." line="5" column="3" />
-      </file>
-      <file name="$USER_HOME$/postgres-demo/src/main/kotlin/ml/zouren/postgresdemo/HelloWorld.kt" timestamp="1613776380723">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="43" column="17" />
-        <mark key="." line="43" column="16" />
-        <mark key="^" line="43" column="17" />
       </file>
       <file name="/wbfile/project/ibot-backend/db/ibot_postgres.sql" timestamp="1613785360953">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="65" />
       </file>
-      <file name="$USER_HOME$/postgres-demo/src/main/kotlin/ml/zouren/postgresdemo/Person.kt" timestamp="1613775352651">
-        <mark key="[" line="9" column="34" />
-        <mark key="]" line="9" column="27" />
-        <mark key="." line="9" column="26" />
-        <mark key="^" line="9" column="27" />
-      </file>
-      <file name="/wbfile/draft/blog-demo/src/main/kotlin/ml/zouren/blogdemo/entity/Blog.kt" timestamp="1613786281681">
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="13" column="19" />
-        <mark key="." line="13" column="18" />
-        <mark key="^" line="13" column="19" />
+      <file name="/wbfile/draft/blog-demo/src/main/kotlin/ml/zouren/blogdemo/entity/Blog.kt" timestamp="1613787413287">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="27" />
+        <mark key="." line="11" column="26" />
+        <mark key="^" line="11" column="27" />
       </file>
       <file name="/wbfile/draft/postgres-demo1/src/main/kotlin/ml/zouren/postgresdemo1/Entities.kt" timestamp="1613785854060">
         <mark key="[" line="8" column="0" />
@@ -301,44 +302,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZ1biBmaW5kQnlJZChpZDogSW50KTogQmxvZwogICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aWQgPSAwLCA=</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text encoding="base64">aWQgPSAwLCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheU9mXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdGl0bGU6IFN0cmluZywK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gYmxvZ1JlcG9zaXRvcnkuZmluZEJ5SWQoMCkKICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdCkuaXNFcXVhbFRvKGJsb2cwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZ1biBmaW5kQnlJZChpZDogSW50KTogQmxvZwogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLnBlcnNpc3QoYmxvZzApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBJZAogICAgQEdlbmVyYXRlZFZhbHVlKHN0cmF0ZWd5ID0gR2VuZXJhdGlvblR5cGUuSURFTlRJVFkpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciB1c2VybmFtZTogU3RyaW5nPyA9IG51bGwsCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">QEV4dGVuZFdpdGgoU3ByaW5nRXh0ZW5zaW9uLmNsYXNzKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZ1biBmaW5kQnlJZChpZDogSW50KTogQmxvZwogICAgCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0gICAgIG1ldGFkYXRhCg==</text>
+        <text encoding="base64">ICAgIEBJZAogICAgQEdlbmVyYXRlZFZhbHVlKHN0cmF0ZWd5ID0gR2VuZXJhdGlvblR5cGUuSURFTlRJVFkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS0gICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhciB1c2VybmFtZTogU3RyaW5nPyA9IG51bGwsCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0gICAgICBVc2VyIGluZm9ybWF0aW9uCiAgICBlbWFpbCAgICAgICAgIHZhcmNoYXIoMjAwKSwKICAgIHBob25lICAgICAgICAgdmFyY2hhcigyMDApLAogICAgYXZhdGFyICAgICAgICB2YXJjaGFyKDIwMCksCiAgICB1c2VyX3N0YXRlICAgIHNtYWxsaW50ICAgICBOT1QgTlVMTCBERUZBVUxUIDEsCg==</text>
+        <text encoding="base64">LS0gICAgIG1ldGFkYXRhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNhbHQgICAgICAgICAgICB2YXJjaGFyKDIwMCkgTk9UIE5VTEwsCiAgICBsb2dpbl9tZXRob2RfaWQgaW50ZWdlciAgICAgIE5PVCBOVUxMLAo=</text>
+        <text encoding="base64">LS0gICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
