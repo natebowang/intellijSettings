@@ -108,10 +108,10 @@
         <mark key="]" line="2" column="33" />
         <mark key="." line="0" column="52" />
       </file>
-      <file name="/wbfile/draft/blog-demo/src/test/kotlin/ml/zouren/blogdemo/repository/BlogRepositoryTests.kt" timestamp="1613848900930">
+      <file name="/wbfile/draft/blog-demo/src/test/kotlin/ml/zouren/blogdemo/repository/BlogRepositoryTests.kt" timestamp="1613854008260">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="36" column="29" />
-        <mark key="]" line="36" column="19" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="96" />
         <mark key="." line="36" column="18" />
         <mark key="^" line="36" column="19" />
       </file>
@@ -160,19 +160,17 @@
       <file name="/Dummy.txt" timestamp="1613813763905">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wbfile/draft/blog-demo/src/test/kotlin/ml/zouren/blogdemo/service/BlogServiceTests.kt" timestamp="1613849188202">
-        <mark key="[" line="46" column="65" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="44" column="72" />
-        <mark key="." line="48" column="0" />
+      <file name="/wbfile/draft/blog-demo/src/test/kotlin/ml/zouren/blogdemo/service/BlogServiceTests.kt" timestamp="1613854035035">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="9" column="31" />
       </file>
-      <file name="/wbfile/draft/blog-demo/src/test/kotlin/ml/zouren/blogdemo/entity/BlogTests.kt" timestamp="1613803579887">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="/wbfile/draft/blog-demo/src/test/kotlin/ml/zouren/blogdemo/entity/BlogTests.kt" timestamp="1613852706823">
+        <mark key="]" line="27" column="5" />
         <mark key="^" line="26" column="38" />
       </file>
-      <file name="/wbfile/draft/blog-demo/src/main/kotlin/ml/zouren/blogdemo/service/BlogService.kt" timestamp="1613849126557">
+      <file name="/wbfile/draft/blog-demo/src/main/kotlin/ml/zouren/blogdemo/service/BlogService.kt" timestamp="1613849401992">
         <mark key="[" line="19" column="8" />
         <mark key="]" line="43" column="38" />
         <mark key="." line="43" column="37" />
@@ -184,11 +182,10 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="/wbfile/draft/postgres-demo1/src/main/kotlin/ml/zouren/postgresdemo1/Entities.kt" timestamp="1613785854060">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="10" column="37" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="10" column="11" />
+      <file name="/wbfile/draft/blog-demo/src/main/kotlin/ml/zouren/blogdemo/controller/BlogController.kt" timestamp="1613854418007">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1613794882138">
         <mark key="[" line="0" column="0" />
@@ -300,43 +297,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QENvbnRyb2xsZXIK</text>
       </register>
       <register name="-" type="4">
-        <text>Equals</text>
+        <text>blogService.findByIdOrNull(id)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheU9mXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudCA9ICJMaWdodHdlaWdodCwgaW50ZXJwcmV0ZWQsIG9yIGp1c3QtaW4tdGltZSBjb21waWxlZCBwcm9ncmFtbWluZyBsYW5ndWFnZSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpbnRsbigpCiAgICAgICAgcHJpbnRsbigpCiAgICAgICAgcHJpbnRsbigpCiAgICAgICAgcHJpbnRsbigpCiAgICAgICAgcHJpbnRsbigpCiAgICAgICAgcHJpbnRsbigpCiAgICAgICAgYXNzZXJ0VHJ1ZSh0cnVlKQo=</text>
+        <text encoding="base64">QENvbnRyb2xsZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiaGFoYSAiICsgYmxvZ1NlcnZpY2UuZmluZEJ5SWRPck51bGwoMCk/LnRpdGxlKQo=</text>
+        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudCA9ICJNb2Rlcm4sIGNvbmNpc2UgYW5kIHNhZmUgcHJvZ3JhbW1pbmcgbGFuZ3VhZ2UiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBibG9nU2VydmljZS5kZWxldGVCeUlkKDEpCiAgICAgICAgYmxvZ1NlcnZpY2UuZGVsZXRlQnlJZCgxMjM0KQoKCgoK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBibG9nU2VydmljZS5kZWxldGVCeUlkKDEyMzQpCgoKCgoKICAgICAgICBwcmludGxuKCkKICAgICAgICBwcmludGxuKCkKICAgICAgICBwcmludGxuKCkKICAgICAgICBwcmludCgiaGFoYSAiICsgYmxvZ1NlcnZpY2UuZmluZEJ5SWRPck51bGwoMCk/LnRpdGxlKQogICAgICAgIHByaW50bG4oKQogICAgICAgIHByaW50bG4oKQogICAgICAgIHByaW50bG4oKQogICAgICAgIGFzc2VydFRydWUodHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmxvZ1NlcnZpY2UuZmluZEJ5SWRPck51bGwoaWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNb2NraXRvLmB3aGVuYChtb2NrQmxvZ1JlcG9zaXRvcnkuc2F2ZShhbnkoKSkpLnRoZW4ocmV0dXJuc0ZpcnN0QXJnPEJsb2c+KCkpCiAgICAgICAgYXNzZXJ0RXF1YWxzKGJsb2dTZXJ2aWNlLnNhdmUoYmxvZ1JlY29yZDEpLCBibG9nUmVjb3JkMSkKCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLkFkZGl0aW9uYWxBbnN3ZXJzLnJldHVybnNGaXJzdEFyZwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5kYXRhLnJlcG9zaXRvcnkuZmluZEJ5SWRPck51bGwKaW1wb3J0IGphdmEubGFuZy5JbmRleE91dE9mQm91bmRzRXhjZXB0aW9uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgYmxvZ1NlcnZpY2UuZGVsZXRlQnlJZCgxKQogICAgICAgIGJsb2dTZXJ2aWNlLmRlbGV0ZUJ5SWQoMTIzNCkKCgoKCgogICAgICAgIHByaW50bG4oKQogICAgICAgIHByaW50bG4oKQogICAgICAgIHByaW50bG4oKQogICAgICAgIHByaW50KCJoYWhhICIgKyBibG9nU2VydmljZS5maW5kQnlJZE9yTnVsbCgwKT8udGl0bGUpCiAgICAgICAgcHJpbnRsbigpCiAgICAgICAgcHJpbnRsbigpCiAgICAgICAgcHJpbnRsbigpCiAgICAgICAgYXNzZXJ0VHJ1ZSh0cnVlKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG8uYW55Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIE1vY2tpdG8uYHdoZW5gKG1vY2tCbG9nUmVwb3NpdG9yeS5kZWxldGVCeUlkKDEpKS50aGVuUmV0dXJuKGJsb2dSZWNvcmQxKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLkFkZGl0aW9uYWxBbnN3ZXJzLnJldHVybnNGaXJzdEFyZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIE1vY2tpdG8uYHdoZW5gKG1vY2tCbG9nUmVwb3NpdG9yeS5kZWxldGVCeUlkKDEpKS50aGVuUmV0dXJuKGJsb2dSZWNvcmQxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
