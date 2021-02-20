@@ -108,10 +108,10 @@
         <mark key="]" line="2" column="33" />
         <mark key="." line="0" column="52" />
       </file>
-      <file name="/wbfile/draft/blog-demo/src/test/kotlin/ml/zouren/blogdemo/repository/BlogRepositoryTests.kt" timestamp="1613845013645">
+      <file name="/wbfile/draft/blog-demo/src/test/kotlin/ml/zouren/blogdemo/repository/BlogRepositoryTests.kt" timestamp="1613846725216">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="77" />
         <mark key="." line="9" column="0" />
       </file>
       <file name="/console" timestamp="1613788754861">
@@ -159,10 +159,11 @@
       <file name="/Dummy.txt" timestamp="1613813763905">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wbfile/draft/blog-demo/src/test/kotlin/ml/zouren/blogdemo/service/BlogServiceTests.kt" timestamp="1613818562594">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="/wbfile/draft/blog-demo/src/test/kotlin/ml/zouren/blogdemo/service/BlogServiceTests.kt" timestamp="1613846870146">
+        <mark key="[" line="34" column="63" />
+        <mark key="]" line="34" column="64" />
+        <mark key="." line="34" column="64" />
+        <mark key="^" line="34" column="63" />
       </file>
       <file name="/wbfile/draft/blog-demo/src/test/kotlin/ml/zouren/blogdemo/entity/BlogTests.kt" timestamp="1613803579887">
         <mark key="[" line="28" column="0" />
@@ -297,44 +298,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>title</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiaGFoYSAiICsgPy4gdGl0bGUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>blogService.save(blogRecord1)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheU9mXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1biB1cGRhdGVUaXRsZUJ5SWQoaWQ6IEludCwgdGl0bGU6IFN0cmluZyk6IEJsb2c/IHsKICAgICAgICB2YWwgcmVjb3JkID0gYmxvZ1JlcG9zaXRvcnkuZmluZEJ5SWRPck51bGwoaWQpCiAgICAgICAgcmV0dXJuIGlmIChyZWNvcmQgIT0gbnVsbCkgewogICAgICAgICAgICByZWNvcmQudGl0bGUgPSB0aXRsZQogICAgICAgICAgICBibG9nUmVwb3NpdG9yeS5zYXZlKHJlY29yZCkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBudWxsCiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgIHZhbCBibG9nUmVjb3JkMiA9IEJsb2coaWQgPSAyLCB0aXRsZSA9ICJKYXZhU2NyaXB0IHByb2dyYW1taW5nIGxhbmd1YWdlIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaGFoYSAiICsgPy4gdGl0bGUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIE1vY2tpdG8uYHdoZW5gKGJsb2dSZXBvc2l0b3J5LnNhdmUoYmxvZ1JlY29yZDEpKS50aGVuUmV0dXJuKGJsb2dSZWNvcmQxKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvbGQudGl0bGUgPSB0aXRsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0Lkxpc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlOiBFeGNlcHRpb24pIHsKICAgICAgICAgICAgcHJpbnRsbihlLm1lc3NhZ2UpCiAgICAgICAgICAgIHRocm93IGUKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBibG9nUmVjb3JkMiA9IEJsb2coaWQgPSAyLCB0aXRsZSA9ICIyIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5yZXBvc2l0b3J5LmZpbmRCeUlkT3JOdWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBvbGQudGl0bGUgPSB0aXRsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGFvLkRhdGFJbnRlZ3JpdHlWaW9sYXRpb25FeGNlcHRpb24K</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuYXd0Lkxpc3QK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
