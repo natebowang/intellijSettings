@@ -108,11 +108,11 @@
         <mark key="]" line="2" column="33" />
         <mark key="." line="0" column="52" />
       </file>
-      <file name="/wbfile/draft/blog-demo/src/test/kotlin/ml/zouren/blogdemo/repository/BlogRepositoryTests.kt" timestamp="1613806746588">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="36" column="44" />
+      <file name="/wbfile/draft/blog-demo/src/test/kotlin/ml/zouren/blogdemo/repository/BlogRepositoryTests.kt" timestamp="1613809497007">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="25" column="35" />
       </file>
       <file name="/console" timestamp="1613788754861">
         <mark key="[" line="0" column="0" />
@@ -122,12 +122,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="31" />
-      </file>
-      <file name="/wbfile/draft/blog-demo/myblog.sql" timestamp="1613785388548">
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="10" column="22" />
-        <mark key="." line="10" column="21" />
-        <mark key="^" line="10" column="22" />
       </file>
       <file name="/a.sql" timestamp="1613788754082">
         <mark key="[" line="0" column="0" />
@@ -141,6 +135,7 @@
         <mark key="^" line="33" column="21" />
         <mark key="." line="33" column="20" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.4.5/spring-data-commons-2.4.5.jar!/org/springframework/data/repository/CrudRepository.class" timestamp="1613808648105" />
       <file name="/wbfile/draft/blog-demo/src/main/resources/application.properties" timestamp="1613788215710">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -149,11 +144,11 @@
       <file name="/dummy.sql" timestamp="1613803772175">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wbfile/draft/blog-demo/src/main/kotlin/ml/zouren/blogdemo/repository/BlogRepository.kt" timestamp="1613786464975">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="5" column="51" />
-        <mark key="." line="5" column="50" />
-        <mark key="^" line="5" column="51" />
+      <file name="/wbfile/draft/blog-demo/src/main/kotlin/ml/zouren/blogdemo/repository/BlogRepository.kt" timestamp="1613809044628">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="52" />
+        <mark key="." line="5" column="51" />
+        <mark key="^" line="5" column="52" />
       </file>
       <file name="/myblog.public.blog" timestamp="1613801405107">
         <mark key="[" line="0" column="0" />
@@ -170,15 +165,16 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="26" column="38" />
       </file>
-      <file name="/wbfile/project/ibot-backend/db/ibot_postgres.sql" timestamp="1613785360953">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="65" />
+      <file name="/wbfile/draft/blog-demo/src/main/kotlin/ml/zouren/blogdemo/service/BlogService.kt" timestamp="1613808671724">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="19" />
+        <mark key="." line="16" column="0" />
       </file>
-      <file name="/wbfile/draft/blog-demo/src/main/kotlin/ml/zouren/blogdemo/entity/Blog.kt" timestamp="1613803054892">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="28" column="23" />
+      <file name="/wbfile/draft/blog-demo/src/main/kotlin/ml/zouren/blogdemo/entity/Blog.kt" timestamp="1613809983526">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="/wbfile/draft/postgres-demo1/src/main/kotlin/ml/zouren/postgresdemo1/Entities.kt" timestamp="1613785854060">
         <mark key="[" line="8" column="0" />
@@ -299,43 +295,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBATGVuZ3RoKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>).isEqualTo(</text>
+        <text>&quot;Lightweight, interpreted, or just-in-time compiled programming language&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheU9mXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYjEgPSBCbG9nKDEsICJhIiwgImMiKQogICAgICAgIGFzc2VydEVxdWFscyhiMS5oYXNoQ29kZSgpLCBiMS5pZCkK</text>
+        <text encoding="base64">ICAgICAgICBAQ29sdW1uKGxlbmd0aD0zKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBATGVuZ3RoKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBibG9nTGlzdCA9IG11dGFibGVMaXN0T2Y8QmxvZz4oKQogICAgICAgIGJsb2dSZXBvc2l0b3J5LmZpbmRBbGwoKS5mb3JFYWNoIHsgYmxvZ0xpc3QuYWRkKGl0KSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBibG9nUmVwb3NpdG9yeS5zYXZlKGJsb2dSZWNvcmQzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBVcGRhdGUgYmxvZyByZWNvcmQgMAogICAgICAgIGJsb2dSZXBvc2l0b3J5LgoK</text>
+        <text encoding="base64">ICAgIHZhbCBibG9nUmVjb3JkMyA9IEJsb2coaWQgPSAyLCB0aXRsZSA9ICJKYXZhU2NyaXB0IHByb2dyYW1taW5nIGxhbmd1YWdlIiwKICAgICAgICAgICAgY29udGVudCA9IDIyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBibG9nUmVwb3NpdG9yeS5kZWxldGVCeUlkKDUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGJsb2cpLmlzRXF1YWxUbyhibG9nUmVjb3JkMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYmxvZzogQmxvZz8K</text>
+        <text encoding="base64">ICAgIHZhbCBibG9nUmVjb3JkMyA9IEJsb2coaWQgPSAzLCB0aXRsZSA9ICJKYXZhU2NyaXB0IHByb2dyYW1taW5nIGxhbmd1YWdlIiwgY29udGVudCA9IG51bGwpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYmxvZ0xpc3Q6IE11dGFibGVMaXN0PEJsb2c+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBibG9nTGlzdCA9IG11dGFibGVMaXN0T2YoKQo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBzdHVkZW50UmVwb3NpdG9yeS5maW5kQWxsKCkuZm9yRWFjaChzdHVkZW50czo6YWRkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCkKICAgICAgICBwcmludGxuKCkKICAgICAgICBwcmludGxuKGJsb2chIS50aXRsZSkKICAgICAgICBwcmludGxuKGJsb2dSZWNvcmQwISEudGl0bGUpCiAgICAgICAgcHJpbnRsbigpCiAgICAgICAgcHJpbnRsbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0dWRlbnQ+IHN0dWRlbnRzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
