@@ -109,11 +109,6 @@
       <file name="/Dummy.txt" timestamp="1613706381615">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wbfile/draft/postgres-demo1/src/main/resources/application.properties" timestamp="1613704442755">
-        <mark key="[" line="0" column="52" />
-        <mark key="]" line="0" column="52" />
-        <mark key="." line="0" column="52" />
-      </file>
       <file name="/console" timestamp="1613706388446">
         <mark key="[" line="0" column="0" />
       </file>
@@ -137,6 +132,12 @@
       </file>
       <file name="$USER_HOME$/postgres-demo/pom.xml" timestamp="1613726125864">
         <mark key="'" line="32" column="20" />
+      </file>
+      <file name="/wbfile/draft/blog-demo/.gitignore" timestamp="1613781373274">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="3" />
       </file>
       <file name="$USER_HOME$/postgres-demo/src/main/kotlin/ml/zouren/postgresdemo/HelloWorld.kt" timestamp="1613776380723">
         <mark key="[" line="41" column="0" />
