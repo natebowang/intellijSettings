@@ -108,11 +108,11 @@
         <mark key="]" line="2" column="33" />
         <mark key="." line="0" column="52" />
       </file>
-      <file name="/wbfile/draft/blog-demo/src/test/kotlin/ml/zouren/blogdemo/repository/BlogRepositoryTests.kt" timestamp="1613812585608">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="12" />
-        <mark key="^" line="25" column="35" />
-        <mark key="." line="19" column="0" />
+      <file name="/wbfile/draft/blog-demo/src/test/kotlin/ml/zouren/blogdemo/repository/BlogRepositoryTests.kt" timestamp="1613845013645">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="/console" timestamp="1613788754861">
         <mark key="[" line="0" column="0" />
@@ -170,13 +170,13 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="26" column="38" />
       </file>
-      <file name="/wbfile/draft/blog-demo/src/main/kotlin/ml/zouren/blogdemo/service/BlogService.kt" timestamp="1613818159816">
-        <mark key="[" line="21" column="19" />
-        <mark key="]" line="21" column="21" />
-        <mark key="^" line="21" column="21" />
-        <mark key="." line="21" column="20" />
+      <file name="/wbfile/draft/blog-demo/src/main/kotlin/ml/zouren/blogdemo/service/BlogService.kt" timestamp="1613845943556">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="26" column="43" />
       </file>
-      <file name="/wbfile/draft/blog-demo/src/main/kotlin/ml/zouren/blogdemo/entity/Blog.kt" timestamp="1613816706697">
+      <file name="/wbfile/draft/blog-demo/src/main/kotlin/ml/zouren/blogdemo/entity/Blog.kt" timestamp="1613843786413">
         <mark key="[" line="9" column="24" />
         <mark key="]" line="9" column="24" />
         <mark key="." line="9" column="24" />
@@ -193,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="36" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
       <jump line="10" column="5" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
       <jump line="0" column="0" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
       <jump line="108" column="0" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
@@ -293,48 +292,49 @@
       <jump line="27" column="25" filename="/wbfile/draft/postgres-demo1/src/main/kotlin/ml/zouren/postgresdemo1/PostgresDemo1Application.kt" />
       <jump line="26" column="0" filename="/wbfile/draft/postgres-demo1/src/main/kotlin/ml/zouren/postgresdemo1/PostgresDemo1Application.kt" />
       <jump line="34" column="11" filename="$USER_HOME$/postgres-demo/src/main/kotlin/ml/zouren/postgresdemo/HelloWorld.kt" />
+      <jump line="38" column="0" filename="/wbfile/draft/blog-demo/src/test/kotlin/ml/zouren/blogdemo/repository/BlogRepositoryTests.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3RNb2NrcwogICAgdmFyIGJsb2dTZXJ2aWNlMiA9IEJsb2dTZXJ2aWNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Kotlin programming language</text>
+        <text>deleteById</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheU9mXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3RNb2NrcwogICAgdmFyIGJsb2dTZXJ2aWNlID0gQmxvZ1NlcnZpY2UoKQo=</text>
+        <text encoding="base64">ICAgIGZ1biBkZWxldGVCeUlkKGlkOiBJbnQpIHsKICAgICAgICBibG9nUmVwb3NpdG9yeS5kZWxldGVCeUlkKGlkKQogICAgfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3RNb2NrcwogICAgdmFyIGJsb2dTZXJ2aWNlMiA9IEJsb2dTZXJ2aWNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE1vY2tpdG8ud2hlbihibG9nUmVwb3NpdG9yeS4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbGQudGl0bGUgPSB0aXRsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgQEF1dG93aXJlZAovLyAgICBwcml2YXRlIGxhdGVpbml0IHZhciBibG9nU2VydmljZTogQmxvZ1NlcnZpY2UKCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuYXd0Lkxpc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlOiBFeGNlcHRpb24pIHsKICAgICAgICAgICAgcHJpbnRsbihlLm1lc3NhZ2UpCiAgICAgICAgICAgIHRocm93IGUKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgbGF0ZWluaXQgdmFyIGJsb2dSZXNwb3NpdG9yeTogQmxvZ1JlcG9zaXRvcnkK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCiAgICBsYXRlaW5pdCB2YXIgYmxvZ1JlcG9zaXRvcnk6IEJsb2dSZXBvc2l0b3J5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5yZXBvc2l0b3J5LmZpbmRCeUlkT3JOdWxsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBATW9jawogICAgbGF0ZWluaXQgdmFyIGJsb2dSZXBvc2l0b3J5OiBCbG9nUmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGFvLkRhdGFJbnRlZ3JpdHlWaW9sYXRpb25FeGNlcHRpb24K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
