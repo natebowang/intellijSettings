@@ -170,11 +170,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="26" column="38" />
       </file>
-      <file name="/wbfile/draft/blog-demo/src/main/kotlin/ml/zouren/blogdemo/service/BlogService.kt" timestamp="1613845943556">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="26" column="43" />
+      <file name="/wbfile/draft/blog-demo/src/main/kotlin/ml/zouren/blogdemo/service/BlogService.kt" timestamp="1613846154037">
+        <mark key="[" line="32" column="36" />
+        <mark key="]" line="32" column="42" />
+        <mark key="." line="32" column="41" />
+        <mark key="^" line="32" column="42" />
       </file>
       <file name="/wbfile/draft/blog-demo/src/main/kotlin/ml/zouren/blogdemo/entity/Blog.kt" timestamp="1613843786413">
         <mark key="[" line="9" column="24" />
@@ -297,17 +297,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>title</text>
       </register>
       <register name="-" type="4">
-        <text>deleteById</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheU9mXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1biBkZWxldGVCeUlkKGlkOiBJbnQpIHsKICAgICAgICBibG9nUmVwb3NpdG9yeS5kZWxldGVCeUlkKGlkKQogICAgfQoK</text>
+        <text encoding="base64">ICAgIGZ1biB1cGRhdGVUaXRsZUJ5SWQoaWQ6IEludCwgdGl0bGU6IFN0cmluZyk6IEJsb2c/IHsKICAgICAgICB2YWwgcmVjb3JkID0gYmxvZ1JlcG9zaXRvcnkuZmluZEJ5SWRPck51bGwoaWQpCiAgICAgICAgcmV0dXJuIGlmIChyZWNvcmQgIT0gbnVsbCkgewogICAgICAgICAgICByZWNvcmQudGl0bGUgPSB0aXRsZQogICAgICAgICAgICBibG9nUmVwb3NpdG9yeS5zYXZlKHJlY29yZCkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBudWxsCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
