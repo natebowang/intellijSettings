@@ -108,11 +108,11 @@
         <mark key="]" line="2" column="33" />
         <mark key="." line="0" column="52" />
       </file>
-      <file name="/wbfile/draft/blog-demo/src/test/kotlin/ml/zouren/blogdemo/repository/BlogRepositoryTests.kt" timestamp="1613803968541">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="30" column="38" />
-        <mark key="." line="29" column="0" />
+      <file name="/wbfile/draft/blog-demo/src/test/kotlin/ml/zouren/blogdemo/repository/BlogRepositoryTests.kt" timestamp="1613806746588">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="36" column="44" />
       </file>
       <file name="/console" timestamp="1613788754861">
         <mark key="[" line="0" column="0" />
@@ -302,7 +302,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>).isEqualTo(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheU9mXD4=</text>
@@ -314,28 +314,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGJsb2cpLmlzRXF1YWxUbyhibG9nUmVjb3JkMCkK</text>
+        <text encoding="base64">ICAgICAgICBibG9nTGlzdCA9IG11dGFibGVMaXN0T2Y8QmxvZz4oKQogICAgICAgIGJsb2dSZXBvc2l0b3J5LmZpbmRBbGwoKS5mb3JFYWNoIHsgYmxvZ0xpc3QuYWRkKGl0KSB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYmxvZzogQmxvZz8K</text>
+        <text encoding="base64">ICAgICAgICAvLyBVcGRhdGUgYmxvZyByZWNvcmQgMAogICAgICAgIGJsb2dSZXBvc2l0b3J5LgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYmxvZ0xpc3Q6IE11dGFibGVMaXN0PEJsb2c+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBibG9nTGlzdCA9IG11dGFibGVMaXN0T2YoKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGJsb2cpLmlzRXF1YWxUbyhibG9nUmVjb3JkMCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCkKICAgICAgICBwcmludGxuKCkKICAgICAgICBwcmludGxuKGJsb2chIS50aXRsZSkKICAgICAgICBwcmludGxuKGJsb2dSZWNvcmQwISEudGl0bGUpCiAgICAgICAgcHJpbnRsbigpCiAgICAgICAgcHJpbnRsbigpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgYmxvZzogQmxvZz8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgYmxvZ0xpc3Q6IE11dGFibGVMaXN0PEJsb2c+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYjIgPSBCbG9nKDEsICJhIiwgImMiKQo=</text>
+        <text encoding="base64">ICAgICAgICBibG9nTGlzdCA9IG11dGFibGVMaXN0T2YoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCkKICAgICAgICBwcmludGxuKCkKICAgICAgICBwcmludGxuKGJsb2chIS50aXRsZSkKICAgICAgICBwcmludGxuKGJsb2dSZWNvcmQwISEudGl0bGUpCiAgICAgICAgcHJpbnRsbigpCiAgICAgICAgcHJpbnRsbigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
