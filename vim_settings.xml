@@ -123,9 +123,6 @@
         <mark key="." line="36" column="18" />
         <mark key="^" line="36" column="19" />
       </file>
-      <file name="/console" timestamp="1613788754861">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/wbfile/draft/blog-demo/src/main/kotlin/ml/zouren/blogdemo/BlogDemoApplication.kt" timestamp="1613858300343">
         <mark key="[" line="6" column="61" />
         <mark key="]" line="6" column="72" />
@@ -157,6 +154,12 @@
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="20" />
       </file>
+      <file name="/wbfile/draft/blog-demo/openapi.yaml" timestamp="1613895530559">
+        <mark key="[" line="4" column="46" />
+        <mark key="]" line="4" column="51" />
+        <mark key="^" line="4" column="51" />
+        <mark key="." line="4" column="50" />
+      </file>
       <file name="/blog [myblog@localhost]" timestamp="1613801405089">
         <mark key="[" line="0" column="0" />
       </file>
@@ -171,6 +174,13 @@
         <mark key="]" line="74" column="21" />
         <mark key="." line="74" column="20" />
         <mark key="^" line="74" column="21" />
+      </file>
+      <file name="/wbfile/draft/blog-demo/README.md" timestamp="1613897015028">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="54" />
+        <mark key="^" line="10" column="54" />
+        <mark key="." line="10" column="53" />
       </file>
       <file name="/dummy.sql" timestamp="1613803772175">
         <mark key="[" line="0" column="0" />
@@ -189,7 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="5" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
       <jump line="0" column="0" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
       <jump line="108" column="0" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
       <jump line="68" column="22" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
@@ -289,21 +298,22 @@
       <jump line="26" column="0" filename="/wbfile/draft/postgres-demo1/src/main/kotlin/ml/zouren/postgresdemo1/PostgresDemo1Application.kt" />
       <jump line="34" column="11" filename="$USER_HOME$/postgres-demo/src/main/kotlin/ml/zouren/postgresdemo/HelloWorld.kt" />
       <jump line="38" column="0" filename="/wbfile/draft/blog-demo/src/test/kotlin/ml/zouren/blogdemo/repository/BlogRepositoryTests.kt" />
+      <jump line="4" column="0" filename="/wbfile/draft/blog-demo/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG1sLnpvdXJlbi5ibG9nZGVtby5lbnRpdHkuQmxvZwo=</text>
+      <register name="&quot;" type="4">
+        <text>GET</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>GET</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheU9mXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHRlc3RDbGllbnQ6IFdlYlRlc3RDbGllbnQgPQo=</text>
+        <text encoding="base64">KiBHRVQgL2Jsb2dzL3tpZH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IG1sLnpvdXJlbi5ibG9nZGVtby5lbnRpdHkuQmxvZwo=</text>
