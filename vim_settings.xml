@@ -108,6 +108,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/wbfile/project/ibot-backend/routes/login.js" timestamp="1613965356510">
+        <mark key="[" line="58" column="14" />
+        <mark key="]" line="60" column="8" />
+        <mark key="^" line="60" column="8" />
+        <mark key="." line="60" column="7" />
+      </file>
       <file name="/Dummy.txt" timestamp="1613892783108">
         <mark key="[" line="0" column="0" />
       </file>
@@ -169,9 +175,6 @@
         <mark key="]" line="4" column="51" />
         <mark key="^" line="4" column="51" />
         <mark key="." line="4" column="50" />
-      </file>
-      <file name="/blog [myblog@localhost]" timestamp="1613801405089">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/wbfile/draft/blog-demo/src/main/kotlin/ml/zouren/blogdemo/entity/Blog.kt" timestamp="1613862354736">
         <mark key="[" line="41" column="0" />
@@ -311,10 +314,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheU9mXD4=</text>
