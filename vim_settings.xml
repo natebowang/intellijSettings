@@ -152,11 +152,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="21" column="19" />
       </file>
-      <file name="/wbfile/draft/onz-assessment/src/app/App.js" timestamp="1613976033450">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="12" column="26" />
-        <mark key="." line="11" column="0" />
+      <file name="/wbfile/draft/onz-assessment/src/app/App.js" timestamp="1613981768612">
+        <mark key="[" line="31" column="18" />
+        <mark key="]" line="31" column="19" />
+        <mark key="^" line="31" column="19" />
+        <mark key="." line="31" column="18" />
       </file>
       <file name="/wbfile/draft/blog-demo/src/main/kotlin/ml/zouren/blogdemo/service/BlogService.kt" timestamp="1613849401992">
         <mark key="[" line="19" column="8" />
@@ -310,11 +310,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgQ29uY2VwdCB7CiAgICBjb25zdHJ1Y3Rvcih2YWx1ZSwgcGFyZW50c0NvdW50LCBjaGlsZHJlbikgewogICAgICAgIHRoaXMudmFsdWUgPSB2YWx1ZTsKICAgICAgICB0aGlzLnBhcmVudHNDb3VudCA9IHBhcmVudHNDb3VudDsKICAgICAgICB0aGlzLmNoaWxkcmVuID0gY2hpbGRyZW47CiAgICB9Cn0KCg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>['court', 'fayuan', 'federal_court', 'appeals_court']</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheU9mXD4=</text>
