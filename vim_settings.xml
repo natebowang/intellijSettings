@@ -103,12 +103,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/wbfile/draft/onz-assessment/src/App.js" timestamp="1614034887900">
-        <mark key="'" line="18" column="10" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="27" column="42" />
+      <file name="/wbfile/draft/onz-assessment/src/App.js" timestamp="1614038941005">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="7" column="46" />
+        <mark key="." line="7" column="45" />
+        <mark key="^" line="7" column="46" />
       </file>
       <file name="/a.dummy" timestamp="1614034178023">
         <mark key="[" line="0" column="0" />
@@ -125,6 +124,10 @@
         <mark key="^" line="26" column="31" />
         <mark key="." line="26" column="30" />
       </file>
+      <file name="/wbfile/project/ibot-frontend/src/store/userSlice.js" timestamp="1614040564646">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="96" column="39" />
+      </file>
       <file name="/wbfile/draft/onz-assessment/src/store/store.js" timestamp="1614034697765">
         <mark key="[" line="5" column="33" />
         <mark key="]" line="5" column="35" />
@@ -137,16 +140,18 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="6" column="11" />
       </file>
+      <file name="/wbfile/draft/onz-assessment/src/components/hierarchyPrinter/util.js" timestamp="1614042661105">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="25" column="34" />
+        <mark key="." line="25" column="34" />
+        <mark key="^" line="27" column="26" />
+      </file>
       <file name="/wbfile/draft/onz-assessment/package.json" timestamp="1614034045024" />
       <file name="/wbfile/draft/onz-assessment/src/features/hierarchyPrinter/hierarchySlice.js" timestamp="1614034812671">
         <mark key="[" line="29" column="24" />
         <mark key="]" line="29" column="28" />
         <mark key="^" line="29" column="28" />
         <mark key="." line="29" column="27" />
-      </file>
-      <file name="/wbfile/project/ibot-frontend/src/app/App.js" timestamp="1614025667892">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="25" column="27" />
       </file>
       <file name="/wbfile/draft/onz-assessment/src/index.js" timestamp="1614025938391">
         <mark key="[" line="2" column="24" />
@@ -156,15 +161,19 @@
       <file name="/Dummy.txt" timestamp="1614032519486">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wbfile/draft/onz-assessment-bk/src/app/App.js" timestamp="1614034628490" />
-      <file name="/wbfile/project/ibot-frontend/src/app/App.css" timestamp="1614025554099" />
+      <file name="/wbfile/draft/onz-assessment-bk/src/app/App.js" timestamp="1614040781639">
+        <mark key="[" line="29" column="54" />
+        <mark key="]" line="29" column="60" />
+        <mark key="^" line="29" column="60" />
+        <mark key="." line="29" column="59" />
+      </file>
       <file name="/wbfile/project/ibot-frontend/src/components/Dropdown/Dropdown.test.js" timestamp="1614026017266">
         <mark key="]" line="0" column="0" />
       </file>
-      <file name="/wbfile/draft/onz-assessment/src/App.css" timestamp="1614025548432">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="2" column="15" />
-        <mark key="." line="2" column="15" />
+      <file name="/wbfile/draft/onz-assessment/src/components/hierarchyPrinter/hierarchySlice.js" timestamp="1614042298444">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="/wbfile/draft/onz-assessment/src/util/config.js" timestamp="1614033290337">
         <mark key="[" line="4" column="0" />
@@ -181,8 +190,13 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/wbfile/project/ibot-frontend/src/index.js" timestamp="1614025518658" />
-      <file name="/wbfile/project/ibot-frontend/src/features/Login/Login.js" timestamp="1614034767780">
+      <file name="/wbfile/draft/onz-assessment/src/features/home/Home.js" timestamp="1614042285132">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="24" column="12" />
+      </file>
+      <file name="/wbfile/project/ibot-frontend/src/features/Login/Login.js" timestamp="1614040550777">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="35" />
       </file>
@@ -292,44 +306,48 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRJc0xvYWRpbmcodHJ1ZSkK</text>
+      <register name="&quot;" type="4">
+        <text>, {
+            method: 'GET',
+        }</text>
       </register>
       <register name="-" type="4">
-        <text>setIsLoading(false)</text>
+        <text>body</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheU9mXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRpc3BhdGNoID0gdXNlRGlzcGF0Y2goKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAvLyBwbGFjZWhvbGRlcj17IkNvbmNlcHQifQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRJc0xvYWRpbmcodHJ1ZSkK</text>
+      <register name="1" type="4">
+        <text>, {
+            method: 'GET',
+        }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNMb2FkaW5nKSB7CiAgICAgICAgICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICAgICAgICAgICAgOwogICAgICAgICAgICB9LCAyMDAwKQogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IFtpc0xvYWRpbmcsIHNldElzTG9hZGluZ10gPSB1c2VTdGF0ZShmYWxzZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxldCBwYWdlID0gMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldElzQVJlbGF0aW9uID0gY29uY2VwdCA9PiBhc3luYyAoZGlzcGF0Y2gpID0+IHsKICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICAgIGRpc3BhdGNoKGluY3JlbWVudEJ5QW1vdW50KGFtb3VudCkpOwogICAgfSwgMTAwMCk7Cn07Cgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhZ2VTaXplID0gNTAwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICAgIGRpc3BhdGNoKGluY3JlbWVudEJ5QW1vdW50KGFtb3VudCkpOwogICAgfSwgMTAwMCk7Cg==</text>
+        <text encoding="base64">ICAgIGxldCByZXNwb25zZSA9IHt9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNyZW1lbnQ6IHN0YXRlID0+IHsKICAgICAgICAgICAgc3RhdGUudmFsdWUgLT0gMTsKICAgICAgICB9LAogICAgICAgIGluY3JlbWVudEJ5QW1vdW50OiAoc3RhdGUsIGFjdGlvbikgPT4gewogICAgICAgICAgICBzdGF0ZS52YWx1ZSArPSBhY3Rpb24ucGF5bG9hZDsKICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbmNlcHQpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUmVkdXggVG9vbGtpdCBhbGxvd3MgdXMgdG8gd3JpdGUgIm11dGF0aW5nIiBsb2dpYyBpbiByZWR1Y2Vycy4gSXQKICAgICAgICAgICAgLy8gZG9lc24ndCBhY3R1YWxseSBtdXRhdGUgdGhlIHN0YXRlIGJlY2F1c2UgaXQgdXNlcyB0aGUgSW1tZXIgbGlicmFyeSwKICAgICAgICAgICAgLy8gd2hpY2ggZGV0ZWN0cyBjaGFuZ2VzIHRvIGEgImRyYWZ0IHN0YXRlIiBhbmQgcHJvZHVjZXMgYSBicmFuZCBuZXcKICAgICAgICAgICAgLy8gaW1tdXRhYmxlIHN0YXRlIGJhc2VkIG9mZiB0aG9zZSBjaGFuZ2VzCg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNwYXRjaChwcmludEhpZXJhcmNoeShjb25jZXB0KSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
