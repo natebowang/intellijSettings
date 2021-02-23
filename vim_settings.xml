@@ -140,10 +140,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="6" column="11" />
       </file>
-      <file name="/wbfile/draft/onz-assessment/src/components/hierarchyPrinter/util.js" timestamp="1614045375196">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/wbfile/draft/onz-assessment/src/components/hierarchyPrinter/util.js" timestamp="1614051772723">
+        <mark key="[" line="53" column="4" />
+        <mark key="]" line="53" column="11" />
+        <mark key="." line="53" column="10" />
+        <mark key="^" line="53" column="11" />
       </file>
       <file name="/wbfile/draft/onz-assessment/package.json" timestamp="1614034045024" />
       <file name="/wbfile/draft/onz-assessment/src/features/hierarchyPrinter/hierarchySlice.js" timestamp="1614034812671">
@@ -169,10 +170,10 @@
       <file name="/wbfile/project/ibot-frontend/src/components/Dropdown/Dropdown.test.js" timestamp="1614026017266">
         <mark key="]" line="0" column="0" />
       </file>
-      <file name="/wbfile/draft/onz-assessment/src/components/hierarchyPrinter/hierarchySlice.js" timestamp="1614042298444">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="/wbfile/draft/onz-assessment/src/components/hierarchyPrinter/hierarchySlice.js" timestamp="1614051830932">
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="16" />
+        <mark key="." line="25" column="16" />
       </file>
       <file name="/wbfile/draft/onz-assessment/src/util/config.js" timestamp="1614033290337">
         <mark key="[" line="4" column="0" />
@@ -305,44 +306,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>filteredIsAList</text>
       </register>
       <register name="-" type="4">
-        <text>[1, 2]</text>
+        <text>filteredIsAList</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheU9mXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQucGFyZW50KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbHRlcmVkSXNBTGlzdCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtzZXRJc0xvYWRpbmd9IGZyb20gIi4vaGllcmFyY2h5U2xpY2UiOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWx0ZXJlZENoaWxkcmVuKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBsZXQgbmV3UGFyZW50Q291bnQgPSBpc0FFZGdlcwogICAgICAgIC8vICAgICAuZmlsdGVyKGlzQUVkZ2U9PmlzQUVkZ2Uuc3RhcnQudGVybS5zcGxpdCgnLycpWzNdPT09Y29uY2VwdCkubGVuZ3RoOwo=</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlzQUxpc3QpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuZXdDaGlsZHJlbik7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuZXdQYXJlbnQpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlzQUxpc3QpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQucGFyZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQucGFyZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuZXdDaGlsZHJlbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKHIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
