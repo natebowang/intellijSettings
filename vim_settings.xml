@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>decra</entry>
-        <entry>red</entry>
         <entry>left</entry>
         <entry>hover</entry>
         <entry>test</entry>
@@ -25,6 +23,8 @@
         <entry>onFocus</entry>
         <entry>devtoo</entry>
         <entry encoding="base64">XDxhcnJheU9mXD4=</entry>
+        <entry>parents</entry>
+        <entry>parent</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -118,6 +118,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="0" column="13" />
       </file>
+      <file name="/wbfile/draft/onz-assessment/src/components/hierarchyPrinter/HierarchyPrinter.js" timestamp="1614054898220">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="4" column="25" />
+      </file>
       <file name="/wbfile/draft/onz-assessment/public/index.html" timestamp="1614033771797">
         <mark key="[" line="26" column="26" />
         <mark key="]" line="26" column="31" />
@@ -140,11 +146,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="6" column="11" />
       </file>
-      <file name="/wbfile/draft/onz-assessment/src/components/hierarchyPrinter/util.js" timestamp="1614051772723">
-        <mark key="[" line="53" column="4" />
-        <mark key="]" line="53" column="11" />
-        <mark key="." line="53" column="10" />
-        <mark key="^" line="53" column="11" />
+      <file name="/wbfile/draft/onz-assessment/src/components/hierarchyPrinter/util.js" timestamp="1614054740741">
+        <mark key="'" line="1" column="25" />
+        <mark key="[" line="68" column="24" />
+        <mark key="]" line="69" column="75" />
+        <mark key="." line="69" column="74" />
+        <mark key="^" line="69" column="75" />
       </file>
       <file name="/wbfile/draft/onz-assessment/package.json" timestamp="1614034045024" />
       <file name="/wbfile/draft/onz-assessment/src/features/hierarchyPrinter/hierarchySlice.js" timestamp="1614034812671">
@@ -152,11 +159,6 @@
         <mark key="]" line="29" column="28" />
         <mark key="^" line="29" column="28" />
         <mark key="." line="29" column="27" />
-      </file>
-      <file name="/wbfile/draft/onz-assessment/src/index.js" timestamp="1614025938391">
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1614032519486">
         <mark key="[" line="0" column="0" />
@@ -170,10 +172,11 @@
       <file name="/wbfile/project/ibot-frontend/src/components/Dropdown/Dropdown.test.js" timestamp="1614026017266">
         <mark key="]" line="0" column="0" />
       </file>
-      <file name="/wbfile/draft/onz-assessment/src/components/hierarchyPrinter/hierarchySlice.js" timestamp="1614051830932">
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="25" column="16" />
-        <mark key="." line="25" column="16" />
+      <file name="/wbfile/draft/onz-assessment/src/components/hierarchyPrinter/hierarchySlice.js" timestamp="1614054965825">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="37" column="25" />
+        <mark key="." line="37" column="24" />
+        <mark key="^" line="37" column="25" />
       </file>
       <file name="/wbfile/draft/onz-assessment/src/util/config.js" timestamp="1614033290337">
         <mark key="[" line="4" column="0" />
@@ -190,11 +193,11 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/wbfile/draft/onz-assessment/src/features/home/Home.js" timestamp="1614042285132">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="24" column="12" />
+      <file name="/wbfile/draft/onz-assessment/src/features/home/Home.js" timestamp="1614054024031">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="49" />
+        <mark key="." line="11" column="48" />
+        <mark key="^" line="11" column="49" />
       </file>
       <file name="/wbfile/project/ibot-frontend/src/features/Login/Login.js" timestamp="1614040550777">
         <mark key="[" line="27" column="0" />
@@ -202,8 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="35" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
-      <jump line="74" column="5" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
       <jump line="90" column="26" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
       <jump line="48" column="26" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
       <jump line="95" column="48" filename="/wbfile/draft/redux-learn-2/src/components/carousel/Carousel.js" />
@@ -302,48 +303,50 @@
       <jump line="11" column="4" filename="/wbfile/draft/onz-assessment/src/features/hierarchyPrinter/HierarchyPrinter.js" />
       <jump line="48" column="51" filename="/wbfile/draft/onz-assessment/src/App.js" />
       <jump line="18" column="10" filename="/wbfile/draft/onz-assessment/src/App.js" />
+      <jump line="20" column="7" filename="/wbfile/draft/onz-assessment/src/components/hierarchyPrinter/util.js" />
+      <jump line="1" column="25" filename="/wbfile/draft/onz-assessment/src/components/hierarchyPrinter/util.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>filteredIsAList</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IFJhZGl1bSBmcm9tICJyYWRpdW0iOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>filteredIsAList</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcnJheU9mXD4=</text>
+        <text>parent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbHRlcmVkSXNBTGlzdCkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBSZW1vdmUgY2hpbGRyZW4gZXF1YWxzIHRvIGl0c2VsZgogICAgICAgIGlzQVJlbGF0aW9uLmNoaWxkcmVuID0gaXNBUmVsYXRpb24uY2hpbGRyZW4uZmlsdGVyKChjaGlsZCkgPT4gY2hpbGQgIT09IGlzQVJlbGF0aW9uLmNvbmNlcHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJhZGl1bSBmcm9tICJyYWRpdW0iOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWx0ZXJlZENoaWxkcmVuKQo=</text>
+        <text encoding="base64">ICAgIGdldElzQVJlbGF0aW9uLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAgIC8vIGxldCBvYmogPSB7CiAgICAvLyAgICAgImNvdXJ0IjogewogICAgLy8gICAgICAgICAiYXBwZWFsc19jb3VydCI6IHsKICAgIC8vICAgICAgICAgICAgICJzdXByZW1lX2NvdXJ0Ijoge30KICAgIC8vICAgICAgICAgfSwKICAgIC8vICAgICAgICAgImFfY291cnQiOiB7CiAgICAvLyAgICAgICAgICAgICAic3VwcmVtZV9jb3VydGlkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkIjoge30KICAgIC8vICAgICAgICAgfSwKICAgIC8vICAgICAgICAgImFwcGVfY291cnQiOiB7CiAgICAvLyAgICAgICAgICAgICAic3VwcmVtZV9jb3VydCI6IHt9CiAgICAvLyAgICAgICAgIH0KICAgIC8vICAgICB9CiAgICAvLyB9OwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlzQUxpc3QpCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRpc3BhdGNoID0gdXNlRGlzcGF0Y2goKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlzQUxpc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAiY291cnQiOiB7CiAgICAgICAgICAgICJhcHBlYWxzX2NvdXJ0IjogewogICAgICAgICAgICAgICAgInN1cHJlbWVfY291cnQiOiB7fQogICAgICAgICAgICB9LAogICAgICAgICAgICAiYV9jb3VydCI6IHsKICAgICAgICAgICAgICAgICJzdXByZW1lX2NvdXJ0aWRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGQiOiB7fQogICAgICAgICAgICB9LAogICAgICAgICAgICAiYXBwZV9jb3VydCI6IHsKICAgICAgICAgICAgICAgICJzdXByZW1lX2NvdXJ0Ijoge30KICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlzcGF0Y2goc2V0SXNMb2FkaW5nKGZhbHNlKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbHRlcmVkSXNBTGlzdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKHIpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlzQUxpc3QpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -352,9 +355,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhcnJheU9mXD4=</last-search>
+      <last-search>parent</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcnJheU9mXD4=</last-pattern>
+      <last-pattern>parent</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
