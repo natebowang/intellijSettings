@@ -146,12 +146,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="6" column="11" />
       </file>
-      <file name="/wbfile/draft/onz-assessment/src/components/hierarchyPrinter/util.js" timestamp="1614054740741">
+      <file name="/wbfile/draft/onz-assessment/src/components/hierarchyPrinter/util.js" timestamp="1614059921560">
         <mark key="'" line="1" column="25" />
-        <mark key="[" line="68" column="24" />
-        <mark key="]" line="69" column="75" />
-        <mark key="." line="69" column="74" />
-        <mark key="^" line="69" column="75" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="58" column="31" />
       </file>
       <file name="/wbfile/draft/onz-assessment/package.json" timestamp="1614034045024" />
       <file name="/wbfile/draft/onz-assessment/src/features/hierarchyPrinter/hierarchySlice.js" timestamp="1614034812671">
@@ -172,10 +172,11 @@
       <file name="/wbfile/project/ibot-frontend/src/components/Dropdown/Dropdown.test.js" timestamp="1614026017266">
         <mark key="]" line="0" column="0" />
       </file>
-      <file name="/wbfile/draft/onz-assessment/src/components/hierarchyPrinter/hierarchySlice.js" timestamp="1614057325224">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="/wbfile/draft/onz-assessment/src/components/hierarchyPrinter/hierarchySlice.js" timestamp="1614059937132">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="35" column="20" />
       </file>
       <file name="/wbfile/draft/onz-assessment/src/util/config.js" timestamp="1614033290337">
         <mark key="[" line="4" column="0" />
@@ -309,43 +310,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhpZXJhcmNoeSkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbHRlcmVkSXNBTGlzdCkK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>parent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBSZW1vdmUgY2hpbGRyZW4gZXF1YWxzIHRvIGl0c2VsZgogICAgICAgIGlzQVJlbGF0aW9uLmNoaWxkcmVuID0gaXNBUmVsYXRpb24uY2hpbGRyZW4uZmlsdGVyKChjaGlsZCkgPT4gY2hpbGQgIT09IGlzQVJlbGF0aW9uLmNvbmNlcHQpOwo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5wYXJlbnRzPVsuLi5uZXcgU2V0KHJlc3VsdC5wYXJlbnRzKV07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhpZXJhcmNoeSkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbHRlcmVkSXNBTGlzdCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFJhZGl1bSBmcm9tICJyYWRpdW0iOwo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdldElzQVJlbGF0aW9uLAo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGZpbHRlcmVkSXNBTGlzdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGxldCBvYmogPSB7CiAgICAvLyAgICAgImNvdXJ0IjogewogICAgLy8gICAgICAgICAiYXBwZWFsc19jb3VydCI6IHsKICAgIC8vICAgICAgICAgICAgICJzdXByZW1lX2NvdXJ0Ijoge30KICAgIC8vICAgICAgICAgfSwKICAgIC8vICAgICAgICAgImFfY291cnQiOiB7CiAgICAvLyAgICAgICAgICAgICAic3VwcmVtZV9jb3VydGlkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkIjoge30KICAgIC8vICAgICAgICAgfSwKICAgIC8vICAgICAgICAgImFwcGVfY291cnQiOiB7CiAgICAvLyAgICAgICAgICAgICAic3VwcmVtZV9jb3VydCI6IHt9CiAgICAvLyAgICAgICAgIH0KICAgIC8vICAgICB9CiAgICAvLyB9OwoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRpc3BhdGNoID0gdXNlRGlzcGF0Y2goKTsK</text>
+        <text encoding="base64">ICAgIGxldCByb290ID0gZmlsdGVyZWRJc0FMaXN0LmZpbHRlcihpc0FSZWxhdGlvbiA9PiBpc0FSZWxhdGlvbi5wYXJlbnRzID09PSBbXSk7CiAgICBsZXQgbGVhZiA9IGZpbHRlcmVkSXNBTGlzdC5maWx0ZXIoaXNBUmVsYXRpb24gPT4gaXNBUmVsYXRpb24ucGFyZW50cyAhPT0gW10pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAiY291cnQiOiB7CiAgICAgICAgICAgICJhcHBlYWxzX2NvdXJ0IjogewogICAgICAgICAgICAgICAgInN1cHJlbWVfY291cnQiOiB7fQogICAgICAgICAgICB9LAogICAgICAgICAgICAiYV9jb3VydCI6IHsKICAgICAgICAgICAgICAgICJzdXByZW1lX2NvdXJ0aWRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGQiOiB7fQogICAgICAgICAgICB9LAogICAgICAgICAgICAiYXBwZV9jb3VydCI6IHsKICAgICAgICAgICAgICAgICJzdXByZW1lX2NvdXJ0Ijoge30KICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHByaW50UmVzdWx0ID0gKGZpbHRlcmVkSXNBTGlzdCkgPT4gewo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzcGF0Y2goc2V0SXNMb2FkaW5nKGZhbHNlKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhpZXJhcmNoeSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbHRlcmVkSXNBTGlzdCkK</text>
+        <text encoding="base64">aW1wb3J0IFJhZGl1bSBmcm9tICJyYWRpdW0iOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
