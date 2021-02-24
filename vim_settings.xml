@@ -126,6 +126,11 @@
       <file name="/a.dummy" timestamp="1614034178023">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/wbfile/draft/kotlin-spring-boot-data-rest/src/main/kotlin/io/mikael/app/app.kt" timestamp="1614207863771">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="/wbfile/draft/onz-assessment/src/util/config.js" timestamp="1614033290337">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -173,11 +178,8 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="/wbfile/draft/onz-assessment/src/App.test.js" timestamp="1614026581548">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="1" column="47" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="6" column="11" />
+      <file name="/wbfile/draft/kotlin-spring-boot-data-rest/pom.xml" timestamp="1614206632023">
+        <mark key="[" line="94" column="21" />
       </file>
       <file name="/wbfile/draft/onz-assessment/src/components/hierarchyPrinter/util.js" timestamp="1614144413055">
         <mark key="[" line="28" column="34" />
@@ -298,10 +300,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbnRNYXRjaGVycygiL2Fub255bW91cyoiKS5hbm9ueW1vdXMoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>parent</text>
@@ -310,31 +312,31 @@
         <text encoding="base64">LyoqCiAqIEdldCBhbGwgY29uY2VwdHMnIElzQSByZWxhdGlvbnMuCiAqIFNlcGFyYXRlIGVhY2ggY29uY2VwdCdzIHJlbGF0aW9ucyBpbnRvIHR3byBjYXRlZ29yaWVzOiBwYXJlbnRzIGFuZCBjaGlsZHJlbi4KICogQHBhcmFtIGNvbmNlcHQKICogQHJldHVybnMge1Byb21pc2U8SXNBUmVsYXRpb24+fQogKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbnRNYXRjaGVycygiL2Fub255bW91cyoiKS5hbm9ueW1vdXMoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QENvbmZpZ3VyYXRpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIAogKiBAcGFyYW0gY29uY2VwdExpc3QKICogQHJldHVybnMge1Byb21pc2U8W10+fQogKi8K</text>
+        <text encoding="base64">QEJlYW4KZnVuIHBhc3N3b3JkRW5jb2RlcigpOiBQYXNzd29yZEVuY29kZXI/IHsKICAgIHJldHVybiBCQ3J5cHRQYXNzd29yZEVuY29kZXIoKQp9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5jb25maWd1cmUoYXV0aCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiAKICAgICAgICAgKiBAcGFyYW0gc3RhdGUKICAgICAgICAgKiBAcGFyYW0gYWN0aW9uCiAgICAgICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gc3RhdGUKICAgICAgICAgKiBAcGFyYW0gYWN0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBpc0xvYWRpbmcgaXMgdGhlIGZsYWcgY29udHJvbHMgdGhlIHByaW50IGJ1dHRvbiBvbiBob21lIHBhZ2UuCiAgICAgICAgICogSWYgdHJ1ZSBzaG93ICJMb2FkaW5nLi4uIiwgYW5kIGRpc2FibGUgdGhlIGJ1dHRvbi4KICAgICAgICAgKiBJZiBmYWxzZSBzaG93ICJQcmludCIuCiAgICAgICAgICogQHBhcmFtIHN0YXRlCiAgICAgICAgICogQHBhcmFtIGFjdGlvbgogICAgICAgICAqLwo=</text>
+        <text encoding="base64">LyoqCiAqIAogKiBAcGFyYW0gY29uY2VwdExpc3QKICogQHJldHVybnMge1Byb21pc2U8W10+fQogKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiAKICAgICAgICAgKiBAcGFyYW0gc3RhdGUKICAgICAgICAgKiBAcGFyYW0gYWN0aW9uCiAgICAgICAgICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
