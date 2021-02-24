@@ -126,10 +126,10 @@
       <file name="/a.dummy" timestamp="1614034178023">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wbfile/draft/kotlin-spring-boot-data-rest/src/main/kotlin/io/mikael/app/app.kt" timestamp="1614207863771">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="/wbfile/draft/kotlin-spring-boot-data-rest/src/main/kotlin/io/mikael/app/app.kt" timestamp="1614208828504">
+        <mark key="]" line="35" column="46" />
+        <mark key="." line="35" column="45" />
+        <mark key="^" line="35" column="46" />
       </file>
       <file name="/wbfile/draft/onz-assessment/src/util/config.js" timestamp="1614033290337">
         <mark key="[" line="4" column="0" />
