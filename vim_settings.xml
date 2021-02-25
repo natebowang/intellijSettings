@@ -103,10 +103,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/wbfile/project/ibot-backend/routes/login.js" timestamp="1614239253494">
-        <mark key="[" line="55" column="44" />
-        <mark key="]" line="56" column="38" />
-        <mark key="." line="56" column="37" />
+      <file name="/wbfile/project/ibot-backend/routes/login.js" timestamp="1614240455432">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="30" />
+        <mark key="." line="10" column="30" />
         <mark key="^" line="56" column="38" />
       </file>
       <file name="/wbfile/draft/onz-assessment/src/App.js" timestamp="1614038941005">
@@ -123,12 +123,6 @@
         <mark key="]" line="5" column="41" />
         <mark key="." line="5" column="40" />
         <mark key="^" line="5" column="41" />
-      </file>
-      <file name="/wbfile/draft/onz-assessment/public/index.html" timestamp="1614033771797">
-        <mark key="[" line="26" column="26" />
-        <mark key="]" line="26" column="31" />
-        <mark key="^" line="26" column="31" />
-        <mark key="." line="26" column="30" />
       </file>
       <file name="/wbfile/project/ibot-frontend/src/store/userSlice.js" timestamp="1614040564646">
         <mark key="[" line="86" column="0" />
@@ -170,16 +164,22 @@
         <mark key="." line="11" column="19" />
         <mark key="^" line="11" column="20" />
       </file>
+      <file name="/wbfile/project/ibot-frontend/src/components/NavBar/NavBar.js" timestamp="1614241013384">
+        <mark key="[" line="20" column="61" />
+        <mark key="]" line="20" column="62" />
+        <mark key="." line="20" column="61" />
+        <mark key="^" line="20" column="62" />
+      </file>
       <file name="/wbfile/draft/kotlin-spring-boot-data-rest/src/main/kotlin/io/mikael/app/app.kt" timestamp="1614208828504">
         <mark key="]" line="35" column="46" />
         <mark key="." line="35" column="45" />
         <mark key="^" line="35" column="46" />
       </file>
-      <file name="/wbfile/project/ibot-backend/app.js" timestamp="1614227137038">
-        <mark key="[" line="37" column="23" />
-        <mark key="]" line="37" column="23" />
-        <mark key="^" line="11" column="41" />
-        <mark key="." line="37" column="23" />
+      <file name="/wbfile/project/ibot-backend/app.js" timestamp="1614239923037">
+        <mark key="[" line="38" column="17" />
+        <mark key="]" line="38" column="18" />
+        <mark key="^" line="38" column="18" />
+        <mark key="." line="38" column="17" />
       </file>
       <file name="/wbfile/draft/onz-assessment/src/features/home/Home.js" timestamp="1614138653831">
         <mark key="[" line="10" column="77" />
@@ -187,9 +187,9 @@
         <mark key="." line="10" column="86" />
         <mark key="^" line="10" column="87" />
       </file>
-      <file name="/wbfile/project/ibot-frontend/src/features/Login/Login.js" timestamp="1614221246656">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="35" />
+      <file name="/wbfile/project/ibot-frontend/src/features/Login/Login.js" timestamp="1614240992611">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="46" />
       </file>
       <file name="/wbfile/draft/kotlin-spring-boot-data-rest/pom.xml" timestamp="1614206632023">
         <mark key="[" line="94" column="21" />
@@ -304,43 +304,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhdmF0YXI6ICdoZWxsbycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3BhdGNoKGxvZ2luKHt9KSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sqlResult.rows[0].avatar</text>
+        <text>userNamePassword</text>
       </register>
       <register name="/" type="4">
         <text>res</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhdmF0YXI6IHNxbFJlc3VsdC5yb3dzWzBdLmF2YXRhciwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlzcGF0Y2gobG9naW4odXNlck5hbWVQYXNzd29yZCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhdmF0YXI6ICdoZWxsbycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3BhdGNoKGxvZ2luKHt9KSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBlcnJvck1lc3NhZ2UgPSAnJzsKICAgIGxldCBlcnJvclByb3BzID0ge307Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codXNlclByb2ZpbGUudXNlcikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5zZXNzaW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdlZmZlY3QnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2VmZmVjdCcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBhdmF0YXI6ICdoZWxsbycsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCB1c2VybmFtZUxvZ2luTWlkZGxlV2FyZShyZXEsIHJlcywgbmV4dCkK</text>
+        <text encoding="base64">ICAgIGxldCBlcnJvck1lc3NhZ2UgPSAnJzsKICAgIGxldCBlcnJvclByb3BzID0ge307Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5zZXNzaW9uKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
