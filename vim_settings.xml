@@ -137,6 +137,12 @@
         <mark key="^" line="29" column="28" />
         <mark key="." line="29" column="27" />
       </file>
+      <file name="/wbfile/project/ibot-frontend/src/app/App.js" timestamp="1614244548729">
+        <mark key="[" line="42" column="10" />
+        <mark key="]" line="42" column="15" />
+        <mark key="^" line="42" column="15" />
+        <mark key="." line="42" column="14" />
+      </file>
       <file name="/wbfile/project/ibot-frontend/src/app/Router.js" timestamp="1614242289071" />
       <file name="/wbfile/draft/onz-assessment-bk/src/app/App.js" timestamp="1614040781639">
         <mark key="[" line="29" column="54" />
@@ -156,7 +162,7 @@
         <mark key="." line="11" column="19" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="/wbfile/project/ibot-frontend/src/components/NavBar/NavBar.js" timestamp="1614242190722">
+      <file name="/wbfile/project/ibot-frontend/src/components/NavBar/NavBar.js" timestamp="1614244420324">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -166,8 +172,8 @@
         <mark key="." line="35" column="45" />
         <mark key="^" line="35" column="46" />
       </file>
-      <file name="/wbfile/project/ibot-backend/app.js" timestamp="1614239923037">
-        <mark key="[" line="38" column="17" />
+      <file name="/wbfile/project/ibot-backend/app.js" timestamp="1614244616761">
+        <mark key="[" line="38" column="13" />
         <mark key="]" line="38" column="18" />
         <mark key="^" line="38" column="18" />
         <mark key="." line="38" column="17" />
@@ -294,11 +300,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVzZXJQcm9maWxlID0gdXNlU2VsZWN0b3Ioc2VsZWN0VXNlclByb2ZpbGUpOwogICAgY29uc3QgZGlzcGF0Y2ggPSB1c2VEaXNwYXRjaDsKCiAgICB1c2VFZmZlY3QoKCkgPT4gewogICAgICAgICAgICBpZiAodXNlclByb2ZpbGUudXNlcm5hbWUgPT09ICIiKSB7CiAgICAgICAgICAgICAgICBkaXNwYXRjaChsb2dpbih7dXNlcm5hbWU6ICcnLCBwYXNzd29yZDogJyd9KSk7CiAgICAgICAgICAgIH0KICAgICAgICB9LCBbXQogICAgKTsK</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>userNamePassword</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>res</text>
@@ -307,31 +313,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZGlzcGF0Y2gobG9naW4odXNlck5hbWVQYXNzd29yZCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVzZXJQcm9maWxlID0gdXNlU2VsZWN0b3Ioc2VsZWN0VXNlclByb2ZpbGUpOwogICAgY29uc3QgZGlzcGF0Y2ggPSB1c2VEaXNwYXRjaDsKCiAgICB1c2VFZmZlY3QoKCkgPT4gewogICAgICAgICAgICBpZiAodXNlclByb2ZpbGUudXNlcm5hbWUgPT09ICIiKSB7CiAgICAgICAgICAgICAgICBkaXNwYXRjaChsb2dpbih7dXNlcm5hbWU6ICcnLCBwYXNzd29yZDogJyd9KSk7CiAgICAgICAgICAgIH0KICAgICAgICB9LCBbXQogICAgKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3BhdGNoKGxvZ2luKHt9KSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codXNlclByb2ZpbGUudXNlcikK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHVzZXJQcm9maWxlID0gdXNlU2VsZWN0b3Ioc2VsZWN0VXNlclByb2ZpbGUpOwogICAgY29uc3QgZGlzcGF0Y2ggPSB1c2VEaXNwYXRjaDsKCiAgICB1c2VFZmZlY3QoKCkgPT4gewogICAgICAgICAgICBpZiAodXNlclByb2ZpbGUudXNlcm5hbWUgPT09ICIiKSB7CiAgICAgICAgICAgICAgICBkaXNwYXRjaChsb2dpbih7dXNlcm5hbWU6ICcnLCBwYXNzd29yZDogJyd9KSk7CiAgICAgICAgICAgIH0KICAgICAgICB9LCBbXQogICAgKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdlZmZlY3QnKQo=</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2VmZmVjdCcpCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHVzZXJQcm9maWxlID0gdXNlU2VsZWN0b3Ioc2VsZWN0VXNlclByb2ZpbGUpOwogICAgY29uc3QgZGlzcGF0Y2ggPSB1c2VEaXNwYXRjaDsKCiAgICB1c2VFZmZlY3QoKCkgPT4gewogICAgICAgICAgICBpZiAodXNlclByb2ZpbGUudXNlcm5hbWUgPT09ICIiKSB7CiAgICAgICAgICAgICAgICBkaXNwYXRjaChsb2dpbih7dXNlcm5hbWU6ICcnLCBwYXNzd29yZDogJyd9KSk7CiAgICAgICAgICAgIH0KICAgICAgICB9LCBbXQogICAgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3BhdGNoKGxvZ2luKHt9KSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codXNlclByb2ZpbGUudXNlcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhdmF0YXI6ICdoZWxsbycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdlZmZlY3QnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBlcnJvck1lc3NhZ2UgPSAnJzsKICAgIGxldCBlcnJvclByb3BzID0ge307Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2VmZmVjdCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
