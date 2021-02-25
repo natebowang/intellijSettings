@@ -103,10 +103,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/wbfile/project/ibot-backend/routes/login.js" timestamp="1614231680058">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="/wbfile/project/ibot-backend/routes/login.js" timestamp="1614238412458">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="/wbfile/draft/onz-assessment/src/App.js" timestamp="1614038941005">
         <mark key="[" line="6" column="40" />
@@ -303,43 +303,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBhdmF0YXI6ICdoZWxsbycsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>sqlResult.rows[0].avatar</text>
       </register>
       <register name="/" type="4">
         <text>res</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCBlcnJvck1lc3NhZ2UgPSAnJzsKICAgIGxldCBlcnJvclByb3BzID0ge307Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBhdmF0YXI6IHNxbFJlc3VsdC5yb3dzWzBdLmF2YXRhciwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBhdmF0YXI6ICdoZWxsbycsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBlcnJvck1lc3NhZ2UgPSAnJzsKICAgIGxldCBlcnJvclByb3BzID0ge307Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5zZXNzaW9uKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCB1c2VybmFtZUxvZ2luTWlkZGxlV2FyZShyZXEsIHJlcywgbmV4dCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2Vzc2lvbicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSBpZiAodHJ1ZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCB1c2VybmFtZUxvZ2luTWlkZGxlV2FyZShyZXEsIHJlcywgbmV4dCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXEuc2Vzc2lvbikKICAgICAgICBjb25zdCByZXNwb25zZVVzZXJPYmplY3QgPSB7CiAgICAgICAgICAgIHVzZXJuYW1lOiByZXEuc2Vzc2lvbi51c2VybmFtZSwKICAgICAgICAgICAgZW1haWw6ICcnLAogICAgICAgICAgICBwaG9uZTogJycsCiAgICAgICAgICAgIGF2YXRhcjogJycsCiAgICAgICAgfTsKICAgICAgICBhd2FpdCByZXMuanNvbihyZXNwb25zZVVzZXJPYmplY3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
