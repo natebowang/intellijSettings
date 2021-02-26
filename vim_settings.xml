@@ -103,12 +103,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/wbfile/project/ibot-backend/routes/login.js" timestamp="1614240455432">
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="10" column="30" />
-        <mark key="." line="10" column="30" />
-        <mark key="^" line="56" column="38" />
-      </file>
       <file name="/a.dummy" timestamp="1614317613385">
         <mark key="[" line="0" column="10" />
       </file>
