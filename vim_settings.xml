@@ -109,16 +109,32 @@
         <mark key="." line="10" column="30" />
         <mark key="^" line="56" column="38" />
       </file>
-      <file name="/wbfile/draft/onz-assessment-bk/src/app/App.js" timestamp="1614040781639">
-        <mark key="[" line="29" column="54" />
-        <mark key="]" line="29" column="60" />
-        <mark key="^" line="29" column="60" />
-        <mark key="." line="29" column="59" />
+      <file name="/a.dummy" timestamp="1614317613385">
+        <mark key="[" line="0" column="10" />
       </file>
-      <file name="/wbfile/draft/onz-assessment/src/components/hierarchyPrinter/hierarchySlice.js" timestamp="1614147084988">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="/wbfile/draft/react-code-repo/src/features/throttledCounter/throttleCounterSlice.js" timestamp="1614318897803">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="19" column="44" />
+        <mark key="." line="19" column="43" />
+        <mark key="^" line="19" column="44" />
+      </file>
+      <file name="/wbfile/draft/react-code-repo/src/app/store.js" timestamp="1614318993900">
+        <mark key="[" line="3" column="58" />
+        <mark key="]" line="3" column="65" />
+        <mark key="." line="3" column="64" />
+        <mark key="^" line="3" column="65" />
+      </file>
+      <file name="/wbfile/draft/react-code-repo/src/App.js" timestamp="1614317770850">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="24" />
+        <mark key="^" line="13" column="24" />
+        <mark key="." line="13" column="23" />
+      </file>
+      <file name="/wbfile/project/ibot-frontend/src/app/App.js" timestamp="1614244548729">
+        <mark key="[" line="42" column="10" />
+        <mark key="]" line="42" column="15" />
+        <mark key="^" line="42" column="15" />
+        <mark key="." line="42" column="14" />
       </file>
       <file name="/wbfile/draft/user-endpoint-nodejs/routes/blog.js" timestamp="1614231020557">
         <mark key="'" line="48" column="19" />
@@ -132,13 +148,22 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="/wbfile/draft/react-code-repo/src/features/throttledCounter/throttledCounter.js" timestamp="1614319043249">
+        <mark key="[" line="2" column="53" />
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="2" column="31" />
+      </file>
       <file name="/wbfile/draft/kotlin-spring-boot-data-rest/src/main/kotlin/io/mikael/app/app.kt" timestamp="1614208828504">
         <mark key="]" line="35" column="46" />
         <mark key="." line="35" column="45" />
         <mark key="^" line="35" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1614317613385">
-        <mark key="[" line="0" column="10" />
+      <file name="/wbfile/draft/react-code-repo/src/features/throttledCounter/throttleCounter.js" timestamp="1614318668884">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="6" />
       </file>
       <file name="/wbfile/draft/react-code-repo/src/features/counter/CounterWrapper.js" timestamp="1614317699784">
         <mark key="'" line="52" column="18" />
@@ -159,17 +184,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/wbfile/draft/onz-assessment/src/components/hierarchyPrinter/HierarchyPrinter.js" timestamp="1614205231859">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="41" />
-        <mark key="." line="5" column="40" />
-        <mark key="^" line="5" column="41" />
-      </file>
-      <file name="/wbfile/draft/onz-assessment/src/features/home/Home.js" timestamp="1614138653831">
-        <mark key="[" line="10" column="77" />
-        <mark key="]" line="10" column="87" />
-        <mark key="." line="10" column="86" />
-        <mark key="^" line="10" column="87" />
+      <file name="/wbfile/draft/react-code-repo/src/features/throttledCounter/throttledCounterSlice.js" timestamp="1614319067259">
+        <mark key="[" line="17" column="32" />
+        <mark key="]" line="17" column="32" />
+        <mark key="." line="17" column="32" />
       </file>
       <file name="/wbfile/project/ibot-frontend/src/features/Login/Login.js" timestamp="1614240992611">
         <mark key="[" line="55" column="0" />
@@ -177,24 +195,6 @@
       </file>
       <file name="/wbfile/draft/kotlin-spring-boot-data-rest/pom.xml" timestamp="1614206632023">
         <mark key="[" line="94" column="21" />
-      </file>
-      <file name="/wbfile/draft/onz-assessment/src/components/hierarchyPrinter/util.js" timestamp="1614144413055">
-        <mark key="[" line="28" column="34" />
-        <mark key="]" line="28" column="39" />
-        <mark key="." line="28" column="38" />
-        <mark key="^" line="28" column="39" />
-      </file>
-      <file name="/wbfile/draft/react-code-repo/src/App.js" timestamp="1614317770850">
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="24" />
-        <mark key="^" line="13" column="24" />
-        <mark key="." line="13" column="23" />
-      </file>
-      <file name="/wbfile/project/ibot-frontend/src/app/App.js" timestamp="1614244548729">
-        <mark key="[" line="42" column="10" />
-        <mark key="]" line="42" column="15" />
-        <mark key="^" line="42" column="15" />
-        <mark key="." line="42" column="14" />
       </file>
       <file name="/wbfile/draft/user-endpoint-nodejs/routes/user.js" timestamp="1614231663282">
         <mark key="'" line="110" column="35" />
@@ -306,43 +306,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Debounc</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>Debounc</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>res</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qbG9kYXNoLmRlYm91bmNlKi99CiAgICAgICAgICAgIHsvKjxEZWJvdW5jZWRDb3VudGVyLz4qL30K</text>
+        <text encoding="base64">aW1wb3J0IGRlYm91bmNlZENvdW50ZXJSZWR1Y2VyIGZyb20gIi4uL2ZlYXR1cmVzL2RlYm91bmNlVGhyb3R0bGUvZGVib3VuY2VkQ291bnRlclNsaWNlIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7CmltcG9ydCB7IENvdW50ZXIgfSBmcm9tICcuL2ZlYXR1cmVzL2NvdW50ZXIvQ291bnRlcic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7CmltcG9ydCB7IENvdW50ZXIgfSBmcm9tICcuL2ZlYXR1cmVzL2NvdW50ZXIvQ291bnRlcic7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ291bnRlciB9IGZyb20gJy4vZmVhdHVyZXMvY291bnRlci9Db3VudGVyJzsK</text>
+        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ291bnRlciB9IGZyb20gJy4vZmVhdHVyZXMvY291bnRlci9Db3VudGVyJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgey8qPGhlYWRlciBjbGFzc05hbWU9IkFwcC1oZWFkZXIiPiovfQogICAgICAgIHsvKjxpbWcgc3JjPXtsb2dvfSBjbGFzc05hbWU9IkFwcC1sb2dvIiBhbHQ9ImxvZ28iIC8+Ki99CiAgICAgICAgey8qPENvdW50ZXIgLz4qL30KICAgICAgICB7Lyo8cD4qL30KICAgICAgICAgIHsvKkVkaXQgPGNvZGU+c3JjL0FwcC5qczwvY29kZT4gYW5kIHNhdmUgdG8gcmVsb2FkLiovfQogICAgICAgIHsvKjwvcD4qL30KICAgICAgICB7Lyo8c3Bhbj4qL30KICAgICAgICAgIHsvKjxzcGFuPkxlYXJuIDwvc3Bhbj4qL30KICAgICAgICAgIHsvKjxhKi99CiAgICAgICAgICAgIHsvKmNsYXNzTmFtZT0iQXBwLWxpbmsiKi99CiAgICAgICAgICAgIHsvKmhyZWY9Imh0dHBzOi8vcmVhY3Rqcy5vcmcvIiovfQogICAgICAgICAgICB7Lyp0YXJnZXQ9Il9ibGFuayIqL30KICAgICAgICAgICAgey8qcmVsPSJub29wZW5lciBub3JlZmVycmVyIiovfQogICAgICAgICAgey8qPiovfQogICAgICAgICAgICB7LypSZWFjdCovfQogICAgICAgICAgey8qPC9hPiovfQogICAgICAgICAgey8qPHNwYW4+LCA8L3NwYW4+Ki99CiAgICAgICAgICB7Lyo8YSovfQogICAgICAgICAgICB7LypjbGFzc05hbWU9IkFwcC1saW5rIiovfQogICAgICAgICAgICB7LypocmVmPSJodHRwczovL3JlZHV4LmpzLm9yZy8iKi99CiAgICAgICAgICAgIHsvKnRhcmdldD0iX2JsYW5rIiovfQogICAgICAgICAgICB7LypyZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiKi99CiAgICAgICAgICB7Lyo+Ki99CiAgICAgICAgICAgIHsvKlJlZHV4Ki99CiAgICAgICAgICB7Lyo8L2E+Ki99CiAgICAgICAgICB7Lyo8c3Bhbj4sIDwvc3Bhbj4qL30KICAgICAgICAgIHsvKjxhKi99CiAgICAgICAgICAgIHsvKmNsYXNzTmFtZT0iQXBwLWxpbmsiKi99CiAgICAgICAgICAgIHsvKmhyZWY9Imh0dHBzOi8vcmVkdXgtdG9vbGtpdC5qcy5vcmcvIiovfQogICAgICAgICAgICB7Lyp0YXJnZXQ9Il9ibGFuayIqL30KICAgICAgICAgICAgey8qcmVsPSJub29wZW5lciBub3JlZmVycmVyIiovfQogICAgICAgICAgey8qPiovfQogICAgICAgICAgICB7LypSZWR1eCBUb29sa2l0Ki99CiAgICAgICAgICB7Lyo8L2E+Ki99CiAgICAgICAgICB7LyosPHNwYW4+IGFuZCA8L3NwYW4+Ki99CiAgICAgICAgICB7Lyo8YSovfQogICAgICAgICAgICB7LypjbGFzc05hbWU9IkFwcC1saW5rIiovfQogICAgICAgICAgICB7LypocmVmPSJodHRwczovL3JlYWN0LXJlZHV4LmpzLm9yZy8iKi99CiAgICAgICAgICAgIHsvKnRhcmdldD0iX2JsYW5rIiovfQogICAgICAgICAgICB7LypyZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiKi99CiAgICAgICAgICB7Lyo+Ki99CiAgICAgICAgICAgIHsvKlJlYWN0IFJlZHV4Ki99CiAgICAgICAgICB7Lyo8L2E+Ki99CiAgICAgICAgey8qPC9zcGFuPiovfQogICAgICB7Lyo8L2hlYWRlcj4qL30K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgey8qPGhlYWRlciBjbGFzc05hbWU9IkFwcC1oZWFkZXIiPiovfQogICAgICAgIHsvKjxpbWcgc3JjPXtsb2dvfSBjbGFzc05hbWU9IkFwcC1sb2dvIiBhbHQ9ImxvZ28iIC8+Ki99CiAgICAgICAgey8qPENvdW50ZXIgLz4qL30KICAgICAgICB7Lyo8cD4qL30KICAgICAgICAgIHsvKkVkaXQgPGNvZGU+c3JjL0FwcC5qczwvY29kZT4gYW5kIHNhdmUgdG8gcmVsb2FkLiovfQogICAgICAgIHsvKjwvcD4qL30KICAgICAgICB7Lyo8c3Bhbj4qL30KICAgICAgICAgIHsvKjxzcGFuPkxlYXJuIDwvc3Bhbj4qL30KICAgICAgICAgIHsvKjxhKi99CiAgICAgICAgICAgIHsvKmNsYXNzTmFtZT0iQXBwLWxpbmsiKi99CiAgICAgICAgICAgIHsvKmhyZWY9Imh0dHBzOi8vcmVhY3Rqcy5vcmcvIiovfQogICAgICAgICAgICB7Lyp0YXJnZXQ9Il9ibGFuayIqL30KICAgICAgICAgICAgey8qcmVsPSJub29wZW5lciBub3JlZmVycmVyIiovfQogICAgICAgICAgey8qPiovfQogICAgICAgICAgICB7LypSZWFjdCovfQogICAgICAgICAgey8qPC9hPiovfQogICAgICAgICAgey8qPHNwYW4+LCA8L3NwYW4+Ki99CiAgICAgICAgICB7Lyo8YSovfQogICAgICAgICAgICB7LypjbGFzc05hbWU9IkFwcC1saW5rIiovfQogICAgICAgICAgICB7LypocmVmPSJodHRwczovL3JlZHV4LmpzLm9yZy8iKi99CiAgICAgICAgICAgIHsvKnRhcmdldD0iX2JsYW5rIiovfQogICAgICAgICAgICB7LypyZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiKi99CiAgICAgICAgICB7Lyo+Ki99CiAgICAgICAgICAgIHsvKlJlZHV4Ki99CiAgICAgICAgICB7Lyo8L2E+Ki99CiAgICAgICAgICB7Lyo8c3Bhbj4sIDwvc3Bhbj4qL30KICAgICAgICAgIHsvKjxhKi99CiAgICAgICAgICAgIHsvKmNsYXNzTmFtZT0iQXBwLWxpbmsiKi99CiAgICAgICAgICAgIHsvKmhyZWY9Imh0dHBzOi8vcmVkdXgtdG9vbGtpdC5qcy5vcmcvIiovfQogICAgICAgICAgICB7Lyp0YXJnZXQ9Il9ibGFuayIqL30KICAgICAgICAgICAgey8qcmVsPSJub29wZW5lciBub3JlZmVycmVyIiovfQogICAgICAgICAgey8qPiovfQogICAgICAgICAgICB7LypSZWR1eCBUb29sa2l0Ki99CiAgICAgICAgICB7Lyo8L2E+Ki99CiAgICAgICAgICB7LyosPHNwYW4+IGFuZCA8L3NwYW4+Ki99CiAgICAgICAgICB7Lyo8YSovfQogICAgICAgICAgICB7LypjbGFzc05hbWU9IkFwcC1saW5rIiovfQogICAgICAgICAgICB7LypocmVmPSJodHRwczovL3JlYWN0LXJlZHV4LmpzLm9yZy8iKi99CiAgICAgICAgICAgIHsvKnRhcmdldD0iX2JsYW5rIiovfQogICAgICAgICAgICB7LypyZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiKi99CiAgICAgICAgICB7Lyo+Ki99CiAgICAgICAgICAgIHsvKlJlYWN0IFJlZHV4Ki99CiAgICAgICAgICB7Lyo8L2E+Ki99CiAgICAgICAgey8qPC9zcGFuPiovfQogICAgICB7Lyo8L2hlYWRlcj4qL30K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVzZXJQcm9maWxlID0gdXNlU2VsZWN0b3Ioc2VsZWN0VXNlclByb2ZpbGUpOwogICAgY29uc3QgZGlzcGF0Y2ggPSB1c2VEaXNwYXRjaDsKCiAgICB1c2VFZmZlY3QoKCkgPT4gewogICAgICAgICAgICBpZiAodXNlclByb2ZpbGUudXNlcm5hbWUgPT09ICIiKSB7CiAgICAgICAgICAgICAgICBkaXNwYXRjaChsb2dpbih7dXNlcm5hbWU6ICcnLCBwYXNzd29yZDogJyd9KSk7CiAgICAgICAgICAgIH0KICAgICAgICB9LCBbXQogICAgKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
