@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>carou</entry>
         <entry>path.join</entry>
         <entry>JSON</entry>
         <entry>json</entry>
@@ -25,6 +24,7 @@
         <entry>res</entry>
         <entry>export</entry>
         <entry>throttle</entry>
+        <entry>match</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -124,11 +124,10 @@
         <mark key="." line="3" column="64" />
         <mark key="^" line="3" column="65" />
       </file>
-      <file name="/wbfile/draft/react-code-repo/src/App.js" timestamp="1614317770850">
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="24" />
-        <mark key="^" line="13" column="24" />
-        <mark key="." line="13" column="23" />
+      <file name="/wbfile/draft/react-code-repo/src/App.js" timestamp="1614325858617">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/wbfile/project/ibot-frontend/src/app/App.js" timestamp="1614244548729">
         <mark key="[" line="42" column="10" />
@@ -141,11 +140,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/wbfile/draft/react-code-repo/src/features/throttledCounter/throttledCounter.js" timestamp="1614320203429">
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="22" column="8" />
-        <mark key="^" line="22" column="8" />
-        <mark key="." line="22" column="7" />
+      <file name="/wbfile/draft/react-code-repo/src/features/throttledCounter/throttledCounter.js" timestamp="1614327180256">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="32" />
+        <mark key="^" line="6" column="33" />
       </file>
       <file name="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" timestamp="1614320238481">
         <mark key="'" line="438" column="17" />
@@ -175,21 +175,24 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/wbfile/draft/react-code-repo/src/features/throttledCounter/throttledCounterSlice.js" timestamp="1614319067259">
-        <mark key="[" line="17" column="32" />
-        <mark key="]" line="17" column="32" />
-        <mark key="." line="17" column="32" />
+      <file name="/wbfile/draft/react-code-repo/src/features/debouncedCounter/DebouncedCounter.js" timestamp="1614327158977">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="19" />
+      </file>
+      <file name="/wbfile/draft/react-code-repo/src/features/throttledCounter/throttledCounterSlice.js" timestamp="1614326108726">
+        <mark key="[" line="16" column="59" />
+        <mark key="]" line="16" column="60" />
+        <mark key="." line="16" column="59" />
+        <mark key="^" line="16" column="60" />
       </file>
       <file name="/wbfile/project/ibot-frontend/src/features/Login/Login.js" timestamp="1614240992611">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="46" />
       </file>
-      <file name="/wbfile/draft/user-endpoint-nodejs/routes/user.js" timestamp="1614231663282">
-        <mark key="'" line="110" column="35" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="39" filename="/wbfile/project/ibot-backend/routes/signup.js" />
       <jump line="71" column="27" filename="/wbfile/project/ibot-backend/routes/signup.js" />
       <jump line="72" column="39" filename="/wbfile/project/ibot-backend/routes/signup.js" />
       <jump line="77" column="57" filename="/wbfile/project/ibot-backend/routes/signup.js" />
@@ -289,48 +292,49 @@
       <jump line="253" column="13" filename="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" />
       <jump line="95" column="64" filename="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" />
       <jump line="438" column="17" filename="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" />
+      <jump line="17" column="0" filename="/wbfile/draft/react-code-repo/src/features/throttledCounter/throttledCounter.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>, trailing: true</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>, trailing: true</text>
       </register>
       <register name="/" type="4">
-        <text>throttle</text>
+        <text>match</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGRlYm91bmNlZENvdW50ZXJSZWR1Y2VyIGZyb20gIi4uL2ZlYXR1cmVzL2RlYm91bmNlVGhyb3R0bGUvZGVib3VuY2VkQ291bnRlclNsaWNlIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtoYXNFeHBlY3RlZFJlcXVlc3RNZXRhZGF0YX0gZnJvbSAiQHJlZHV4anMvdG9vbGtpdC9zcmMvbWF0Y2hlcnMiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7CmltcG9ydCB7IENvdW50ZXIgfSBmcm9tICcuL2ZlYXR1cmVzL2NvdW50ZXIvQ291bnRlcic7Cg==</text>
+        <text encoding="base64">aW1wCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGhhbmRsZVN1Ym1pdCA9IChlKSA9PiB7CiAgICAgICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgICAgIHRocm90dGxlZERpc3BhdGNoKHZhbHVlKTsKICAgIH07Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ291bnRlciB9IGZyb20gJy4vZmVhdHVyZXMvY291bnRlci9Db3VudGVyJzsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRocm90dGxlZERpc3BhdGNoID0gdXNlQ2FsbGJhY2sodGhyb3R0bGUoKHZhbHVlKSA9PiB7CiAgICAgICAgZGlzcGF0Y2goaW5jcmVtZW50KHZhbHVlKSkKICAgIH0sIDEwMDApLCBbXSk7Cgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgey8qPGhlYWRlciBjbGFzc05hbWU9IkFwcC1oZWFkZXIiPiovfQogICAgICAgIHsvKjxpbWcgc3JjPXtsb2dvfSBjbGFzc05hbWU9IkFwcC1sb2dvIiBhbHQ9ImxvZ28iIC8+Ki99CiAgICAgICAgey8qPENvdW50ZXIgLz4qL30KICAgICAgICB7Lyo8cD4qL30KICAgICAgICAgIHsvKkVkaXQgPGNvZGU+c3JjL0FwcC5qczwvY29kZT4gYW5kIHNhdmUgdG8gcmVsb2FkLiovfQogICAgICAgIHsvKjwvcD4qL30KICAgICAgICB7Lyo8c3Bhbj4qL30KICAgICAgICAgIHsvKjxzcGFuPkxlYXJuIDwvc3Bhbj4qL30KICAgICAgICAgIHsvKjxhKi99CiAgICAgICAgICAgIHsvKmNsYXNzTmFtZT0iQXBwLWxpbmsiKi99CiAgICAgICAgICAgIHsvKmhyZWY9Imh0dHBzOi8vcmVhY3Rqcy5vcmcvIiovfQogICAgICAgICAgICB7Lyp0YXJnZXQ9Il9ibGFuayIqL30KICAgICAgICAgICAgey8qcmVsPSJub29wZW5lciBub3JlZmVycmVyIiovfQogICAgICAgICAgey8qPiovfQogICAgICAgICAgICB7LypSZWFjdCovfQogICAgICAgICAgey8qPC9hPiovfQogICAgICAgICAgey8qPHNwYW4+LCA8L3NwYW4+Ki99CiAgICAgICAgICB7Lyo8YSovfQogICAgICAgICAgICB7LypjbGFzc05hbWU9IkFwcC1saW5rIiovfQogICAgICAgICAgICB7LypocmVmPSJodHRwczovL3JlZHV4LmpzLm9yZy8iKi99CiAgICAgICAgICAgIHsvKnRhcmdldD0iX2JsYW5rIiovfQogICAgICAgICAgICB7LypyZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiKi99CiAgICAgICAgICB7Lyo+Ki99CiAgICAgICAgICAgIHsvKlJlZHV4Ki99CiAgICAgICAgICB7Lyo8L2E+Ki99CiAgICAgICAgICB7Lyo8c3Bhbj4sIDwvc3Bhbj4qL30KICAgICAgICAgIHsvKjxhKi99CiAgICAgICAgICAgIHsvKmNsYXNzTmFtZT0iQXBwLWxpbmsiKi99CiAgICAgICAgICAgIHsvKmhyZWY9Imh0dHBzOi8vcmVkdXgtdG9vbGtpdC5qcy5vcmcvIiovfQogICAgICAgICAgICB7Lyp0YXJnZXQ9Il9ibGFuayIqL30KICAgICAgICAgICAgey8qcmVsPSJub29wZW5lciBub3JlZmVycmVyIiovfQogICAgICAgICAgey8qPiovfQogICAgICAgICAgICB7LypSZWR1eCBUb29sa2l0Ki99CiAgICAgICAgICB7Lyo8L2E+Ki99CiAgICAgICAgICB7LyosPHNwYW4+IGFuZCA8L3NwYW4+Ki99CiAgICAgICAgICB7Lyo8YSovfQogICAgICAgICAgICB7LypjbGFzc05hbWU9IkFwcC1saW5rIiovfQogICAgICAgICAgICB7LypocmVmPSJodHRwczovL3JlYWN0LXJlZHV4LmpzLm9yZy8iKi99CiAgICAgICAgICAgIHsvKnRhcmdldD0iX2JsYW5rIiovfQogICAgICAgICAgICB7LypyZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiKi99CiAgICAgICAgICB7Lyo+Ki99CiAgICAgICAgICAgIHsvKlJlYWN0IFJlZHV4Ki99CiAgICAgICAgICB7Lyo8L2E+Ki99CiAgICAgICAgey8qPC9zcGFuPiovfQogICAgICB7Lyo8L2hlYWRlcj4qL30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLCAxMDAwCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -339,9 +343,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>throttle</last-search>
+      <last-search>match</last-search>
       <last-offset />
-      <last-pattern>throttle</last-pattern>
+      <last-pattern>match</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
