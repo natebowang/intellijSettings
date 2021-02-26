@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>hover</entry>
-        <entry>test</entry>
         <entry>carou</entry>
         <entry>path.join</entry>
         <entry>JSON</entry>
@@ -25,6 +23,8 @@
         <entry>parents</entry>
         <entry>parent</entry>
         <entry>res</entry>
+        <entry>export</entry>
+        <entry>throttle</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -136,28 +136,19 @@
         <mark key="^" line="42" column="15" />
         <mark key="." line="42" column="14" />
       </file>
-      <file name="/wbfile/draft/user-endpoint-nodejs/routes/blog.js" timestamp="1614231020557">
-        <mark key="'" line="48" column="19" />
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="19" />
-        <mark key="^" line="11" column="20" />
-      </file>
       <file name="/wbfile/project/ibot-frontend/src/components/NavBar/NavBar.js" timestamp="1614244420324">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/wbfile/draft/react-code-repo/src/features/throttledCounter/throttledCounter.js" timestamp="1614319043249">
-        <mark key="[" line="2" column="53" />
-        <mark key="]" line="2" column="32" />
-        <mark key="^" line="2" column="32" />
-        <mark key="." line="2" column="31" />
+      <file name="/wbfile/draft/react-code-repo/src/features/throttledCounter/throttledCounter.js" timestamp="1614320203429">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="8" />
+        <mark key="^" line="22" column="8" />
+        <mark key="." line="22" column="7" />
       </file>
-      <file name="/wbfile/draft/kotlin-spring-boot-data-rest/src/main/kotlin/io/mikael/app/app.kt" timestamp="1614208828504">
-        <mark key="]" line="35" column="46" />
-        <mark key="." line="35" column="45" />
-        <mark key="^" line="35" column="46" />
+      <file name="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" timestamp="1614320238481">
+        <mark key="'" line="438" column="17" />
       </file>
       <file name="/wbfile/draft/react-code-repo/src/features/throttledCounter/throttleCounter.js" timestamp="1614318668884">
         <mark key="[" line="2" column="0" />
@@ -193,32 +184,11 @@
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="46" />
       </file>
-      <file name="/wbfile/draft/kotlin-spring-boot-data-rest/pom.xml" timestamp="1614206632023">
-        <mark key="[" line="94" column="21" />
-      </file>
       <file name="/wbfile/draft/user-endpoint-nodejs/routes/user.js" timestamp="1614231663282">
         <mark key="'" line="110" column="35" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="8" filename="/wbfile/project/ibot-backend/docs/dataDictionary.md" />
-      <jump line="126" column="0" filename="/wbfile/project/ibot-backend/node_modules/body-parser/index.js" />
-      <jump line="40" column="3" filename="/wbfile/project/ibot-backend/node_modules/body-parser/index.js" />
-      <jump line="90" column="11" filename="/wbfile/project/ibot-backend/node_modules/express/lib/express.js" />
-      <jump line="68" column="3" filename="/wbfile/project/ibot-backend/node_modules/body-parser/index.js" />
-      <jump line="84" column="32" filename="/wbfile/project/ibot-backend/node_modules/body-parser/index.js" />
-      <jump line="105" column="22" filename="/wbfile/project/ibot-backend/node_modules/body-parser/index.js" />
-      <jump line="108" column="5" filename="/wbfile/project/ibot-backend/node_modules/body-parser/index.js" />
-      <jump line="51" column="19" filename="/wbfile/project/ibot-backend/db/ibot_postgres.sql" />
-      <jump line="51" column="63" filename="/wbfile/project/ibot-backend/routes/signup.js" />
-      <jump line="29" column="4" filename="/wbfile/project/ibot-backend/routes/signup.js" />
-      <jump line="145" column="0" filename="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" />
-      <jump line="16" column="11" filename="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" />
-      <jump line="27" column="14" filename="/wbfile/project/ibot-frontend/src/store/userSlice.js" />
-      <jump line="18" column="32" filename="/wbfile/project/ibot-backend/routes/signup.js" />
-      <jump line="27" column="8" filename="/wbfile/project/ibot-backend/routes/signup.js" />
-      <jump line="28" column="8" filename="/wbfile/project/ibot-backend/routes/signup.js" />
-      <jump line="67" column="27" filename="/wbfile/project/ibot-backend/routes/signup.js" />
       <jump line="68" column="39" filename="/wbfile/project/ibot-backend/routes/signup.js" />
       <jump line="71" column="27" filename="/wbfile/project/ibot-backend/routes/signup.js" />
       <jump line="72" column="39" filename="/wbfile/project/ibot-backend/routes/signup.js" />
@@ -301,6 +271,24 @@
       <jump line="110" column="35" filename="/wbfile/draft/user-endpoint-nodejs/routes/user.js" />
       <jump line="38" column="0" filename="/wbfile/draft/react-code-repo/src/features/counter/CounterWraper.js" />
       <jump line="52" column="18" filename="/wbfile/draft/react-code-repo/src/features/counter/CounterWrapper.js" />
+      <jump line="4" column="0" filename="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" />
+      <jump line="437" column="0" filename="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" />
+      <jump line="287" column="33" filename="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" />
+      <jump line="290" column="21" filename="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" />
+      <jump line="291" column="31" filename="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" />
+      <jump line="293" column="26" filename="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" />
+      <jump line="294" column="33" filename="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" />
+      <jump line="296" column="9" filename="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" />
+      <jump line="283" column="39" filename="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" />
+      <jump line="277" column="58" filename="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" />
+      <jump line="276" column="42" filename="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" />
+      <jump line="270" column="47" filename="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" />
+      <jump line="263" column="59" filename="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" />
+      <jump line="259" column="3" filename="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" />
+      <jump line="254" column="34" filename="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" />
+      <jump line="253" column="13" filename="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" />
+      <jump line="95" column="64" filename="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" />
+      <jump line="438" column="17" filename="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,7 +300,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>res</text>
+        <text>throttle</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGRlYm91bmNlZENvdW50ZXJSZWR1Y2VyIGZyb20gIi4uL2ZlYXR1cmVzL2RlYm91bmNlVGhyb3R0bGUvZGVib3VuY2VkQ291bnRlclNsaWNlIjsK</text>
@@ -351,9 +339,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>res</last-search>
+      <last-search>throttle</last-search>
       <last-offset />
-      <last-pattern>res</last-pattern>
+      <last-pattern>throttle</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
