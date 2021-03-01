@@ -103,32 +103,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1614317613385">
-        <mark key="[" line="0" column="10" />
-      </file>
-      <file name="/wbfile/draft/react-code-repo/src/features/throttledCounter/throttleCounterSlice.js" timestamp="1614318897803">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="19" column="44" />
-        <mark key="." line="19" column="43" />
-        <mark key="^" line="19" column="44" />
-      </file>
-      <file name="/wbfile/draft/react-code-repo/src/app/store.js" timestamp="1614318993900">
-        <mark key="[" line="3" column="58" />
-        <mark key="]" line="3" column="65" />
-        <mark key="." line="3" column="64" />
-        <mark key="^" line="3" column="65" />
-      </file>
-      <file name="/wbfile/draft/react-code-repo/src/App.js" timestamp="1614325858617">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="/wbfile/project/ibot-frontend/src/app/App.js" timestamp="1614244548729">
-        <mark key="[" line="42" column="10" />
-        <mark key="]" line="42" column="15" />
-        <mark key="^" line="42" column="15" />
-        <mark key="." line="42" column="14" />
-      </file>
+      <file name="/wbfile/draft/jacsite/pages/index.tsx" timestamp="1614573367155" />
       <file name="/wbfile/project/ibot-frontend/src/components/NavBar/NavBar.js" timestamp="1614244420324">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -140,6 +115,16 @@
         <mark key="]" line="6" column="33" />
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="33" />
+      </file>
+      <file name="/wbfile/draft/jacsite/pages/_app.tsx" timestamp="1614573358306" />
+      <file name="/a.dummy" timestamp="1614317613385">
+        <mark key="[" line="0" column="10" />
+      </file>
+      <file name="/wbfile/draft/react-code-repo/src/features/throttledCounter/throttleCounterSlice.js" timestamp="1614318897803">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="19" column="44" />
+        <mark key="." line="19" column="43" />
+        <mark key="^" line="19" column="44" />
       </file>
       <file name="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" timestamp="1614320238481">
         <mark key="'" line="438" column="17" />
@@ -181,10 +166,28 @@
         <mark key="." line="16" column="59" />
         <mark key="^" line="16" column="60" />
       </file>
+      <file name="/wbfile/draft/react-code-repo/src/app/store.js" timestamp="1614318993900">
+        <mark key="[" line="3" column="58" />
+        <mark key="]" line="3" column="65" />
+        <mark key="." line="3" column="64" />
+        <mark key="^" line="3" column="65" />
+      </file>
       <file name="/wbfile/project/ibot-frontend/src/features/Login/Login.js" timestamp="1614240992611">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="46" />
       </file>
+      <file name="/wbfile/draft/react-code-repo/src/App.js" timestamp="1614325858617">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/wbfile/project/ibot-frontend/src/app/App.js" timestamp="1614244548729">
+        <mark key="[" line="42" column="10" />
+        <mark key="]" line="42" column="15" />
+        <mark key="^" line="42" column="15" />
+        <mark key="." line="42" column="14" />
+      </file>
+      <file name="/wbfile/draft/jacsite/components/Cover/index.tsx" timestamp="1614573657458" />
     </filemarks>
     <jumps>
       <jump line="71" column="27" filename="/wbfile/project/ibot-backend/routes/signup.js" />
