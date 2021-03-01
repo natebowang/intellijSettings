@@ -103,6 +103,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/wbfile/project/ibot-backend/routes/login.js" timestamp="1614622994945" />
       <file name="/wbfile/draft/jacsite/pages/index.tsx" timestamp="1614576964316">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="23" column="0" />
@@ -120,7 +121,6 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="/wbfile/draft/jacsite/pages/_app.tsx" timestamp="1614573358306" />
       <file name="/a.dummy" timestamp="1614317613385">
         <mark key="[" line="0" column="10" />
       </file>
@@ -191,7 +191,6 @@
         <mark key="^" line="42" column="15" />
         <mark key="." line="42" column="14" />
       </file>
-      <file name="/wbfile/draft/jacsite/components/Cover/index.tsx" timestamp="1614573657458" />
     </filemarks>
     <jumps>
       <jump line="71" column="27" filename="/wbfile/project/ibot-backend/routes/signup.js" />
