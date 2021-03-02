@@ -186,11 +186,13 @@
         <mark key="." line="16" column="59" />
         <mark key="^" line="16" column="60" />
       </file>
-      <file name="/wbfile/project/ibot-backend/Model/User.js" timestamp="1614647941774">
-        <mark key="[" line="1" column="51" />
-        <mark key="]" line="3" column="27" />
-        <mark key="." line="3" column="26" />
+      <file name="/wbfile/project/ibot-backend/Model/User.js" timestamp="1614648751119">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
         <mark key="^" line="3" column="27" />
+        <mark key="n" line="7" column="0" />
       </file>
       <file name="/wbfile/draft/react-code-repo/src/app/store.js" timestamp="1614318993900">
         <mark key="[" line="3" column="58" />
@@ -215,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="16" filename="/wbfile/project/ibot-backend/routes/signup.js" />
       <jump line="35" column="37" filename="/wbfile/project/ibot-backend/routes/signup.js" />
       <jump line="5" column="0" filename="/wbfile/project/ibot-backend/routes/login.test.js" />
       <jump line="117" column="0" filename="/wbfile/project/ibot-backend/routes/login.test.js" />
@@ -315,12 +316,13 @@
       <jump line="55" column="42" filename="/wbfile/project/ibot-backend/routes/login.js" />
       <jump line="56" column="19" filename="/wbfile/project/ibot-backend/routes/login.js" />
       <jump line="57" column="100" filename="/wbfile/project/ibot-backend/routes/login.js" />
+      <jump line="23" column="0" filename="/wbfile/project/ibot-backend/Model/User.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text encoding="base64">cGFzc3dvcmQ6IERhdGFUeXBlcy5TVFJJTkcsCiAgICBsb2dpbl9tZXRob2RfaWQ6IERhdGFUeXBlcy5JTlRFR0VSLAogICAgZW1haWw6IERhdGFUeXBlcy5TVFJJTkcsCiAgICB1c2VyX3N0YXRlOiBEYXRhVHlwZXMuSU5URUdFUiwKICAgIH0KLCB7c2VxdWVsaXplLCBtb2RlbE5hbWU6ICd1c2VyJ30pOwovLwovLyAoYXN5bmMgKCk9PnsKLy8gICAgIHRyeSB7Ci8vICAgICAgICAgYXdhaXQgc2VxdWVsaXplLmF1dGhlbnRpY2F0ZSgpOwovLyAgICAgICAgIGNvbnNvbGUubG9nKCdDb25uZWN0aW9uIGhhcyBiZWVuIGVzdGFibGlzaGVkIHN1Y2Nlc3NmdWxseS4nKTsKLy8gICAgIH0gY2F0Y2ggKGVycm9yKSB7Ci8vICAgICAgICAgY29uc29sZS5lcnJvcignVW5hYmxlIHRvIGNvbm5lY3QgdG8gdGhlIGRhdGFiYXNlOicsIGVycm9yKTsKLy8gICAgIH0KLy8gfSkoKTsKCg==</text>
       </register>
       <register name="-" type="4">
         <text>localhost</text>
@@ -331,13 +333,16 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXJuYW1lKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">cGFzc3dvcmQ6IERhdGFUeXBlcy5TVFJJTkcsCiAgICBsb2dpbl9tZXRob2RfaWQ6IERhdGFUeXBlcy5JTlRFR0VSLAogICAgZW1haWw6IERhdGFUeXBlcy5TVFJJTkcsCiAgICB1c2VyX3N0YXRlOiBEYXRhVHlwZXMuSU5URUdFUiwKICAgIH0KLCB7c2VxdWVsaXplLCBtb2RlbE5hbWU6ICd1c2VyJ30pOwovLwovLyAoYXN5bmMgKCk9PnsKLy8gICAgIHRyeSB7Ci8vICAgICAgICAgYXdhaXQgc2VxdWVsaXplLmF1dGhlbnRpY2F0ZSgpOwovLyAgICAgICAgIGNvbnNvbGUubG9nKCdDb25uZWN0aW9uIGhhcyBiZWVuIGVzdGFibGlzaGVkIHN1Y2Nlc3NmdWxseS4nKTsKLy8gICAgIH0gY2F0Y2ggKGVycm9yKSB7Ci8vICAgICAgICAgY29uc29sZS5lcnJvcignVW5hYmxlIHRvIGNvbm5lY3QgdG8gdGhlIGRhdGFiYXNlOicsIGVycm9yKTsKLy8gICAgIH0KLy8gfSkoKTsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text>try {
     await sequelize.authenticate();
     console.log('Connection has been established successfully.');
@@ -345,23 +350,20 @@
     console.error('Unable to connect to the database:', error);
 }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVxLnNlc3Npb24uaWQpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgY3J5cHRvID0gcmVxdWlyZSgnY3J5cHRvJyk7Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">CmNvbnN0IGhhc2hSb3VuZCA9IDEwOwo=</text>
+        <text encoding="base64">Y29uc3QgY3J5cHRvID0gcmVxdWlyZSgnY3J5cHRvJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgY3J5cHRvID0gcmVxdWlyZSgnY3J5cHRvJyk7Cg==</text>
+        <text encoding="base64">CmNvbnN0IGhhc2hSb3VuZCA9IDEwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpZlBhc3N3b3JkQ29ycmVjdCk7Cg==</text>
+        <text encoding="base64">Y29uc3QgY3J5cHRvID0gcmVxdWlyZSgnY3J5cHRvJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
