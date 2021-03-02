@@ -115,7 +115,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1614645453451">
+      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1614646880033">
         <mark key="'" line="31" column="10" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -171,6 +171,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/wbfile/project/ibot-backend/Entity/User.js" timestamp="1614646757049">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/wbfile/draft/react-code-repo/src/features/debouncedCounter/DebouncedCounter.js" timestamp="1614327158977">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="12" column="20" />
@@ -182,6 +185,12 @@
         <mark key="]" line="16" column="60" />
         <mark key="." line="16" column="59" />
         <mark key="^" line="16" column="60" />
+      </file>
+      <file name="/wbfile/project/ibot-backend/Model/User.js" timestamp="1614647077482">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="11" column="30" />
+        <mark key="." line="11" column="29" />
+        <mark key="^" line="11" column="30" />
       </file>
       <file name="/wbfile/draft/react-code-repo/src/app/store.js" timestamp="1614318993900">
         <mark key="[" line="3" column="58" />
