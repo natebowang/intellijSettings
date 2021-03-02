@@ -115,12 +115,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1614646880033">
+      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1614647511351">
         <mark key="'" line="31" column="10" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="45" column="44" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+        <mark key="." line="7" column="37" />
       </file>
       <file name="/wbfile/project/ibot-frontend/src/components/NavBar/NavBar.js" timestamp="1614244420324">
         <mark key="[" line="15" column="0" />
@@ -186,11 +186,11 @@
         <mark key="." line="16" column="59" />
         <mark key="^" line="16" column="60" />
       </file>
-      <file name="/wbfile/project/ibot-backend/Model/User.js" timestamp="1614647077482">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="11" column="30" />
-        <mark key="." line="11" column="29" />
-        <mark key="^" line="11" column="30" />
+      <file name="/wbfile/project/ibot-backend/Model/User.js" timestamp="1614647941774">
+        <mark key="[" line="1" column="51" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="27" />
       </file>
       <file name="/wbfile/draft/react-code-repo/src/app/store.js" timestamp="1614318993900">
         <mark key="[" line="3" column="58" />
@@ -319,11 +319,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVxLnNlc3Npb24uaWQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>username</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -332,31 +332,36 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXJuYW1lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVxLnNlc3Npb24uaWQpCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgY3J5cHRvID0gcmVxdWlyZSgnY3J5cHRvJyk7Cg==</text>
+        <text>try {
+    await sequelize.authenticate();
+    console.log('Connection has been established successfully.');
+} catch (error) {
+    console.error('Unable to connect to the database:', error);
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmNvbnN0IGhhc2hSb3VuZCA9IDEwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVxLnNlc3Npb24uaWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgY3J5cHRvID0gcmVxdWlyZSgnY3J5cHRvJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpZlBhc3N3b3JkQ29ycmVjdCk7Cg==</text>
+        <text encoding="base64">Y29uc3QgY3J5cHRvID0gcmVxdWlyZSgnY3J5cHRvJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBwYXNzd29yZFNoYSA9IHNoYS51cGRhdGUocGFzc3dvcmQgKyBzYWx0KS5kaWdlc3QoJ2hleCcpOwogICAgICAgIC8vIENvcnJlY3QgcGFzc3dvcmQK</text>
+        <text encoding="base64">CmNvbnN0IGhhc2hSb3VuZCA9IDEwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBzaGEgPSBjcnlwdG8uY3JlYXRlSGFzaCgnc2hhMjU2Jyk7CiAgICAgICAgLy8gY29uc3Qgc2FsdCA9IHJlc3VsdC5yb3dzWzBdLnNhbHQ7Cg==</text>
+        <text encoding="base64">Y29uc3QgY3J5cHRvID0gcmVxdWlyZSgnY3J5cHRvJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXJuYW1lKTsKICAgIGNvbnNvbGUubG9nKHBhc3N3b3JkKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpZlBhc3N3b3JkQ29ycmVjdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
