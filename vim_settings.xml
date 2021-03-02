@@ -103,17 +103,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/wbfile/project/ibot-backend/routes/login.js" timestamp="1614643378619">
+        <mark key="'" line="37" column="23" />
+      </file>
       <file name="/wbfile/draft/jacsite/pages/index.tsx" timestamp="1614576964316">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1614642774122">
+      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1614642833714">
         <mark key="'" line="33" column="10" />
         <mark key="[" line="58" column="27" />
-        <mark key="]" line="46" column="40" />
-        <mark key="^" line="48" column="43" />
-        <mark key="." line="46" column="40" />
+        <mark key="]" line="47" column="44" />
+        <mark key="^" line="47" column="44" />
+        <mark key="." line="47" column="43" />
       </file>
       <file name="/wbfile/project/ibot-frontend/src/components/NavBar/NavBar.js" timestamp="1614244420324">
         <mark key="[" line="15" column="0" />
@@ -199,7 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="0" filename="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" />
       <jump line="167" column="30" filename="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" />
       <jump line="18" column="8" filename="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" />
       <jump line="80" column="27" filename="/wbfile/project/ibot-frontend/src/features/Home/ClassesSection/ClassSection.js" />
@@ -299,6 +301,7 @@
       <jump line="22" column="43" filename="/wbfile/project/ibot-backend/routes/signup.js" />
       <jump line="28" column="30" filename="/wbfile/project/ibot-backend/routes/signup.js" />
       <jump line="33" column="10" filename="/wbfile/project/ibot-backend/routes/signup.js" />
+      <jump line="37" column="23" filename="/wbfile/project/ibot-backend/routes/login.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
