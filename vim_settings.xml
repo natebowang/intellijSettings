@@ -109,10 +109,51 @@
         <mark key="." line="70" column="24" />
         <mark key="^" line="56" column="71" />
       </file>
+      <file name="/wbfile/project/ibot-backend/auth/AuthController.js" timestamp="1614718356894">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="/wbfile/draft/jacsite/pages/index.tsx" timestamp="1614576964316">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="/wbfile/draft/react-code-repo/src/features/throttledCounter/throttleCounterSlice.js" timestamp="1614318897803">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="19" column="44" />
+        <mark key="." line="19" column="43" />
+        <mark key="^" line="19" column="44" />
+      </file>
+      <file name="/wbfile/project/ibot-backend/secret.js" timestamp="1614718342639">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="2" />
+        <mark key="^" line="4" column="2" />
+        <mark key="." line="4" column="1" />
+      </file>
+      <file name="/wbfile/project/ibot-backend/model/User.js" timestamp="1614716198651">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="11" />
+        <mark key="^" line="1" column="12" />
+      </file>
+      <file name="/wbfile/project/ibot-backend/db/connection.js" timestamp="1614716122106">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="33" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="17" column="33" />
+      </file>
+      <file name="/wbfile/draft/react-code-repo/src/app/store.js" timestamp="1614318993900">
+        <mark key="[" line="3" column="58" />
+        <mark key="]" line="3" column="65" />
+        <mark key="." line="3" column="64" />
+        <mark key="^" line="3" column="65" />
+      </file>
+      <file name="/wbfile/draft/react-code-repo/src/App.js" timestamp="1614325858617">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1614671984151">
         <mark key="'" line="32" column="10" />
@@ -126,15 +167,6 @@
         <mark key="]" line="6" column="33" />
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="33" />
-      </file>
-      <file name="/a.dummy" timestamp="1614317613385">
-        <mark key="[" line="0" column="10" />
-      </file>
-      <file name="/wbfile/draft/react-code-repo/src/features/throttledCounter/throttleCounterSlice.js" timestamp="1614318897803">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="19" column="44" />
-        <mark key="." line="19" column="43" />
-        <mark key="^" line="19" column="44" />
       </file>
       <file name="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" timestamp="1614320238481">
         <mark key="'" line="438" column="17" />
@@ -152,23 +184,11 @@
         <mark key="." line="12" column="17" />
         <mark key="^" line="12" column="18" />
       </file>
-      <file name="/wbfile/project/ibot-backend/model/User.js" timestamp="1614716198651">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="11" />
-        <mark key="^" line="1" column="12" />
-      </file>
-      <file name="/wbfile/project/ibot-backend/app.js" timestamp="1614244616761">
+      <file name="/wbfile/project/ibot-backend/app.js" timestamp="1614718151911">
         <mark key="[" line="38" column="13" />
         <mark key="]" line="38" column="18" />
         <mark key="^" line="38" column="18" />
         <mark key="." line="38" column="17" />
-      </file>
-      <file name="/wbfile/draft/react-code-repo/src/features/counter/CounterWraper.js" timestamp="1614317588946">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="/wbfile/project/ibot-backend/Entity/User.js" timestamp="1614646757049">
         <mark key="[" line="0" column="0" />
@@ -193,23 +213,7 @@
         <mark key="^" line="9" column="46" />
         <mark key="n" line="8" column="0" />
       </file>
-      <file name="/wbfile/project/ibot-backend/db/connection.js" timestamp="1614716122106">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="33" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="17" column="33" />
-      </file>
-      <file name="/wbfile/draft/react-code-repo/src/app/store.js" timestamp="1614318993900">
-        <mark key="[" line="3" column="58" />
-        <mark key="]" line="3" column="65" />
-        <mark key="." line="3" column="64" />
-        <mark key="^" line="3" column="65" />
-      </file>
-      <file name="/wbfile/draft/react-code-repo/src/App.js" timestamp="1614325858617">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
+      <file name="/wbfile/draft/nodejs-restful-api/user/UserController.js" timestamp="1614718009868" />
     </filemarks>
     <jumps>
       <jump line="35" column="37" filename="/wbfile/project/ibot-backend/routes/signup.js" />
@@ -316,8 +320,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">U2VxdWVsaXplLCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">U2VxdWVsaXplLCA=</text>
@@ -329,31 +333,31 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VxdWVsaXplOiBzZXF1ZWxpemUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gY29uc3Qgc2VxdWVsaXplID0gbmV3IFNlcXVlbGl6ZSgncG9zdGdyZXM6Ly93YW5nYm9AbG9jYWxob3N0OjU0MzIvaWJvdCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc3Qgc2VxdWVsaXplID0gbmV3IFNlcXVlbGl6ZSgncG9zdGdyZXM6Ly93YW5nYm9AbG9jYWxob3N0OjU0MzIvaWJvdCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7c2VxdWVsaXplfTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7c2VxdWVsaXplfTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgc2VxdWVsaXplID0gbmV3IFNlcXVlbGl6ZSgncG9zdGdyZXM6Ly93YW5nYm9AbG9jYWxob3N0OjU0MzIvaWJvdCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgc2VxdWVsaXplID0gbmV3IFNlcXVlbGl6ZSgncG9zdGdyZXM6Ly93YW5nYm9AbG9jYWxob3N0OjU0MzIvaWJvdCcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qge1NlcXVlbGl6ZX0gPSByZXF1aXJlKCJzZXF1ZWxpemUiKTsKY29uc3Qgc2VxdWVsaXplID0gbmV3IFNlcXVlbGl6ZSgncG9zdGdyZXM6Ly93YW5nYm9AbG9jYWxob3N0OjU0MzIvaWJvdCcpOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qge1NlcXVlbGl6ZX0gPSByZXF1aXJlKCJzZXF1ZWxpemUiKTsKY29uc3Qgc2VxdWVsaXplID0gbmV3IFNlcXVlbGl6ZSgncG9zdGdyZXM6Ly93YW5nYm9AbG9jYWxob3N0OjU0MzIvaWJvdCcpOwoK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
