@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>path.join</entry>
         <entry>JSON</entry>
         <entry>json</entry>
         <entry>console.log</entry>
@@ -25,6 +24,7 @@
         <entry>export</entry>
         <entry>throttle</entry>
         <entry>match</entry>
+        <entry>password</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -108,11 +108,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1614639328954">
-        <mark key="[" line="45" column="33" />
-        <mark key="]" line="45" column="50" />
-        <mark key="^" line="45" column="50" />
-        <mark key="." line="45" column="49" />
+      <file name="/wbfile/project/ibot-backend/routes/signup.js" timestamp="1614642774122">
+        <mark key="'" line="33" column="10" />
+        <mark key="[" line="58" column="27" />
+        <mark key="]" line="46" column="40" />
+        <mark key="^" line="48" column="43" />
+        <mark key="." line="46" column="40" />
       </file>
       <file name="/wbfile/project/ibot-frontend/src/components/NavBar/NavBar.js" timestamp="1614244420324">
         <mark key="[" line="15" column="0" />
@@ -198,17 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="27" filename="/wbfile/project/ibot-backend/routes/signup.js" />
-      <jump line="72" column="39" filename="/wbfile/project/ibot-backend/routes/signup.js" />
-      <jump line="77" column="57" filename="/wbfile/project/ibot-backend/routes/signup.js" />
-      <jump line="1" column="34" filename="/wbfile/project/ibot-backend/routes/signup.js" />
-      <jump line="79" column="40" filename="/wbfile/project/ibot-backend/routes/signup.js" />
-      <jump line="74" column="38" filename="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" />
-      <jump line="86" column="45" filename="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" />
-      <jump line="109" column="28" filename="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" />
-      <jump line="97" column="10" filename="/wbfile/project/ibot-frontend/src/store/userSlice.js" />
-      <jump line="57" column="0" filename="/wbfile/project/ibot-frontend/src/store/userSlice.js" />
-      <jump line="80" column="33" filename="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" />
       <jump line="163" column="0" filename="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" />
       <jump line="167" column="30" filename="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" />
       <jump line="18" column="8" filename="/wbfile/project/ibot-frontend/src/features/Signup/Signup.js" />
@@ -219,7 +209,6 @@
       <jump line="53" column="9" filename="/wbfile/project/ibot-frontend/src/features/Home/AwardSection/AwardSection.js" />
       <jump line="20" column="36" filename="/wbfile/project/ibot-backend/routes/login.js" />
       <jump line="21" column="51" filename="/wbfile/project/ibot-backend/routes/login.js" />
-      <jump line="20" column="66" filename="/wbfile/project/ibot-backend/routes/signup.js" />
       <jump line="44" column="16" filename="/wbfile/project/ibot-backend/routes/signup.js" />
       <jump line="58" column="16" filename="/wbfile/project/ibot-backend/routes/signup.js" />
       <jump line="35" column="37" filename="/wbfile/project/ibot-backend/routes/signup.js" />
@@ -298,48 +287,60 @@
       <jump line="95" column="64" filename="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" />
       <jump line="438" column="17" filename="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" />
       <jump line="17" column="0" filename="/wbfile/draft/react-code-repo/src/features/throttledCounter/throttledCounter.js" />
+      <jump line="46" column="40" filename="/wbfile/project/ibot-backend/routes/signup.js" />
+      <jump line="48" column="31" filename="/wbfile/project/ibot-backend/routes/signup.js" />
+      <jump line="71" column="12" filename="/wbfile/project/ibot-backend/routes/signup.js" />
+      <jump line="72" column="70" filename="/wbfile/project/ibot-backend/routes/signup.js" />
+      <jump line="75" column="47" filename="/wbfile/project/ibot-backend/routes/signup.js" />
+      <jump line="6" column="35" filename="/wbfile/project/ibot-backend/routes/signup.js" />
+      <jump line="12" column="4" filename="/wbfile/project/ibot-backend/routes/signup.js" />
+      <jump line="13" column="0" filename="/wbfile/project/ibot-backend/routes/signup.js" />
+      <jump line="20" column="24" filename="/wbfile/project/ibot-backend/routes/signup.js" />
+      <jump line="22" column="43" filename="/wbfile/project/ibot-backend/routes/signup.js" />
+      <jump line="28" column="30" filename="/wbfile/project/ibot-backend/routes/signup.js" />
+      <jump line="33" column="10" filename="/wbfile/project/ibot-backend/routes/signup.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>, trailing: true</text>
+        <text>, salt</text>
       </register>
       <register name="-" type="4">
-        <text>, trailing: true</text>
+        <text>, salt</text>
       </register>
       <register name="/" type="4">
-        <text>match</text>
+        <text>password</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGRlYm91bmNlZENvdW50ZXJSZWR1Y2VyIGZyb20gIi4uL2ZlYXR1cmVzL2RlYm91bmNlVGhyb3R0bGUvZGVib3VuY2VkQ291bnRlclNsaWNlIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcGFzc3dvcmRIYXNoID0gYXdhaXQgYmNyeXB0Lmhhc2gocGFzc3dvcmQsIGhhc2hSb3VuZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtoYXNFeHBlY3RlZFJlcXVlc3RNZXRhZGF0YX0gZnJvbSAiQHJlZHV4anMvdG9vbGtpdC9zcmMvbWF0Y2hlcnMiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qgc2hhID0gY3J5cHRvLmNyZWF0ZUhhc2goJ3NoYTI1NicpOwogICAgICAgICAgICBjb25zdCBzYWx0ID0gY3J5cHRvLnJhbmRvbUJ5dGVzKDQ4KS50b1N0cmluZygnYmFzZTY0Jyk7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGhhbmRsZVN1Ym1pdCA9IChlKSA9PiB7CiAgICAgICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgICAgIHRocm90dGxlZERpc3BhdGNoKHZhbHVlKTsKICAgIH07Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHBhc3N3b3JkU2hhMjU2ID0gc2hhLnVwZGF0ZShwYXNzd29yZCArIHNhbHQpLmRpZ2VzdCgnaGV4Jyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRocm90dGxlZERpc3BhdGNoID0gdXNlQ2FsbGJhY2sodGhyb3R0bGUoKHZhbHVlKSA9PiB7CiAgICAgICAgZGlzcGF0Y2goaW5jcmVtZW50KHZhbHVlKSkKICAgIH0sIDEwMDApLCBbXSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocGFzc3dvcmRIYXNoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocGFzc3dvcmRIYXNoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtoYXNFeHBlY3RlZFJlcXVlc3RNZXRhZGF0YX0gZnJvbSAiQHJlZHV4anMvdG9vbGtpdC9zcmMvbWF0Y2hlcnMiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLCAxMDAwCg==</text>
+        <text encoding="base64">aW1wCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGhhbmRsZVN1Ym1pdCA9IChlKSA9PiB7CiAgICAgICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgICAgIHRocm90dGxlZERpc3BhdGNoKHZhbHVlKTsKICAgIH07Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRocm90dGxlZERpc3BhdGNoID0gdXNlQ2FsbGJhY2sodGhyb3R0bGUoKHZhbHVlKSA9PiB7CiAgICAgICAgZGlzcGF0Y2goaW5jcmVtZW50KHZhbHVlKSkKICAgIH0sIDEwMDApLCBbXSk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -348,9 +349,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>match</last-search>
+      <last-search>password</last-search>
       <last-offset />
-      <last-pattern>match</last-pattern>
+      <last-pattern>password</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
