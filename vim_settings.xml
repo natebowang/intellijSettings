@@ -120,6 +120,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="/wbfile/draft/jacsite/pages/_app.tsx" timestamp="1614728709548" />
       <file name="/wbfile/project/ibot-backend/secret.js" timestamp="1614718342639">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="2" />
@@ -138,12 +139,6 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="17" column="33" />
       </file>
-      <file name="/wbfile/draft/react-code-repo/src/app/store.js" timestamp="1614318993900">
-        <mark key="[" line="3" column="58" />
-        <mark key="]" line="3" column="65" />
-        <mark key="." line="3" column="64" />
-        <mark key="^" line="3" column="65" />
-      </file>
       <file name="/wbfile/draft/react-code-repo/src/App.js" timestamp="1614325858617">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -155,15 +150,16 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="/wbfile/draft/jacsite/components/EmbeddedContent/index.tsx" timestamp="1614729086246">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="27" column="19" />
+      </file>
       <file name="/wbfile/draft/react-code-repo/src/features/throttledCounter/throttledCounter.js" timestamp="1614327180256">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="33" />
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="33" />
-      </file>
-      <file name="/wbfile/draft/react-code-repo/node_modules/lodash.throttle/index.js" timestamp="1614320238481">
-        <mark key="'" line="438" column="17" />
       </file>
       <file name="/wbfile/project/ibot-backend/app.js" timestamp="1614722973791">
         <mark key="[" line="54" column="0" />
@@ -313,7 +309,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IFVzZXIuY3JlYXRlKHsKICAgICAgICAgICAgICAgICAgICB1c2VybmFtZTogdXNlcm5hbWUsCiAgICAgICAgICAgICAgICAgICAgcGFzc3dvcmQ6IHBhc3N3b3JkSGFzaCwKICAgICAgICAgICAgICAgICAgICBsb2dpbl9tZXRob2RfaWQ6IDAsCiAgICAgICAgICAgICAgICAgICAgZW1haWw6IHVzZXJuYW1lLAogICAgICAgICAgICAgICAgICAgIHVzZXJfc3RhdGU6IDAsCiAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgYWxsb3c9e2FsbG93fQogICAgICBjbGFzc05hbWU9e3N0eWxlLmlmcmFtZX0KICAgICAgZnJhbWVCb3JkZXI9e2ZyYW1lQm9yZGVyfQogICAgICBzcmM9e3NyY30KICAgICAgc3R5bGU9e3N0eWxlfQogICAgICB0aXRsZT17dGl0bGV9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>, b</text>
@@ -322,7 +318,7 @@
         <text>password</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IFVzZXIuY3JlYXRlKHsKICAgICAgICAgICAgICAgICAgICB1c2VybmFtZTogdXNlcm5hbWUsCiAgICAgICAgICAgICAgICAgICAgcGFzc3dvcmQ6IHBhc3N3b3JkSGFzaCwKICAgICAgICAgICAgICAgICAgICBsb2dpbl9tZXRob2RfaWQ6IDAsCiAgICAgICAgICAgICAgICAgICAgZW1haWw6IHVzZXJuYW1lLAogICAgICAgICAgICAgICAgICAgIHVzZXJfc3RhdGU6IDAsCiAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgYWxsb3c9e2FsbG93fQogICAgICBjbGFzc05hbWU9e3N0eWxlLmlmcmFtZX0KICAgICAgZnJhbWVCb3JkZXI9e2ZyYW1lQm9yZGVyfQogICAgICBzcmM9e3NyY30KICAgICAgc3R5bGU9e3N0eWxlfQogICAgICB0aXRsZT17dGl0bGV9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGIpOwo=</text>
