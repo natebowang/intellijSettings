@@ -54,6 +54,9 @@
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
   <action id="EditSource" />
   <action id="EditorSelectWord" />
+  <action id="EditorSortLines">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="ExternalSystem.OpenConfig" />
   <action id="FindNext">
@@ -103,9 +106,7 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="alt f" />
-  </action>
+  <action id="ReformatCode" />
   <action id="RemoteHostView.EditSource" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
