@@ -84,8 +84,10 @@
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="GotoLine" />
   <action id="GotoNextError" />
   <action id="GotoNextIncompletePropertyAction" />
+  <action id="GotoRow" />
   <action id="Graph.ApplyCurrentLayout" />
   <action id="Graph.Faces.OpenSelectedPages" />
   <action id="Groovy.Shell.Execute" />
@@ -128,7 +130,7 @@
     <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="alt e" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
