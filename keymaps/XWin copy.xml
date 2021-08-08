@@ -75,6 +75,9 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
+  <action id="Git.Rename.Local.Branch">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
