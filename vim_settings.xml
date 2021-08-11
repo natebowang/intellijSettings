@@ -107,9 +107,6 @@
       <shortcut-conflict owner="vim">
         <text encoding="base64">YWx0IHByZXNzZWQgVVA=</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text encoding="base64">YWx0IHByZXNzZWQgRE9XTg==</text>
-      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
