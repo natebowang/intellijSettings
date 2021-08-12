@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="listCreatorById.ts" type="AUTO_DETECTED" />
       <mapping pattern="types.ts" type="AUTO_DETECTED" />
+      <mapping pattern="past-live-reel.css" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
