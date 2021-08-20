@@ -5,18 +5,18 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="nateCssBreakpoints" value="/* Small 0-599 */&#10;.wrapper {&#10;}&#10;&#10;/* Medium 600-1023 */&#10;/* @media only screen and (min-width: 600px) {} */&#10;&#10;/* Large 1024-1499 */&#10;/* @media only screen and (min-width: 1024px) {} */&#10;&#10;/* Huge 1500-infinite */&#10;/* @media only screen and (min-width: 1500px) {} */&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="nateCssBreakpoints" value="/* Small 0-599 */&#10;.wrapper {&#10;}&#10;&#10;/* Medium 600-1023 */&#10;/* @media only screen and (min-width: 600px) {} */&#10;&#10;/* Large 1024-1499 */&#10;/* @media only screen and (min-width: 1024px) {} */&#10;&#10;/* Huge 1500-infinite */&#10;/* @media only screen and (min-width: 1500px) {} */&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS" value="true" />
     </context>
   </template>
-  <template name="nateStorybookWithProps" value="import { $Component$ } from '.'&#10;import type { Props } from '.'&#10;import type { Meta, Story } from '@storybook/react'&#10;&#10;const meta: Meta = {&#10;  component: $Component$,&#10;  title: __dirname,&#10;}&#10;&#10;const Template: Story&lt;Props&gt; = (args) =&gt; &lt;$Component$ {...args}&gt;Block&lt;/$Component$&gt;&#10;&#10;export const Default = Template.bind({})&#10;Default.args = {}&#10;&#10;export default meta&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="nateStorybookWithProps" value="import { $Component$ } from '.'&#10;import type { Props } from '.'&#10;import type { Meta, Story } from '@storybook/react'&#10;&#10;const meta: Meta = {&#10;  component: $Component$,&#10;  title: __dirname,&#10;}&#10;&#10;const Template: Story&lt;Props&gt; = (args) =&gt; &lt;$Component$ {...args}&gt;Block&lt;/$Component$&gt;&#10;&#10;export const Default = Template.bind({})&#10;Default.args = {}&#10;&#10;export default meta&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="Component" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="nateStorybook" value="import { $Component$ } from '.'&#10;import type { Meta } from '@storybook/react'&#10;&#10;const meta: Meta = {&#10;  component: $Component$,&#10;  title: __dirname,&#10;}&#10;&#10;export const Default = (): JSX.Element =&gt; &lt;$Component$&gt;&lt;/$Component$&gt;&#10;&#10;export default meta&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="nateStorybook" value="import { $Component$ } from '.'&#10;import type { Meta } from '@storybook/react'&#10;&#10;const meta: Meta = {&#10;  component: $Component$,&#10;  title: __dirname,&#10;}&#10;&#10;export const Default = (): JSX.Element =&gt; &lt;$Component$&gt;&lt;/$Component$&gt;&#10;&#10;export default meta&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="Component" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
