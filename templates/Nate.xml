@@ -16,4 +16,10 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="nateStorybook" value="import { $Component$ } from '.'&#10;import type { Meta } from '@storybook/react'&#10;&#10;const meta: Meta = {&#10;  component: $Component$,&#10;  title: __dirname,&#10;}&#10;&#10;export const Default = (): JSX.Element =&gt; &lt;$Component$&gt;&lt;/$Component$&gt;&#10;&#10;export default meta&#10;" toReformat="false" toShortenFQNames="true">
+    <variable name="Component" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
