@@ -5,7 +5,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="nateCssBreakpoints" value="/* Small 0-599 */&#10;.wrapper {&#10;  --iconSrc: 'initializedInJs';&#10;  background-color: green;&#10;}&#10;&#10;.default {&#10;}&#10;&#10;/* Medium 600-1023 */&#10;/* @media only screen and (min-width: 600px) {} */&#10;&#10;/* Large 1024-1499 */&#10;/* @media only screen and (min-width: 1024px) {} */&#10;&#10;/* Huge 1500-infinite */&#10;/* @media only screen and (min-width: 1500px) {} */&#10;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="nateCssBreakpoints" value="/* Small 0-599 */&#10;.wrapper {&#10;  --iconSrc: 'initializedInJs';&#10;  background-color: green;&#10;}&#10;&#10;a.default,&#10;div.default {&#10;}&#10;&#10;/* Medium 600-1023 */&#10;/* @media only screen and (min-width: 600px) {} */&#10;&#10;/* Large 1024-1499 */&#10;/* @media only screen and (min-width: 1024px) {} */&#10;&#10;/* Huge 1500-infinite */&#10;/* @media only screen and (min-width: 1500px) {} */&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS" value="true" />
     </context>
