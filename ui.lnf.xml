@@ -4,4 +4,8 @@
     <option name="UI_COMPACT_EMPTY_MIDDLE_PACKAGES" value="false" />
     <option name="SCOPE_TYPE" value="file" />
   </component>
+  <component name="UISettings">
+    <option name="SHOW_INPLACE_COMMENTS" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
+  </component>
 </application>
