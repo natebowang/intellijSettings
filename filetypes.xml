@@ -3,17 +3,18 @@
     <extensionMap>
       <mapping pattern="listCreatorById.ts" type="AUTO_DETECTED" />
       <mapping pattern="tesadsge" type="AUTO_DETECTED" />
-      <mapping pattern="types.ts" type="AUTO_DETECTED" />
       <mapping pattern="mock-subscription-entity-example.tx" type="AUTO_DETECTED" />
       <mapping pattern="index tsx" type="AUTO_DETECTED" />
       <mapping pattern="past-live-reel.css" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".eslintcache" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="types.ts" type="TypeScript" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping pattern="types.ts" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
