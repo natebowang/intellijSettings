@@ -11,6 +11,7 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".eslintcache" type="PLAIN_TEXT" />
       <mapping ext="lcov" type="PLAIN_TEXT" />
