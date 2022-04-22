@@ -14,6 +14,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".eslintcache" type="PLAIN_TEXT" />
       <mapping ext="lcov" type="PLAIN_TEXT" />
+      <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping pattern="types.ts" type="TypeScript" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
