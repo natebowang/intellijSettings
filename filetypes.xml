@@ -4,6 +4,7 @@
       <mapping pattern="df" type="AUTO_DETECTED" />
       <mapping pattern="listCreatorById.ts" type="AUTO_DETECTED" />
       <mapping pattern="tesadsge" type="AUTO_DETECTED" />
+      <mapping pattern="makefile" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="mock-subscription-entity-example.tx" type="AUTO_DETECTED" />
       <mapping pattern="index tsx" type="AUTO_DETECTED" />
