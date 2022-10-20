@@ -18,6 +18,7 @@
       <mapping ext="lcov" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping pattern="types.ts" type="TypeScript" />
+      <mapping ext="qrc" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern="makefile" approved="true" type="Makefile" />
